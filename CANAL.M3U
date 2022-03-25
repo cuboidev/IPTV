@@ -2,6 +2,158 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 , CINEMAX TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=cinemax&k=SrRegio2022&dos=.m3u8
+
+
+#EXTINF:-1 , EL NUEVE TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=elnueve&k=SrRegio2022&dos=.m3u8
+
+
+#EXTINF:-1 , A MAS TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=amas&k=SrRegio2022&dos=.m3u8
+
+
+#EXTINF:-1 , TBD TV
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+
+#EXTINF:-1 , M2O MUSIC TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+
+#EXTINF:-1 , WOW TV 2
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=wow&k=SrRegio2022&dos=.m3u8
+
+
+#EXTINF:-1 , WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+
+
+#EXTINF:-1 , FIGHT TIME TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=fight&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , TELEMUNDO TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=telemundo&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , GOLTV TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=goltv&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , GALAVISION TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=galavision&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , ESPN 1 TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=espn1-mx&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , CLARO SPORT TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=clarosports&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , BEIN US HD TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=beinhd&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , ADRENALINA TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=adrenalina&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , SPACE TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=space&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , IMAGEN TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=imagentv&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , 5 infantil TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=elcinco&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , LA 2 TV
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+
+#EXTINF:-1 , AND40 TV
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+#EXTINF:-1 , NET TV
+http://regioplay.xyz/php/SR_REGIO_223022_/nettv.php?f=.m3u8
+
+
+#EXTINF:-1 , EL CHAVO TV
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
+
+#EXTINF:-1 , WAPPTV TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=wapptv&f=.m3u8
+
+
+#EXTINF:-1 , HORRORFY TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=horrorfy&f=.m3u8
+
+
+#EXTINF:-1 , EURONEWS ESPAÑOL TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=euronews-spa&f=.m3u8
+
+
+#EXTINF:-1 , SPANGLISH TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=spanglish&f=.m3u8
+
+
+#EXTINF:-1 , CASA COMEDY TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=casa-comedy&f=.m3u8
+
+
+#EXTINF:-1 , FLASH MUSIC TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=flash-1&f=.m3u8
+
+
+#EXTINF:-1 , TU CINE TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=tu-cine-latam&f=.m3u8
+
+
+#EXTINF:-1 , TOP CINE TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=top-cine-latam&f=.
+
+
+#EXTINF:-1 , CGTN ESPAÑA TV
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+
+#EXTINF:-1 , UNOPLAY TV
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+
+
+#EXTINF:-1 , VORTERIX TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
+
+
+#EXTINF:-1 , WTV TV
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+
+#EXTINF:-1 , PLANETA MOVIE TV
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+
+
 #EXTINF:-1 , PROMETEUS
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 
@@ -16,10 +168,6 @@ https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 #EXTINF:-1 , GUARDIANES DE LA GALAXIA lat
 https://goo.gl/sFaEVq
-
-
-#EXTINF:-1 , WOW TV lat
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 
 
 #EXTINF:-1 , LA FORMA DEL AGUA sub
@@ -38,16 +186,16 @@ http://bit.ly/MRAQCSAND
 http://bit.ly/THEMINE
 
 
-#EXTINF:-1 , M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-º1 , VOLVER AL FUTURO lat
+http://regioplay.xyz/php/SR_REGIO_223022_/volver.php?f=.mp4
+
+
+#EXTINF:-º1 , VOLVER AL FUTURO II lat
+http://regioplay.xyz/php/SR_REGIO_223022_/volver2.php?f=.mp4
 
 
 #EXTINF:-º1 , VOLVER AL FUTURO III lat
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-
-
-#EXTINF:-1 , TBD TV
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 
 
 #EXTINF:-1 , RENO 911 sub
@@ -60,6 +208,9 @@ http://144.217.69.162/PELIS_STALKER/Voyagers.2021.SciFi.HDRip.LATINO.mp4
 
 #EXTINF:-1 , VENOM 2 sub
 http://144.217.69.162/PELIS_STALKER/Venom.Let.There.Be.Carnage.SUB.2021.mp4
+
+#EXTINF:-1 , VENOM 2 lat
+http://regioplay.xyz/223022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
 
 
 #EXTINF:-1 , VHS sub
@@ -132,6 +283,10 @@ http://144.217.69.162/PELIS_STALKER/El.contador.de.cartas.2021.Accion.HDRip.LATI
 http://144.217.69.162/PELIS_STALKER/Eternals.2021.Accion.HDRip.LATINO.mkv
 
 
+#EXTINF:-1 , ETERNALS lat
+http://regioplay.xyz/223022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
+
+
 #EXTINF:-1 , CAZAFANTASMAS lat
 http://144.217.69.162/PELIS_STALKER/Ghostbusters.2016.Comedia.BRRip.LATINO.mkv
 
@@ -187,6 +342,9 @@ http://144.217.69.162/PELIS_STALKER/La.herencia.del.Sr.Deeds.2002.Comedia.BRRip.
 #EXTINF:-1 , MATRIX RESURRECCIONES lat
 http://144.217.69.162/PELIS_STALKER/Matrix.Resurrecciones.2021.Accion.HDRip.LATINO.mp4
 
+#EXTINF:-1 , MATRIX RESURRECCIONES lat 2
+http://regioplay.xyz/php/SR_REGIO_223022_/matrix2021.php?f=.mp4
+
 
 #EXTINF:-1 , RESIDENT EVIL BIENVENIDOS A RACCOON CITY lat
 http://144.217.69.162/PELIS_STALKER/Resident.Evil.Bienvenidos.a.Raccoon.City.2021.Terror.HDRip.LATINO.mp4
@@ -222,3 +380,30 @@ http://144.217.69.162/PELIS_STALKER/The.Suicide.Squad.2021.mkv
 
 #EXTINF:-1 , EL ESTAFADOR DE TINDER lat
 http://144.217.69.162/PELIS_STALKER/The.Tinder.Swindler.2022.Documental.HDRip.LATINO.mp4
+
+
+#EXTINF:-1 , FRANCO ESCAMILLA BIENVENIDO AL MUNDO lat
+http://regioplay.xyz/php/SR_REGIO_223022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
+
+
+#EXTINF:-1 , FREE GUY lat
+http://regioplay.xyz/223022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
+
+
+#EXTINF:-1 , NO RESPIRES 2 lat
+http://regioplay.xyz/223022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+
+
+
+#EXTINF:-1 , FAST AND FURIOUS 9 lat
+http://regioplay.xyz/223022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+
+
+#EXTINF:-1 , FAST AND FURIOUS 9 lat
+http://regioplay.xyz/223022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+
+
+#EXTINF:-1 , MASACRE EN TEXAS 2022 lat
+http://regioplay.xyz/php/SR_REGIO_223022_/masacreentexas2022.php?f=.mp4
+
+
