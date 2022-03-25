@@ -1,15 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 , FOX TV
+#EXTINF:-1 , FOX TV audio-track="spa,rus,eng"
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=3XE59V0O7LXVN-8Pjzy_ow&expires=1648241198&ip=179.15.37.223
 
 
-#EXTINF:-1 , HBO TV
+#EXTINF:-1 , HBO TV audio-track="spa,rus,eng"
 https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_1972000=10002.m3u8
 
 
-#EXTINF:-1 , HBO 2 TV
+#EXTINF:-1 , HBO 2 TV audio-track="spa,rus,eng"
 https://edge2.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2-avc1_1480000=10002.m3u8
 
 
