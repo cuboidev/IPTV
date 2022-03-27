@@ -47,11 +47,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-
-#EXTINF:-1 , TNT SPORTS TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/9_.m3u8?token=YaS-St5-LvMEE-FTIubFMA&expires=1648253430&ip=179.15.37.223
-
-
 #EXTINF:-1 , ALF TV
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/128_.m3u8?token=3dzvv615zE1p8Vw2peKm6A&expires=1648253397&ip=179.15.37.223
 
