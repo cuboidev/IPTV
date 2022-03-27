@@ -2,6 +2,9 @@
 
 
 
+#EXTINF:-1 , CHEDDAR TV
+https://live.chdrstatic.com/get.php?username=cheddar&password=primary&type=m3u
+
 
 #EXTINF:-1 , TMZ TV
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
@@ -45,14 +48,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 , EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 , ALF TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/128_.m3u8?token=3dzvv615zE1p8Vw2peKm6A&expires=1648253397&ip=179.15.37.223
-
-
-#EXTINF:-1 , SOUTHPARK TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/146_.m3u8?token=xzfr5G8jXcRbFdiYL4K5NQ&expires=1648253347&ip=179.15.37.223
 
 
 #EXTINF:-1 , HBO MUNDI TV
@@ -292,6 +287,15 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 , PLANETA MOVIE TV
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 , PROMETEUS lat
@@ -547,160 +551,64 @@ http://regioplay.xyz/223022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 http://regioplay.xyz/php/SR_REGIO_223022_/masacreentexas2022.php?f=.mp4
 
 
-#EXTINF:-1 , PROJECT GEMINI 2022 sub
-https://www325.ff-01.com/token=fHi5YnRMUAsqXDF7D2UYQQ/1648252066/2800:e2::/187/d/57/815c7983a3a51529eadd8e8b238ed57d-720p.mp4
+#EXTINF:-1 , XMEN APOCALIPSIS dual
+http://51.77.66.14/Marvel/X-Men/X-Men%208%20-%20Apocalypse.mkv
 
 
-#EXTINF:-1 , JAKASS FOREVER 2022 sub
-https://www234.ff-01.com/token=dfPkh598y0mBh6T7qhYfLQ/1648252287/2800:e2::/102/0/36/ce85e51facb38246829f43f013f60360-1080p.mp4
+#EXTINF:-1 , XMEN PRIMERA GENERACION dual
+http://51.77.66.14/Marvel/X-Men/X-Men%205%20-%20Primera%20Generacion.mkv
 
 
-#EXTINF:-1 , EL CALLEJON DE LAS ALMAS PERDIDAS 2021 sub
-https://www822.ff-02.com/token=FzAIRIF2IQWAnIaq9Kkf5g/1648252398/2800:e2::/192/e/0f/f4ec3dd83f2223f4d3f7db56b28ed0fe-1080p.mp4
+#EXTINF:-1 , XMEN ORIGINS WOLVERINE INMORTAL dual
+http://51.77.66.14/Marvel/X-Men/X-Men%206%20-%20Origins%20-%20Wolverine%20Inmortal%20(Extended).mkv
 
 
-#EXTINF:-1 , VIUDA NEGRA sub
-https://s10.zplayer.live/hls/5fxcu4qzwonufvsa6lie7agu4kcsp2y3zcxdmo4auflm577btxeo3f4xvzba/index-v1-a1.m3u8
+#EXTINF:-1 , XMEN LOGAN dual
+http://51.77.66.14/Marvel/X-Men/X-Men%209%20-%20Origenes%20-%20Logan.mkv
 
 
-#EXTINF:-1 , UN LUGAR TRANQUILO 2 sub
-https://www2127.ff-05.com/token=o-tAJNULbo4fZShueVDVTA/1648252680/2800:e2::/171/7/bf/41549b93e344bfc5a756a40931127bf7-720p.mp4
+#EXTINF:-1 , XMEN DIAS DEL FUTURO PASADO dual
+http://51.77.66.14/Marvel/X-Men/X-Men%207%20-%20Dias%20del%20Futuro%20Pasado%20(The%20Rogue%20Cut).mkv
 
 
-#EXTINF:-1 , GODZILLA VS KONG sub
-https://www91.ff-01.com/token=XyBwF5e4V9ZClpqodUs7PA/1648253072/2800:e2::/154/6/db/ca13db9daf608d83ff283fe76b07adb6-1080p.mp4
+#EXTINF:-1 , JOHN WICK 3 dual
+http://162.12.215.254/Data/Movies/Dual%20Audio/2020/John%20Wick%20Chapter%203%202019%20Dual%20Audio%20720p%20BRRip%201.1Gb%20x264/John%20Wick%20Chapter%203%202019%20Dual%20Audio%20720p%20BRRip%201.1Gb%20x264.mkv
 
 
-#EXTINF:-1 , FREE GUY sub
-https://s10.zplayer.live/hls/5fxcvnagwonufvsa6lpu7uwrux4isnccoyz7377zzdhomgkrzm4h2jrkeqkq/index-v1-a1.m3u8
 
 
-#EXTINF:-1 , THE ADAM PROJECT 2022 sub
-https://s1.zplayer.live/hls/5fxc7zayxwnufvsa6i5e7uwj4dcheifucge7blwmnywdejcxjapn572ephqa/index-v1-a1.m3u8
 
 
-#EXTINF:-1 , LA GUERRA DEL MAÑANA sub
-https://www239.ff-01.com/token=G30NxxtZu6xSSDnEiDK9dg/1648256347/2800:e2::/164/7/b8/f8bcd2010af061a3b5de469517088b87-1080p.mp4
 
 
-#EXTINF:-1 , JHONNY ENGLISH sub
-https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
 
 
-#EXTINF:-1 , SON sub
-https://www761.ff-02.com/token=Ixv1odk3E1lNRkSrjwMJ_w/1648339170/2800:e2::/83/d/7b/f5a871a89e1603c1954a2845676be7bd-1080p.mp4
 
 
-#EXTINF:-1 , HUM sub
-https://www1279.ff-03.com/token=qzAUxVq6JuAgPtt6r1uAOA/1648339274/2800:e2::/102/e/1c/e58a75140e0fe55f5a2d018d225801ce-1080p.mp4
 
 
-#EXTINF:-1 , SIN TIEMPO PARA MORIR sub
-https://www821.ff-02.com/token=H2ri9XvZacJKAUDGErNJPA/1648339351/2800:e2::/182/9/17/80b6e0602729134c314e0e6fa19b3179-720p.mp4
 
 
-#EXTINF:-1 , TENET sub
-https://s2.zplayer.live/hls/5fxcteqjwwnufvsa6kqe7t6ix44aois36iqqi5gu23wzlwxzeccwfepope4a/index-v1-a1.m3u8
 
 
-#EXTINF:-1 , ALITA ANGEL DE BATALLA sub
-https://www807.ff-02.com/token=koSUWmiK8ias3iDiltOZig/1648339610/2800:e2::/53/7/ff/5104f90f526bf379f081b68e14ed2ff7-720p.mp4
 
 
 
-#EXTINF:-1 , STOWAWAY sub
-https://s12.zplayer.live/hls/5fxcrjllwcnufvsa6kbe7woc4tnkxn3ths4qichj4secvzsrjmwrx4qyrldq/index-v1-a1.m3u8
 
 
-#EXTINF:-1 , BLISS sub
-https://www638.ff-02.com/token=yldoWonN1FbPTY8hekAnZw/1648339801/2800:e2::/150/0/ee/075537b82c5e1a4f42477013e4810ee0-720p.mp4
 
 
-#EXTINF:-1 , BARREDORES ESPACIALES sub
-https://www1470.ff-03.com/token=8GNvkwtbjMaxi4wYnmXDbw/1648339835/2800:e2::/151/1/82/682ca0a3afe58e72f0ad3b0c57edf821-1080p.mp4
 
 
 
 
-#EXTINF:-1 , FLASHBACK sub
-https://www269.ff-01.com/token=Tz9GkHjM1r_CLOAXcLaZrg/1648339924/2800:e2::/125/6/14/e83a6e3f6d5424a3071480c637da4146-1080p.mp4
 
 
-#EXTINF:-1 , SPUTNIK sub
-https://www322.ff-01.com/token=Xm_broyHVJrrTMQWl7ObXQ/1648340093/2800:e2::/147/1/47/2722edd2d65856f48726d2bb52509471-1080p.mp4
 
 
-#EXTINF:-1 , A DESCUBIERTO sub
-https://www1132.ff-03.com/token=XpH4-fmnkwXfn0SNVxJ0cg/1648340127/2800:e2::/138/f/7d/4c8db8460328db224b5d60ef7ef8b7df-1080p.mp4
 
 
-#EXTINF:-1 , NUEVOS MUTANTES sub
-https://s14.zplayer.live/hls/5fxcti4ewwnufvsa6kve7vwd5jrlevaa3winpf4azkpqvz7fqxrqmsypkwwa/index-v1-a1.m3u8
 
-
-#EXTINF:-1 , IN THE EARTH sub
-https://www886.ff-02.com/token=kGW2MwN-_eT6CA1vKaRKsg/1648355405/2800:e2::/185/7/df/17b64419aeac73f9ef7cbc2389c6adf7-1080p.mp4
-
-
-#EXTINF:-1 , IN THE EARTH sub
-https://www917.ff-02.com/token=aaStrCMd_EMan59xZTQk2A/1648399246/2800:e2::/68/4/29/b7c27bc429c9e0968b292a9abab18294-720p.mp4
-
-
-#EXTINF:-1 , CRUELA sub
-https://www1048.ff-03.com/token=0ggr-Hhlgt6RP0kkeTbD4Q/1648399397/2800:e2::/167/d/59/2646a935548cfc7d4b23bbb9b730159d-1080p.mp4
-
-
-#EXTINF:-1 , NO MIRES ARRIBA sub
-https://www662.ff-02.com/token=EDWjiCP2nYtLgSDXLQ46sA/1648399461/2800:e2::/178/9/94/a259281284b759be34eafde510157949-1080p.mp4
-
-
-#EXTINF:-1 , SPACE JAM 2 sub
-https://www15.ff-01.com/token=l8mLSIbRD5iL4yaTmtnqYg/1648399695/2800:e2::/173/0/cc/3ba2663e2c7f3160be1aab5095642cc0-720p.mp4
-
-
-#EXTINF:-1 , CIELO ROJO SANGRE sub
-https://www1179.ff-03.com/token=HlQSOplY37YOgrjkR_sRlw/1648400000/2800:e2::/121/6/92/ba017cfc11045ebf2c0958c9c3776926-1080p.mp4
-
-
-#EXTINF:-1 , INFINITE sub
-https://www1089.ff-03.com/token=jZ8LPl0gG34O-O8TGKCg2Q/1648400128/2800:e2::/162/a/9b/06e5feabbdd2ad3d80918f3d5f8b79ba-1080p.mp4
-
-
-#EXTINF:-1 , ESPIRAL EL JUEGO CONTINUA sub
-https://www836.ff-02.com/token=L47q5TqAoXJLD-r9lTZ0tA/1648400175/2800:e2::/162/2/d9/6db8fcdef6a253ce688f11ded149dd92-720p.mp4
-
-
-#EXTINF:-1 , LAS VENTURAS DE BUCK lat
-https://www1617.ff-04.com/token=oyGFq5LEUzZT4irbHy1UsQ/1648400352/2800:e2::/185/0/fd/6b75f518e6adcc5963ace2316afa0fd0-480p.mp4
-
-
-#EXTINF:-1 , PROYECTO POWER sub
-https://www678.ff-02.com/token=6iYof1BepY_FiNPGvz6M9w/1648400642/2800:e2::/84/5/1b/93b10905ea6cf276356c36157a1181b5-1080p.mp4
-
-
-
-#EXTINF:-1 , MORTAL KOMBAT 2021 sub
-https://www1663.ff-04.com/token=IcfO1xOVqRy-6MmK2ODrYA/1648403804/2800:e2::/162/d/4e/b1f0a9f75de1700a5baa936f50fa34ed-720p.mp4
-
-
-#EXTINF:-1 , THE EMPTY MAN sub
-https://www178.ff-01.com/token=8bsuxJxITiL5XJYvLJq45Q/1648403883/2800:e2::/151/f/76/42dfcd5be5d6336b67ab1abcd2d6376f-720p.mp4
-
-
-#EXTINF:-1 , LA VIEJA GUARDIA sub
-https://www628.ff-02.com/token=OwZjPa-fSQVViCoNjxT0qA/1648403978/2800:e2::/120/5/68/37f2c6e63747077a6592453ddd154685-720p.mp4
-
-
-#EXTINF:-1 , GRETEL Y HANSEL sub
-https://www734.ff-02.com/token=QwLAf5F0icTLfBN61FYIuQ/1648404021/2800:e2::/112/1/34/82b9b140b5e7140465b4029da3dd8341-720p.mp4
-
-
-#EXTINF:-1 , EL DICTADOR sub
-https://www1181.ff-03.com/token=rqyjgCC5IlcrYSkoo1UKDw/1648404128/2800:e2::/121/7/35/0ea7eb47b5c3df6e1cf25b33e253c357-720p.mp4
-
-
-#EXTINF:-1 , INSAVION EL FIN DE LOS TIEMPOS sub
-https://www226.ff-01.com/token=ygNVqcZCHOQcjcIigVz09Q/1648404452/2800:e2::/128/8/d1/52e7543e10bf6bef9740f94d8d745d18-720p.mp4
 
 
 
