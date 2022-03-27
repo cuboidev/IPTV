@@ -3,9 +3,49 @@
 
 
 
+#EXTINF:-1 , TMZ TV
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:-1 , DISTRITO COMEDIA TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/47_.m3u8?token=VdEVI4VVNwb3WMmL3m8eMw&expires=1648253500&ip=179.15.37.223
+
+#EXTINF:-1 , TBD TV
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+
+#EXTINF:-1 , REDBULL 2 TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+
+#EXTINF:-1 , REDBULL TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+
+#EXTINF:-1 , MMAJUNKIE TV
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+
+
+#EXTINF:-1 , FAILARMY TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+
+
+#EXTINF:-1 , FAILARMY 2 TV
+http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+
+#EXTINF:-1 , CAPITAL TV music
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+
+#EXTINF:-1 , RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:-1 , TELEMAX TV
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+
+#EXTINF:-1 , EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 
 
 #EXTINF:-1 , TNT SPORTS TV
@@ -20,41 +60,8 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/128_.m3u8?token=3dzvv615zE1p
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/146_.m3u8?token=xzfr5G8jXcRbFdiYL4K5NQ&expires=1648253347&ip=179.15.37.223
 
 
-#EXTINF:-1 , SPACE TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=I0u5h5KO55BDgeY_A3WnRA&expires=1648253274&ip=179.15.37.223
-
-
-#EXTINF:-1 , SYFY TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=uNzETYRJyizZC4-nSXLCcA&expires=1648253195&ip=179.15.37.223
-
-
-#EXTINF:-1 , CINE CANAL TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=I0v16Owdvhmy6vpeREDsIA&expires=1648253140&ip=179.15.37.223
-
-
 #EXTINF:-1 , HBO MUNDI TV
 https://edge2.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD-avc2_1726000=10002.m3u8
-
-
-#EXTINF:-1 , TNT SERIES TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=f9LHHuZE7JrWiUsVWGUbZg&expires=1648244557&ip=179.15.37.223
-
-
-#EXTINF:-1 , TNT TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=VKZT_KnEY4BJh0BmQzfgOQ&expires=1648244476&ip=179.15.37.223
-
-
-#EXTINF:-1 , FOX TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=3XE59V0O7LXVN-8Pjzy_ow&expires=1648241198&ip=179.15.37.223
-
-
-
-#EXTINF:-1 , HBO TV
-https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_1972000=10002.m3u8
-
-
-#EXTINF:-1 , HBO 2 TV
-https://edge2.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2-avc1_1480000=10002.m3u8
 
 
 #EXTINF:-1 , TODO NOTICIAS TV
@@ -73,12 +80,11 @@ https://www.youtube.com/watch?v=hXvy91-w1B4
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
 
 
-#EXTINF:-1 , MUNDO + TV co
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
-
 #EXTINF:-1 , CANAL CAPITAL TV co
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1 , MIAMI TV co
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 
 
 #EXTINF:-1 , TELESUR TV cr
@@ -580,6 +586,71 @@ https://s1.zplayer.live/hls/5fxc7zayxwnufvsa6i5e7uwj4dcheifucge7blwmnywdejcxjapn
 
 #EXTINF:-1 , LA GUERRA DEL MAÑANA sub
 https://www239.ff-01.com/token=G30NxxtZu6xSSDnEiDK9dg/1648256347/2800:e2::/164/7/b8/f8bcd2010af061a3b5de469517088b87-1080p.mp4
+
+
+#EXTINF:-1 , JHONNY ENGLISH sub
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+
+
+#EXTINF:-1 , SON sub
+https://www761.ff-02.com/token=Ixv1odk3E1lNRkSrjwMJ_w/1648339170/2800:e2::/83/d/7b/f5a871a89e1603c1954a2845676be7bd-1080p.mp4
+
+
+#EXTINF:-1 , HUM sub
+https://www1279.ff-03.com/token=qzAUxVq6JuAgPtt6r1uAOA/1648339274/2800:e2::/102/e/1c/e58a75140e0fe55f5a2d018d225801ce-1080p.mp4
+
+
+#EXTINF:-1 , SIN TIEMPO PARA MORIR sub
+https://www821.ff-02.com/token=H2ri9XvZacJKAUDGErNJPA/1648339351/2800:e2::/182/9/17/80b6e0602729134c314e0e6fa19b3179-720p.mp4
+
+
+#EXTINF:-1 , TENET sub
+https://s2.zplayer.live/hls/5fxcteqjwwnufvsa6kqe7t6ix44aois36iqqi5gu23wzlwxzeccwfepope4a/index-v1-a1.m3u8
+
+
+#EXTINF:-1 , ALITA ANGEL DE BATALLA sub
+https://www807.ff-02.com/token=koSUWmiK8ias3iDiltOZig/1648339610/2800:e2::/53/7/ff/5104f90f526bf379f081b68e14ed2ff7-720p.mp4
+
+
+
+#EXTINF:-1 , STOWAWAY sub
+https://s12.zplayer.live/hls/5fxcrjllwcnufvsa6kbe7woc4tnkxn3ths4qichj4secvzsrjmwrx4qyrldq/index-v1-a1.m3u8
+
+
+#EXTINF:-1 , BLISS sub
+https://www638.ff-02.com/token=yldoWonN1FbPTY8hekAnZw/1648339801/2800:e2::/150/0/ee/075537b82c5e1a4f42477013e4810ee0-720p.mp4
+
+
+#EXTINF:-1 , BARREDORES ESPACIALES sub
+https://www1470.ff-03.com/token=8GNvkwtbjMaxi4wYnmXDbw/1648339835/2800:e2::/151/1/82/682ca0a3afe58e72f0ad3b0c57edf821-1080p.mp4
+
+
+
+
+#EXTINF:-1 , FLASHBACK sub
+https://www269.ff-01.com/token=Tz9GkHjM1r_CLOAXcLaZrg/1648339924/2800:e2::/125/6/14/e83a6e3f6d5424a3071480c637da4146-1080p.mp4
+
+
+#EXTINF:-1 , SPUTNIK sub
+https://www322.ff-01.com/token=Xm_broyHVJrrTMQWl7ObXQ/1648340093/2800:e2::/147/1/47/2722edd2d65856f48726d2bb52509471-1080p.mp4
+
+
+#EXTINF:-1 , A DESCUBIERTO sub
+https://www1132.ff-03.com/token=XpH4-fmnkwXfn0SNVxJ0cg/1648340127/2800:e2::/138/f/7d/4c8db8460328db224b5d60ef7ef8b7df-1080p.mp4
+
+
+#EXTINF:-1 , NUEVOS MUTANTES sub
+https://s14.zplayer.live/hls/5fxcti4ewwnufvsa6kve7vwd5jrlevaa3winpf4azkpqvz7fqxrqmsypkwwa/index-v1-a1.m3u8
+
+
+#EXTINF:-1 , IN THE EARTH sub
+https://www886.ff-02.com/token=kGW2MwN-_eT6CA1vKaRKsg/1648355405/2800:e2::/185/7/df/17b64419aeac73f9ef7cbc2389c6adf7-1080p.mp4
+
+
+
+
+
+
 
 
 
