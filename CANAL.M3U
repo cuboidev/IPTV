@@ -2,15 +2,15 @@
 
 
 
-#EXTINF:-1 , group-title="CANALES", CHEDDAR TV
+#EXTINF:-1 , group-title="CANALES",CHEDDAR TV
 https://live.chdrstatic.com/get.php?username=cheddar&password=primary&type=m3u
 
 
-#EXTINF:-1 , group-title="CANALES" TMZ TV
+#EXTINF:-1 , TMZ TV
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
 
-#EXTINF:-1 , group-title="CANALES" TBD TV
+#EXTINF:-1 , TBD TV
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 
 
@@ -389,7 +389,7 @@ http://144.217.69.162/PELIS_STALKER/Alicia.1.en.el.Pa%c3%ads.de.las.Maravillas.2
 http://144.217.69.162/PELIS_STALKER/Alicia.2.a.trav%c3%a9s.del.espejo.2016.Aventuras.BDRip.LATINO.mp4
 
 
-#EXTINF:-1 , CARBON ALTERADO REENFUNDADOS sub
+#EXTINF:-1 , CARBON ALTERADO REENFUNDADOS lat
 http://144.217.69.162/PELIS_STALKER/Altered.Carbon.Reenfundados.2020.Animacion.BRRip.VOSE.mp4
 
 
@@ -579,17 +579,16 @@ http://162.12.215.254/Data/Movies/Dual%20Audio/2020/John%20Wick%20Chapter%203%20
 http://162.12.215.254/Data/Movies/Dual%20Audio/2019/Avengers%20Endgame%202019%20Dual%20Audio%20ORG%20720p%20BRRip%201.7Gb%20x264/
 
 
-#EXTINF:-1 , BABY DRIVER dual
-http://162.12.215.254/Data/Movies/Dual%20Audio/2019/Baby%20Driver%202017%20Hindi%20Dual%20Audio%20720p%20BluRay/Baby%20Driver%202017%20Hindi%20Dual%20Audio%20720p%20BluRay%20ESubs.mkv
+#EXTINF:-1 , ALIVE lat
+http://144.217.69.162/PELIS_STALKER/Alive.2019.1080p.mkv
 
 
+#EXTINF:-1 , CHILANGOLANDIA lat
+http://144.217.69.162/PELIS_STALKER/Chilangolandia.2021.Comedia.HDRip.LATINO.mp4
 
 
-
-
-
-
-
+#EXTINF:-1 , CORAZPM VALIENTE lat
+http://144.217.69.162/PELIS_STALKER/Corazon.valiente.1995.Aventuras.BRRip.LATINO.mkv
 
 
 
