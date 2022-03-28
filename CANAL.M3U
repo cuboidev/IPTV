@@ -2,15 +2,15 @@
 
 
 
-#EXTINF:-1 , CHEDDAR TV
+#EXTINF:-1 , group-title="CANALES", CHEDDAR TV
 https://live.chdrstatic.com/get.php?username=cheddar&password=primary&type=m3u
 
 
-#EXTINF:-1 , TMZ TV
+#EXTINF:-1 , group-title="CANALES" TMZ TV
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
 
-#EXTINF:-1 , TBD TV
+#EXTINF:-1 , group-title="CANALES" TBD TV
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 
 
@@ -575,11 +575,12 @@ http://51.77.66.14/Marvel/X-Men/X-Men%207%20-%20Dias%20del%20Futuro%20Pasado%20(
 http://162.12.215.254/Data/Movies/Dual%20Audio/2020/John%20Wick%20Chapter%203%202019%20Dual%20Audio%20720p%20BRRip%201.1Gb%20x264/John%20Wick%20Chapter%203%202019%20Dual%20Audio%20720p%20BRRip%201.1Gb%20x264.mkv
 
 
+#EXTINF:-1 , AVENGERS END GAME dual
+http://162.12.215.254/Data/Movies/Dual%20Audio/2019/Avengers%20Endgame%202019%20Dual%20Audio%20ORG%20720p%20BRRip%201.7Gb%20x264/
 
 
-
-
-
+#EXTINF:-1 , BABY DRIVER dual
+http://162.12.215.254/Data/Movies/Dual%20Audio/2019/Baby%20Driver%202017%20Hindi%20Dual%20Audio%20720p%20BluRay/Baby%20Driver%202017%20Hindi%20Dual%20Audio%20720p%20BluRay%20ESubs.mkv
 
 
 
