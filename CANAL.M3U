@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 , group-title="CANALES",CHEDDAR TV
+#EXTINF:-1 , CHEDDAR TV
 https://live.chdrstatic.com/get.php?username=cheddar&password=primary&type=m3u
 
 
@@ -439,6 +439,10 @@ http://144.217.69.162/PELIS_STALKER/Ghostbusters.2016.Comedia.BRRip.LATINO.mkv
 http://144.217.69.162/PELIS_STALKER/Ghostbusters.Afterlife.2021.Comedia.HDRip.LATINO.mp4
 
 
+#EXTINF:-1 , CAZAFANTASMAS MAS ALLA lat opcion 2
+http://144.217.69.162/4K/ghostbusters.afterlife.2021.2160p.mp4
+
+
 #EXTINF:-1 , JAKASS FOREVER lat
 http://144.217.69.162/PELIS_STALKER/Jackass.por.siempre.2022.Comedia.HDRip.LATINO.mkv
 
@@ -479,8 +483,8 @@ http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.5.Choque.de.mundos.2016.Anim
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.6.2022.Animacion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , LA HERENCIA DEL SEÑOR DEEDS lat
-http://144.217.69.162/PELIS_STALKER/La.herencia.del.Sr.Deeds.2002.Comedia.BRRip.LATINO.mkv
+#EXTINF:-1 , LA HERENCIA DEL SEÑOR DEEDS dual
+http://144.217.69.162/PELIS_STALKER/La.herencia.del.Sr.Deeds.2002.Comedia.BRRip.VOSE.mp4
 
 
 #EXTINF:-1 , MATRIX RESURRECCIONES lat
@@ -587,8 +591,88 @@ http://144.217.69.162/PELIS_STALKER/Alive.2019.1080p.mkv
 http://144.217.69.162/PELIS_STALKER/Chilangolandia.2021.Comedia.HDRip.LATINO.mp4
 
 
-#EXTINF:-1 , CORAZPM VALIENTE lat
+#EXTINF:-1 , CORAZON VALIENTE lat
 http://144.217.69.162/PELIS_STALKER/Corazon.valiente.1995.Aventuras.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , INFINITE dual
+http://144.217.69.162/4K/infinite.2021.mp4
+
+
+#EXTINF:-1 , LA PURGA FOREVER dual
+http://144.217.69.162/4K/The.Forever.Purge.2021.4k.mp4
+
+
+#EXTINF:-1 , SIN TIEMPO PARA MORIR dual
+http://144.217.69.162/4K/No.Time.to.Die.2021.mp4
+
+
+#EXTINF:-1 , FINCH dual
+http://144.217.69.162/4K/Finch.2021.4K.mp4
+
+
+#EXTINF:-1 , FREE GUY dual
+http://144.217.69.162/4K/Free.Guy.2021.2160p.mp4
+
+
+#EXTINF:-1 , LA CASA GUCCI dual
+http://144.217.69.162/4K/House.Of.Gucci.2021.mp4
+
+
+#EXTINF:-1 , EL ULTIMO RITO sub
+http://144.217.69.162/PELIS_STALKER/The.Last.Rite.2021.Terror.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 , EL ULTIMO EXORSISMO sub
+http://144.217.69.162/PELIS_STALKER/The.Last.Exorcist.2020.720p.mkv
+
+
+#EXTINF:-1 , LOS OJOS DE TAMMY FAYE sub
+http://144.217.69.162/PELIS_STALKER/The.Eyes.of.Tammy.Faye.2021.720p.mkv
+
+
+#EXTINF:-1 , MUERTE INSTANTANEA lat
+http://144.217.69.162/PELIS_STALKER/Polaroid.2019.1080p.mkv
+
+
+#EXTINF:-1 , OTRA PELICULA DE HUEVOS Y UN POLLO lat
+http://144.217.69.162/PELIS_STALKER/Otra.pelicula.de.huevos.y.un.pollo.2009.1080p.mkv
+
+
+#EXTINF:-1 , OCUPATION dual
+http://144.217.69.162/PELIS_STALKER/Occupation.2021.Sci.Fi.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 , NO MIRESA ARRIBA dual
+http://144.217.69.162/PELIS_STALKER/No.miren.arriba.2021.Comedia.BRRip.VOSE.mp4
+
+
+#EXTINF:-1 , MO NOVIA ES UN ZOMBIE dual
+http://144.217.69.162/PELIS_STALKER/Mi.novia.es.un.zombie.2014.Comedia.BRRip.VOSE.mp4
+
+
+#EXTINF:-1 , LORDS OF SCAM lat
+http://144.217.69.162/PELIS_STALKER/Lords.of.Scam.2021.1080p.mkv
+
+
+#EXTINF:-1 , LA PASION DE CRISTO dual
+http://144.217.69.162/PELIS_STALKER/La.pasi%c3%b3n.de.Cristo.2004.Drama.BRRip.VOSE.mp4
+
+
+#EXTINF:-1 , HIDE AND SEEK sub
+http://144.217.69.162/PELIS_STALKER/Hide.and.Seek.2021.Thriller.BRRip.VOSE.mp4
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
