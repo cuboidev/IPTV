@@ -10,294 +10,293 @@
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 , TELEMETRO TV
+#EXTINF:-1 group-title="CANALES", TELEMETRO TV
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 
 
-#EXTINF:-1 , CHEDDAR TV
+#EXTINF:-1 group-title="CANALES", CHEDDAR TV
 https://live.chdrstatic.com/get.php?username=cheddar&password=primary&type=m3u
 
 
-#EXTINF:-1 , TMZ TV
+#EXTINF:-1 group-title="CANALES", TMZ TV
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
 
-#EXTINF:-1 , TBD TV
+#EXTINF:-1 group-title="CANALES", TBD TV
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 
 
-#EXTINF:-1 , REDBULL 2 TV
+#EXTINF:-1 group-title="CANALES", REDBULL 2 TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
-#EXTINF:-1 , REDBULL TV
+#EXTINF:-1 group-title="CANALES", REDBULL TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
 
-#EXTINF:-1 , MMAJUNKIE TV
+#EXTINF:-1 group-title="CANALES", MMAJUNKIE TV
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 
 
-#EXTINF:-1 , FAILARMY TV
+#EXTINF:-1 group-title="CANALES", FAILARMY TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
 
 
-#EXTINF:-1 , FAILARMY 2 TV
+#EXTINF:-1 group-title="CANALES", FAILARMY 2 TV
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 
-#EXTINF:-1 , CAPITAL TV music
+#EXTINF:-1 group-title="CANALES", CAPITAL TV music
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
 
-#EXTINF:-1 , RETRO TV
+#EXTINF:-1 group-title="CANALES", RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 
-#EXTINF:-1 , TELEMAX TV
+#EXTINF:-1 group-title="CANALES", TELEMAX TV
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 
-#EXTINF:-1 , EXTREMA TV
+#EXTINF:-1 group-title="CANALES", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 , HBO MUNDI TV
+#EXTINF:-1 group-title="CANALES", HBO MUNDI TV
 https://edge2.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD-avc2_1726000=10002.m3u8
 
 
-#EXTINF:-1 , TODO NOTICIAS TV
+#EXTINF:-1 group-title="CANALES", TODO NOTICIAS TV
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 
-#EXTINF:-1 , DW ESPAÑOL TV
+#EXTINF:-1 group-title="CANALES", DW ESPAÑOL TV
 https://www.youtube.com/watch?v=bKpGAHgpYoU
 
 
-#EXTINF:-1 , NOTICIAS CARACOL TV
+#EXTINF:-1 group-title="CANALES", NOTICIAS CARACOL TV
 https://www.youtube.com/watch?v=hXvy91-w1B4
 
 
-#EXTINF:-1 , FASHION TV
+#EXTINF:-1 group-title="CANALES", FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
 
 
-#EXTINF:-1 , CANAL CAPITAL TV co
+#EXTINF:-1 group-title="CANALES", CANAL CAPITAL TV co
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1 , MIAMI TV co
+#EXTINF:-1 group-title="CANALES", MIAMI TV co
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 
 
-#EXTINF:-1 , TELESUR TV cr
+#EXTINF:-1 group-title="CANALES", TELESUR TV cr
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 
-#EXTINF:-1 , JASMIN TV
+#EXTINF:-1 group-title="CANALES", JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 
-#EXTINF:-1 , LANCELOT TV
+#EXTINF:-1 group-title="CANALES", LANCELOT TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
 
-#EXTINF:-1 , PORTAL FOXMIX TV music
+#EXTINF:-1 group-title="CANALES", PORTAL FOXMIX TV music
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
 
-#EXTINF:-1 , LOCA TV
+#EXTINF:-1 group-title="CANALES", LOCA TV
 http://184.173.181.2:1935/8022/8022/playlist.m3u8
 
 
-#EXTINF:-1 , CHETUMAL TV
+#EXTINF:-1 group-title="CANALES", CHETUMAL TV
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
-#EXTINF:-1 , CAMPUS HD TV
+#EXTINF:-1 group-title="CANALES", CAMPUS HD TV
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 
 
-#EXTINF:-1 , TEN HONDURAS TV
+#EXTINF:-1 group-title="CANALES", TEN HONDURAS TV
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
 
-#EXTINF:-1 , TELEMAX TV
+#EXTINF:-1 group-title="CANALES", TELEMAX TV
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 
-#EXTINF:-1 , UHLS 2 TV
+#EXTINF:-1 group-title="CANALES", UHLS 2 TV
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 , UHLS TV
+#EXTINF:-1 group-title="CANALES", UHLS TV
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 , MULTIMEDIOS TV mx
+#EXTINF:-1 group-title="CANALES", MULTIMEDIOS TV mx
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 
 
-#EXTINF:-1 , MULTIMEDIOS TV cr
+#EXTINF:-1 group-title="CANALES", MULTIMEDIOS TV cr
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
 
-#EXTINF:-1 , LITUS TV br
+#EXTINF:-1 group-title="CANALES", LITUS TV br
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
 
-#EXTINF:-1 , MULTIVISION TV arg
-
+#EXTINF:-1 group-title="CANALES", MULTIVISION TV arg
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 
 
-#EXTINF:-1 , CENTRAL TV
+#EXTINF:-1 group-title="CANALES", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 
-#EXTINF:-1 , CBS NEWS TV
+#EXTINF:-1 group-title="CANALES", CBS NEWS TV
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 
-#EXTINF:-1 , CANAL PROVINCIAL TV
+#EXTINF:-1 group-title="CANALES", CANAL PROVINCIAL TV
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
-#EXTINF:-1 , CINEMAX TV
+#EXTINF:-1 group-title="CANALES", CINEMAX TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=cinemax&k=SrRegio2022&dos=.m3u8
 
 
-#EXTINF:-1 , EL NUEVE TV
+#EXTINF:-1 group-title="CANALES", EL NUEVE TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=elnueve&k=SrRegio2022&dos=.m3u8
 
 
-#EXTINF:-1 , A MAS TV
+#EXTINF:-1 group-title="CANALES", A MAS TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=amas&k=SrRegio2022&dos=.m3u8
 
 
-#EXTINF:-1 , TBD TV
+#EXTINF:-1 group-title="CANALES", TBD TV
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 
 
-#EXTINF:-1 , M2O MUSIC TV
+#EXTINF:-1 group-title="CANALES", M2O MUSIC TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
-#EXTINF:-1 , WOW TV 2
+#EXTINF:-1 group-title="CANALES", WOW TV 2
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=wow&k=SrRegio2022&dos=.m3u8
 
 
-#EXTINF:-1 , WOW TV
+#EXTINF:-1 group-title="CANALES", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 
 
-#EXTINF:-1 , FIGHT TIME TV
+#EXTINF:-1 group-title="CANALES", FIGHT TIME TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=fight&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 , TELEMUNDO TV
+#EXTINF:-1 group-title="CANALES", TELEMUNDO TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=telemundo&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 , GOLTV TV
+#EXTINF:-1 group-title="CANALES", GOLTV TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=goltv&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 , GALAVISION TV
+#EXTINF:-1 group-title="CANALES", GALAVISION TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=galavision&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 , ESPN 1 TV
+#EXTINF:-1 group-title="CANALES", ESPN 1 TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=espn1-mx&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 , CLARO SPORT TV
+#EXTINF:-1 group-title="CANALES", CLARO SPORT TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=clarosports&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 , BEIN US HD TV
+#EXTINF:-1 group-title="CANALES", BEIN US HD TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=beinhd&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 , ADRENALINA TV
+#EXTINF:-1 group-title="CANALES", ADRENALINA TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=adrenalina&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 , SPACE TV
+#EXTINF:-1 group-title="CANALES", SPACE TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=space&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 , IMAGEN TV
+#EXTINF:-1 group-title="CANALES", IMAGEN TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=imagentv&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 , 5 infantil TV
+#EXTINF:-1 group-title="CANALES", 5 infantil TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=elcinco&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 , LA 2 TV
+#EXTINF:-1 group-title="CANALES", LA 2 TV
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 
-#EXTINF:-1 , AND40 TV
+#EXTINF:-1 group-title="CANALES", AND40 TV
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
-#EXTINF:-1 , NET TV
+#EXTINF:-1 group-title="CANALES", NET TV
 http://regioplay.xyz/php/SR_REGIO_223022_/nettv.php?f=.m3u8
 
 
-#EXTINF:-1 , EL CHAVO TV
+#EXTINF:-1 group-title="CANALES", EL CHAVO TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 
-#EXTINF:-1 , WAPPTV TV
+#EXTINF:-1 group-title="CANALES", WAPPTV TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=wapptv&f=.m3u8
 
 
-#EXTINF:-1 , HORRORFY TV
+#EXTINF:-1 group-title="CANALES", HORRORFY TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=horrorfy&f=.m3u8
 
 
-#EXTINF:-1 , EURONEWS ESPAÑOL TV
+#EXTINF:-1 group-title="CANALES", EURONEWS ESPAÑOL TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=euronews-spa&f=.m3u8
 
 
-#EXTINF:-1 , SPANGLISH TV
+#EXTINF:-1 group-title="CANALES", SPANGLISH TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=spanglish&f=.m3u8
 
 
-#EXTINF:-1 , CASA COMEDY TV
+#EXTINF:-1 group-title="CANALES", CASA COMEDY TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=casa-comedy&f=.m3u8
 
 
-#EXTINF:-1 , FLASH MUSIC TV
+#EXTINF:-1 group-title="CANALES", FLASH MUSIC TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=flash-1&f=.m3u8
 
 
-#EXTINF:-1 , TU CINE TV
+#EXTINF:-1 group-title="CANALES", TU CINE TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=tu-cine-latam&f=.m3u8
 
 
-#EXTINF:-1 , TOP CINE TV
+#EXTINF:-1 group-title="CANALES", TOP CINE TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=top-cine-latam&f=.
 
 
-#EXTINF:-1 , CGTN ESPAÑA TV
+#EXTINF:-1 group-title="CANALES", CGTN ESPAÑA TV
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 
-#EXTINF:-1 , UNOPLAY TV
+#EXTINF:-1 group-title="CANALES", UNOPLAY TV
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 
 
-#EXTINF:-1 , VORTERIX TV
+#EXTINF:-1 group-title="CANALES", VORTERIX TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
 
 
-#EXTINF:-1 , WTV TV
+#EXTINF:-1 group-title="CANALES", WTV TV
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 
-#EXTINF:-1 , PLANETA MOVIE TV
+#EXTINF:-1 group-title="CANALES", PLANETA MOVIE TV
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
 
@@ -310,444 +309,444 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
 
 
-#EXTINF:-1 , PROMETEUS lat
+#EXTINF:-1 group-title="PELICULAS", PROMETEUS lat
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 
 
-#EXTINF:-1 , DEADPOOL lat
+#EXTINF:-1 group-title="PELICULAS", DEADPOOL lat
 https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
 
-#EXTINF:-1 , INTENSAMENTE lat
+#EXTINF:-1 group-title="PELICULAS", INTENSAMENTE lat
 https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
-#EXTINF:-1 , GUARDIANES DE LA GALAXIA lat
+#EXTINF:-1 group-title="PELICULAS", GUARDIANES DE LA GALAXIA lat
 https://goo.gl/sFaEVq
 
 
-#EXTINF:-1 , LA FORMA DEL AGUA sub
+#EXTINF:-1 group-title="PELICULAS", LA FORMA DEL AGUA sub
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 
 
-#EXTINF:-1 , ANGRY BIRDS lat
+#EXTINF:-1 group-title="PELICULAS", ANGRY BIRDS lat
 http://cecegeek@goo.gl/3KGMLf
 
 
-#EXTINF:-1 , ANDY WEXLER lat
+#EXTINF:-1 group-title="PELICULAS", ANDY WEXLER lat
 http://bit.ly/MRAQCSAND
 
 
-#EXTINF:-1 , THE MINE lat
+#EXTINF:-1 group-title="PELICULAS", THE MINE lat
 http://bit.ly/THEMINE
 
 
-#EXTINF:-º1 , VOLVER AL FUTURO lat
+#EXTINF:-º1 group-title="PELICULAS", VOLVER AL FUTURO lat
 http://regioplay.xyz/php/SR_REGIO_223022_/volver.php?f=.mp4
 
 
-#EXTINF:-º1 , VOLVER AL FUTURO II lat
+#EXTINF:-º1 group-title="PELICULAS", VOLVER AL FUTURO II lat
 http://regioplay.xyz/php/SR_REGIO_223022_/volver2.php?f=.mp4
 
 
-#EXTINF:-º1 , VOLVER AL FUTURO III lat
+#EXTINF:-º1 group-title="PELICULAS", VOLVER AL FUTURO III lat
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 
 
-#EXTINF:-1 , RENO 911 sub
+#EXTINF:-1 group-title="PELICULAS", RENO 911 sub
 http://144.217.69.162/PELIS_STALKER/Reno.911.The.Hunt.For.QAnon.2021.Comedia.HDRip.VOSE.mp4
 
 
-#EXTINF:-1 , VOYAGERS lat
+#EXTINF:-1 group-title="PELICULAS", VOYAGERS lat
 http://144.217.69.162/PELIS_STALKER/Voyagers.2021.SciFi.HDRip.LATINO.mp4
 
 
-#EXTINF:-1 , VENOM 2 sub
+#EXTINF:-1 group-title="PELICULAS", VENOM 2 sub
 http://144.217.69.162/PELIS_STALKER/Venom.Let.There.Be.Carnage.SUB.2021.mp4
 
-#EXTINF:-1 , VENOM 2 lat
+#EXTINF:-1 group-title="PELICULAS", VENOM 2 lat
 http://regioplay.xyz/223022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
 
 
-#EXTINF:-1 , VHS sub
+#EXTINF:-1 group-title="PELICULAS", VHS sub
 http://144.217.69.162/PELIS_STALKER/VHS.94.2021.720p.mkv
 
 
-#EXTINF:-1 , UNA FAMILIA GENIAL lat
+#EXTINF:-1 group-title="PELICULAS", UNA FAMILIA GENIAL lat
 http://144.217.69.162/PELIS_STALKER/Una.familia.genial.2017.Aventura.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , SPIDERMAN LEJOS DE CASA lat
+#EXTINF:-1 group-title="PELICULAS", SPIDERMAN LEJOS DE CASA lat
 http://144.217.69.162/PELIS_STALKER/Spider.Man.2.Lejos.de.casa.2019.Accion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , SPIDERMAN DE REGRESO A CASA lat
+#EXTINF:-1 group-title="PELICULAS", SPIDERMAN DE REGRESO A CASA lat
 http://144.217.69.162/PELIS_STALKER/Spider.Man.1.De.regreso.a.casa.2017.Accion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , 30 DIAS DE NOCHE lat
+#EXTINF:-1 group-title="PELICULAS", 30 DIAS DE NOCHE lat
 http://144.217.69.162/PELIS_STALKER/30.d%c3%adas.de.noche.1.2007.Terror.HDRip.LATINO.mp4
 
 
-#EXTINF:-1 , 30 DIAS DE NOCHE 2 lat
+#EXTINF:-1 group-title="PELICULAS", 30 DIAS DE NOCHE 2 lat
 http://144.217.69.162/PELIS_STALKER/30.d%c3%adas.de.noche.2.D%c3%adas.oscuros.2010.Terror.HDRip.LATINO%20.mp4
 
 
-#EXTINF:-1 , ALICIA EN EL PAIS DE LAS MARAVILLAS lat
+#EXTINF:-1 group-title="PELICULAS", ALICIA EN EL PAIS DE LAS MARAVILLAS lat
 http://144.217.69.162/PELIS_STALKER/Alicia.1.en.el.Pa%c3%ads.de.las.Maravillas.2010.Aventuras.BDRip.LATINO.mp4
 
 
-#EXTINF:-1 , ALICIA 2 ATRAVES DEL ESPEJO lat
+#EXTINF:-1 group-title="PELICULAS", ALICIA 2 ATRAVES DEL ESPEJO lat
 http://144.217.69.162/PELIS_STALKER/Alicia.2.a.trav%c3%a9s.del.espejo.2016.Aventuras.BDRip.LATINO.mp4
 
 
-#EXTINF:-1 , CARBON ALTERADO REENFUNDADOS lat
+#EXTINF:-1 group-title="PELICULAS", CARBON ALTERADO REENFUNDADOS lat
 http://144.217.69.162/PELIS_STALKER/Altered.Carbon.Reenfundados.2020.Animacion.BRRip.VOSE.mp4
 
 
-#EXTINF:-1 , ASSASSINS CREED lat
+#EXTINF:-1 group-title="PELICULAS", ASSASSINS CREED lat
 http://144.217.69.162/PELIS_STALKER/Assassins.Creed.2016.Accion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , CANDYMAN lat
+#EXTINF:-1 group-title="PELICULAS", CANDYMAN lat
 http://144.217.69.162/PELIS_STALKER/Candyman.2021.720p.mkv
 
-#EXTINF:-1 , CARIÑO CUANTO TE ODIO lat
+#EXTINF:-1 group-title="PELICULAS", CARIÑO CUANTO TE ODIO lat
 http://144.217.69.162/PELIS_STALKER/Carino.cuanto.te.odio.2021.Romance.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , COMO SI FUERA LA PRIMERA VEZ lat
+#EXTINF:-1 group-title="PELICULAS", COMO SI FUERA LA PRIMERA VEZ lat
 http://144.217.69.162/PELIS_STALKER/Como.si.fuera.la.primera.vez.2004.Romance.BRRip.LATINO.mp4
 
 
-#EXTINF:-1 , DRACULA MUERTO PERO FELIZ lat
+#EXTINF:-1 group-title="PELICULAS", DRACULA MUERTO PERO FELIZ lat
 http://144.217.69.162/PELIS_STALKER/Dr%c3%a1cula.Muerto.pero.feliz.1995.Comedia.BRRip.LATINO.mkv
 
-#EXTINF:-1 , DUNE lat
+#EXTINF:-1 group-title="PELICULAS", DUNE lat
 http://144.217.69.162/PELIS_STALKER/Dune.2021.mkv
 
 
-#EXTINF:-1 , EIFFEL lat
+#EXTINF:-1 group-title="PELICULAS", EIFFEL lat
 http://144.217.69.162/PELIS_STALKER/Eiffel.2021.Drama.HDRip.LATINO.mp4
 
 
-#EXTINF:-1 , EL CONTADOR DE CARTAS lat
+#EXTINF:-1 group-title="PELICULAS", EL CONTADOR DE CARTAS lat
 http://144.217.69.162/PELIS_STALKER/El.contador.de.cartas.2021.Accion.HDRip.LATINO.mp4
 
 
-#EXTINF:-1 , ETERNALS lat
+#EXTINF:-1 group-title="PELICULAS", ETERNALS lat
 http://144.217.69.162/PELIS_STALKER/Eternals.2021.Accion.HDRip.LATINO.mkv
 
 
-#EXTINF:-1 , ETERNALS lat
+#EXTINF:-1 group-title="PELICULAS", ETERNALS lat
 http://regioplay.xyz/223022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
 
 
-#EXTINF:-1 , CAZAFANTASMAS lat
+#EXTINF:-1 group-title="PELICULAS", CAZAFANTASMAS lat
 http://144.217.69.162/PELIS_STALKER/Ghostbusters.2016.Comedia.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , CAZAFANTASMAS MAS ALLA lat
+#EXTINF:-1 group-title="PELICULAS", CAZAFANTASMAS MAS ALLA lat
 http://144.217.69.162/PELIS_STALKER/Ghostbusters.Afterlife.2021.Comedia.HDRip.LATINO.mp4
 
 
-#EXTINF:-1 , CAZAFANTASMAS MAS ALLA lat opcion 2
+#EXTINF:-1 group-title="PELICULAS", CAZAFANTASMAS MAS ALLA lat opcion 2
 http://144.217.69.162/4K/ghostbusters.afterlife.2021.2160p.mp4
 
 
-#EXTINF:-1 , JAKASS FOREVER lat
+#EXTINF:-1 group-title="PELICULAS", JAKASS FOREVER lat
 http://144.217.69.162/PELIS_STALKER/Jackass.por.siempre.2022.Comedia.HDRip.LATINO.mkv
 
 
-#EXTINF:-1 , KINGSMAN SERVICIO SECRETO lat
+#EXTINF:-1 group-title="PELICULAS", KINGSMAN SERVICIO SECRETO lat
 http://144.217.69.162/PELIS_STALKER/Kingsman.1.The.Secret.Service.2014.Accion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , KINGSMAN CIRCULO DORADO lat
+#EXTINF:-1 group-title="PELICULAS", KINGSMAN CIRCULO DORADO lat
 http://144.217.69.162/PELIS_STALKER/Kingsman.2.The.Golden.Circle.2017.Accion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , KINGSMAN 3 lat
+#EXTINF:-1 group-title="PELICULAS", KINGSMAN 3 lat
 http://144.217.69.162/PELIS_STALKER/Kingsman.3.The.Kings.Man.2021.Accion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , LA ERA DEL HIELO lat
+#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.1.2002.Animacion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , LA ERA DEL HIELO 2 lat
+#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO 2 lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.2.2006.Animacion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , LA ERA DEL HIELO 3 lat
+#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO 3 lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.3.2009.Animacion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , LA ERA DEL HIELO 4 lat
+#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO 4 lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.4.2012.Animacion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , LA ERA DEL HIELO 5 lat
+#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO 5 lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.5.Choque.de.mundos.2016.Animacion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , LA ERA DEL HIELO 6 lat
+#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO 6 lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.6.2022.Animacion.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , LA HERENCIA DEL SEÑOR DEEDS dual
+#EXTINF:-1 group-title="PELICULAS", LA HERENCIA DEL SEÑOR DEEDS dual
 http://144.217.69.162/PELIS_STALKER/La.herencia.del.Sr.Deeds.2002.Comedia.BRRip.VOSE.mp4
 
 
-#EXTINF:-1 , MATRIX RESURRECCIONES lat
+#EXTINF:-1 group-title="PELICULAS", MATRIX RESURRECCIONES lat
 http://144.217.69.162/PELIS_STALKER/Matrix.Resurrecciones.2021.Accion.HDRip.LATINO.mp4
 
-#EXTINF:-1 , MATRIX RESURRECCIONES opcion 2 lat
+#EXTINF:-1 group-title="PELICULAS", MATRIX RESURRECCIONES opcion 2 lat
 http://regioplay.xyz/php/SR_REGIO_223022_/matrix2021.php?f=.mp4
 
 
-#EXTINF:-1 , RESIDENT EVIL BIENVENIDOS A RACCOON CITY lat
+#EXTINF:-1 group-title="PELICULAS", RESIDENT EVIL BIENVENIDOS A RACCOON CITY lat
 http://144.217.69.162/PELIS_STALKER/Resident.Evil.Bienvenidos.a.Raccoon.City.2021.Terror.HDRip.LATINO.mp4
 
 
-#EXTINF:-1 , SCREAM lat
+#EXTINF:-1 group-title="PELICULAS", SCREAM lat
 http://144.217.69.162/PELIS_STALKER/Scream.2022.Terror.HDRip.LATINO.mkv
 
 
-#EXTINF:-1 , SHANG CHI lat
+#EXTINF:-1 group-title="PELICULAS", SHANG CHI lat
 http://144.217.69.162/PELIS_STALKER/Shang-Chi.And.The.Legend.Of.The.Ten.Rings.2021.mkv
 
 
-#EXTINF:-1 , SNAKE EYES GIJOE lat
+#EXTINF:-1 group-title="PELICULAS", SNAKE EYES GIJOE lat
 http://144.217.69.162/PELIS_STALKER/Snake.Eyes.G.I.Joe.Origins.2021.mkv
 
 
-#EXTINF:-1 , SOUTH PARK POST COVID 1 lat
+#EXTINF:-1 group-title="PELICULAS", SOUTH PARK POST COVID 1 lat
 http://144.217.69.162/PELIS_STALKER/South.Park.Post.Covid.1.2021.Animacion.HDRip.LATINO.mp4
 
 
-#EXTINF:-1 , SOUTH PARK POST COVID 2 lat
+#EXTINF:-1 group-title="PELICULAS", SOUTH PARK POST COVID 2 lat
 http://144.217.69.162/PELIS_STALKER/South.Park.Post.Covid.2.The.Return.of.Covid.2021.Animacion.HDRip.LATINO.mp4
 
 
-#EXTINF:-1 , LOS SIMPSONS EN PLUS ANIVERSARIO lat
+#EXTINF:-1 group-title="PELICULAS", LOS SIMPSONS EN PLUS ANIVERSARIO lat
 http://144.217.69.162/PELIS_STALKER/The.Simpsons.in.Plusaversary.2021.1080p.mkv
 
 
-#EXTINF:-1 , SUICIDE SQUAD 2 lat
+#EXTINF:-1 group-title="PELICULAS", SUICIDE SQUAD 2 lat
 http://144.217.69.162/PELIS_STALKER/The.Suicide.Squad.2021.mkv
 
 
-#EXTINF:-1 , SUICIDE SQUAD 2 4K lat
+#EXTINF:-1 group-title="PELICULAS", SUICIDE SQUAD 2 4K lat
 http://144.217.69.162/4K/The.Suicide.Squad.2021.4K.mp4
 
 
-#EXTINF:-1 , EL ESTAFADOR DE TINDER lat
+#EXTINF:-1 group-title="PELICULAS", EL ESTAFADOR DE TINDER lat
 http://144.217.69.162/PELIS_STALKER/The.Tinder.Swindler.2022.Documental.HDRip.LATINO.mp4
 
 
-#EXTINF:-1 , FRANCO ESCAMILLA BIENVENIDO AL MUNDO lat
+#EXTINF:-1 group-title="PELICULAS", FRANCO ESCAMILLA BIENVENIDO AL MUNDO lat
 http://regioplay.xyz/php/SR_REGIO_223022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
 
 
-#EXTINF:-1 , FREE GUY lat
+#EXTINF:-1 group-title="PELICULAS", FREE GUY lat
 http://regioplay.xyz/223022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
 
 
-#EXTINF:-1 , NO RESPIRES 2 lat
+#EXTINF:-1 group-title="PELICULAS", NO RESPIRES 2 lat
 http://regioplay.xyz/223022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 
 
 
-#EXTINF:-1 , FAST AND FURIOUS 9 lat
+#EXTINF:-1 group-title="PELICULAS", FAST AND FURIOUS 9 lat
 http://regioplay.xyz/223022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
 
 
-#EXTINF:-1 , FAST AND FURIOUS 9 lat
+#EXTINF:-1 group-title="PELICULAS", FAST AND FURIOUS 9 lat
 http://regioplay.xyz/223022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 
 
-#EXTINF:-1 , MASACRE EN TEXAS 2022 lat
+#EXTINF:-1 group-title="PELICULAS", MASACRE EN TEXAS 2022 lat
 http://regioplay.xyz/php/SR_REGIO_223022_/masacreentexas2022.php?f=.mp4
 
 
-#EXTINF:-1 , XMEN APOCALIPSIS dual
+#EXTINF:-1 group-title="PELICULAS", XMEN APOCALIPSIS dual
 http://51.77.66.14/Marvel/X-Men/X-Men%208%20-%20Apocalypse.mkv
 
 
-#EXTINF:-1 , XMEN PRIMERA GENERACION dual
+#EXTINF:-1 group-title="PELICULAS", XMEN PRIMERA GENERACION dual
 http://51.77.66.14/Marvel/X-Men/X-Men%205%20-%20Primera%20Generacion.mkv
 
 
-#EXTINF:-1 , XMEN ORIGINS WOLVERINE INMORTAL dual
+#EXTINF:-1 group-title="PELICULAS", XMEN ORIGINS WOLVERINE INMORTAL dual
 http://51.77.66.14/Marvel/X-Men/X-Men%206%20-%20Origins%20-%20Wolverine%20Inmortal%20(Extended).mkv
 
 
-#EXTINF:-1 , XMEN LOGAN dual
+#EXTINF:-1 group-title="PELICULAS", XMEN LOGAN dual
 http://51.77.66.14/Marvel/X-Men/X-Men%209%20-%20Origenes%20-%20Logan.mkv
 
 
-#EXTINF:-1 , XMEN DIAS DEL FUTURO PASADO dual
+#EXTINF:-1 group-title="PELICULAS", XMEN DIAS DEL FUTURO PASADO dual
 http://51.77.66.14/Marvel/X-Men/X-Men%207%20-%20Dias%20del%20Futuro%20Pasado%20(The%20Rogue%20Cut).mkv
 
 
-#EXTINF:-1 , JOHN WICK 3 dual
+#EXTINF:-1 group-title="PELICULAS", JOHN WICK 3 dual
 http://162.12.215.254/Data/Movies/Dual%20Audio/2020/John%20Wick%20Chapter%203%202019%20Dual%20Audio%20720p%20BRRip%201.1Gb%20x264/John%20Wick%20Chapter%203%202019%20Dual%20Audio%20720p%20BRRip%201.1Gb%20x264.mkv
 
 
-#EXTINF:-1 , AVENGERS END GAME dual
+#EXTINF:-1 group-title="PELICULAS", AVENGERS END GAME dual
 http://162.12.215.254/Data/Movies/Dual%20Audio/2019/Avengers%20Endgame%202019%20Dual%20Audio%20ORG%20720p%20BRRip%201.7Gb%20x264/
 
 
-#EXTINF:-1 , ALIVE lat
+#EXTINF:-1 group-title="PELICULAS", ALIVE lat
 http://144.217.69.162/PELIS_STALKER/Alive.2019.1080p.mkv
 
 
-#EXTINF:-1 , CHILANGOLANDIA lat
+#EXTINF:-1 group-title="PELICULAS", CHILANGOLANDIA lat
 http://144.217.69.162/PELIS_STALKER/Chilangolandia.2021.Comedia.HDRip.LATINO.mp4
 
 
-#EXTINF:-1 , CORAZON VALIENTE lat
+#EXTINF:-1 group-title="PELICULAS", CORAZON VALIENTE lat
 http://144.217.69.162/PELIS_STALKER/Corazon.valiente.1995.Aventuras.BRRip.LATINO.mkv
 
 
-#EXTINF:-1 , INFINITE dual
+#EXTINF:-1 group-title="PELICULAS", INFINITE dual
 http://144.217.69.162/4K/infinite.2021.mp4
 
 
-#EXTINF:-1 , LA PURGA FOREVER dual
+#EXTINF:-1 group-title="PELICULAS", LA PURGA FOREVER dual
 http://144.217.69.162/4K/The.Forever.Purge.2021.4k.mp4
 
 
-#EXTINF:-1 , SIN TIEMPO PARA MORIR dual
+#EXTINF:-1 group-title="PELICULAS", SIN TIEMPO PARA MORIR dual
 http://144.217.69.162/4K/No.Time.to.Die.2021.mp4
 
 
-#EXTINF:-1 , FINCH dual
+#EXTINF:-1 group-title="PELICULAS", FINCH dual
 http://144.217.69.162/4K/Finch.2021.4K.mp4
 
 
-#EXTINF:-1 , FREE GUY dual
+#EXTINF:-1 group-title="PELICULAS", FREE GUY dual
 http://144.217.69.162/4K/Free.Guy.2021.2160p.mp4
 
 
-#EXTINF:-1 , LA CASA GUCCI dual
+#EXTINF:-1 group-title="PELICULAS", LA CASA GUCCI dual
 http://144.217.69.162/4K/House.Of.Gucci.2021.mp4
 
 
-#EXTINF:-1 , EL ULTIMO RITO sub
+#EXTINF:-1 group-title="PELICULAS", EL ULTIMO RITO sub
 http://144.217.69.162/PELIS_STALKER/The.Last.Rite.2021.Terror.HDRip.VOSE.mp4
 
 
-#EXTINF:-1 , EL ULTIMO EXORSISMO sub
+#EXTINF:-1 group-title="PELICULAS", EL ULTIMO EXORSISMO sub
 http://144.217.69.162/PELIS_STALKER/The.Last.Exorcist.2020.720p.mkv
 
 
-#EXTINF:-1 , LOS OJOS DE TAMMY FAYE sub
+#EXTINF:-1 group-title="PELICULAS", LOS OJOS DE TAMMY FAYE sub
 http://144.217.69.162/PELIS_STALKER/The.Eyes.of.Tammy.Faye.2021.720p.mkv
 
 
-#EXTINF:-1 , MUERTE INSTANTANEA lat
+#EXTINF:-1 group-title="PELICULAS", MUERTE INSTANTANEA lat
 http://144.217.69.162/PELIS_STALKER/Polaroid.2019.1080p.mkv
 
 
-#EXTINF:-1 , OTRA PELICULA DE HUEVOS Y UN POLLO lat
+#EXTINF:-1 group-title="PELICULAS", OTRA PELICULA DE HUEVOS Y UN POLLO lat
 http://144.217.69.162/PELIS_STALKER/Otra.pelicula.de.huevos.y.un.pollo.2009.1080p.mkv
 
 
-#EXTINF:-1 , OCUPATION dual
+#EXTINF:-1 group-title="PELICULAS", OCUPATION dual
 http://144.217.69.162/PELIS_STALKER/Occupation.2021.Sci.Fi.HDRip.VOSE.mp4
 
 
-#EXTINF:-1 , NO MIRESA ARRIBA dual
+#EXTINF:-1 group-title="PELICULAS", NO MIRESA ARRIBA dual
 http://144.217.69.162/PELIS_STALKER/No.miren.arriba.2021.Comedia.BRRip.VOSE.mp4
 
 
-#EXTINF:-1 , MO NOVIA ES UN ZOMBIE dual
+#EXTINF:-1 group-title="PELICULAS", MO NOVIA ES UN ZOMBIE dual
 http://144.217.69.162/PELIS_STALKER/Mi.novia.es.un.zombie.2014.Comedia.BRRip.VOSE.mp4
 
 
-#EXTINF:-1 , LORDS OF SCAM lat
+#EXTINF:-1 group-title="PELICULAS", LORDS OF SCAM lat
 http://144.217.69.162/PELIS_STALKER/Lords.of.Scam.2021.1080p.mkv
 
 
-#EXTINF:-1 , LA PASION DE CRISTO dual
+#EXTINF:-1 group-title="PELICULAS", LA PASION DE CRISTO dual
 http://144.217.69.162/PELIS_STALKER/La.pasi%c3%b3n.de.Cristo.2004.Drama.BRRip.VOSE.mp4
 
 
-#EXTINF:-1 , HIDE AND SEEK sub
+#EXTINF:-1 group-title="PELICULAS", HIDE AND SEEK sub
 http://144.217.69.162/PELIS_STALKER/Hide.and.Seek.2021.Thriller.BRRip.VOSE.mp4
 
 
-#EXTINF:-1 , GEMENIS PLANETA OSCURO dual
+#EXTINF:-1 group-title="PELICULAS", GEMENIS PLANETA OSCURO dual
 http://144.217.69.162/PELIS_STALKER/Geminis.El.planeta.oscuro.2022.SciFi.HDRip.VOSE.mp4
 
 
-#EXTINF:-1 , EL CALLEJON DE LAS ALMAS PERDIDAS dual
+#EXTINF:-1 group-title="PELICULAS", EL CALLEJON DE LAS ALMAS PERDIDAS dual
 http://144.217.69.162/PELIS_STALKER/El.callej%c3%b3n.de.las.almas.perdidas.2021.Drama.HDRip.VOSE.mp4
 
 
-#EXTINF:-1 , EL ASESINO DENTRO DE MI sub
+#EXTINF:-1 group-title="PELICULAS", EL ASESINO DENTRO DE MI sub
 http://144.217.69.162/PELIS_STALKER/El.asesino.dentro.de.mi.2010.Thriller.BRRip.VOSE.mp4
 
 
-#EXTINF:-1 , LA GUERRA DEL MAÑANA lat
+#EXTINF:-1 group-title="PELICULAS", LA GUERRA DEL MAÑANA lat
 http://144.217.69.162/4K/The.Tomorrow.War.2021.4k.mp4
 
 
-#EXTINF:-1 , ESPIRAL EL JUEGO CONTINUA lat
+#EXTINF:-1 group-title="PELICULAS", ESPIRAL EL JUEGO CONTINUA lat
 http://144.217.69.162/4K/Spiral.From.the.Book.of.Saw.2021.4k.mp4
 
 
-#EXTINF:-1 , NO RESPIRES 2 4K lat
+#EXTINF:-1 group-title="PELICULAS", NO RESPIRES 2 4K lat
 http://144.217.69.162/4K/Dont.Breathe.2.2021.4K.mp4
 
 
-#EXTINF:-1 , WIFI RALPH dual
+#EXTINF:-1 group-title="PELICULAS", WIFI RALPH dual
 http://51.77.66.14/Wifi.Ralph.2018.1080p.WEB-DL.H264.mkv
 
 
-#EXTINF:-1 , CEMENTERIO DE MASCOTAS dual
+#EXTINF:-1 group-title="PELICULAS", CEMENTERIO DE MASCOTAS dual
 http://51.77.66.14/Pet.Sematary.(2019).1080p.BDRip-Latino.mkv
 
 
-#EXTINF:-1 , JOHN WICK 3 4K dual
+#EXTINF:-1 group-title="PELICULAS", JOHN WICK 3 4K dual
 http://51.77.66.14/John.Wick.3.(2019).1080p.BDRip-Latino.mkv
 
 
-#EXTINF:-1 , CAPITANA MARVER 4K dual
+#EXTINF:-1 group-title="PELICULAS", CAPITANA MARVER 4K dual
 http://51.77.66.14/Captain.Marvel.2019.1080p.WEB-DL.DD5.1.H264.mkv
 
 
-#EXTINF:-1 , BUMBLEBEE 4K dual
+#EXTINF:-1 group-title="PELICULAS", BUMBLEBEE 4K dual
 http://51.77.66.14/Bumblebee.2018.WEBDL.1080p.H264.mkv
 
 
-#EXTINF:-1 , JOHNNY ENGLISH ATACA DE NUEVO 2K dual
+#EXTINF:-1 group-title="PELICULAS", JOHNNY ENGLISH ATACA DE NUEVO 2K dual
 http://51.77.66.14/Johnny.English.Strikes.Again.(2018).1080p.BDRip-Latino.mkv
 
 
-#EXTINF:-1 , ANIMALES FANTASTICOS LOS CRIMENES DE GRINDELWALD dual
+#EXTINF:-1 group-title="PELICULAS", ANIMALES FANTASTICOS LOS CRIMENES DE GRINDELWALD dual
 http://51.77.66.14/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.WEB.h264.mkv
 
 
-#EXTINF:-1 , POKEMON DETECTIVE PIKACHU dual
+#EXTINF:-1 group-title="PELICULAS", POKEMON DETECTIVE PIKACHU dual
 http://51.77.66.14/Pokemon.Detective.Pikachu.(2019).1080p.BDRip-Latino.mkv
 
 
-#EXTINF:-1 , GLASS dual
+#EXTINF:-1 group-title="PELICULAS", GLASS dual
 http://51.77.66.14/Glass%20(2019)%20Latino%20HD%20WEB-DL%201080P.mkv
 
 
-#EXTINF:-1 , AVENGERS END GAME dual
+#EXTINF:-1 group-title="PELICULAS", AVENGERS END GAME dual
 http://51.77.66.14/Avengers.endgame.(2019).1080p.BDRip-Latino.mkv
 
 
-#EXTINF:-1 , SPACE JAM 2 dual
+#EXTINF:-1 group-title="PELICULAS", SPACE JAM 2 dual
 http://51.77.66.14/Space.Jam.a.New.Legacy.2021.1080p.mkv
 
 
-#EXTINF:-1 , EL ROBO DEL SIGLO lat
+#EXTINF:-1 group-title="PELICULAS", EL ROBO DEL SIGLO lat
 http://51.77.66.14/El.robo.del.siglo.2020.WEB-DL.1080P-LMHD/El.robo.del.siglo.2020.WEB-DL.1080P-LMHD.mkv
 
 
@@ -756,95 +755,95 @@ http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%
 
 
 
-#EXTINF:-1 , PIRATAS DEL CARIBE 5 LA VENGANZA DE SALAZAR dual
+#EXTINF:-1 group-title="PELICULAS", PIRATAS DEL CARIBE 5 LA VENGANZA DE SALAZAR dual
 http://51.77.66.14/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.Latino.1080p.BluRay.X264.ChileBT/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.Latino.1080p.BluRay.X264.ChileBT.mkv
 
 
-#EXTINF:-1 , PIRATAS DEL CARIBE 1 LA MALDICION DEL PERLA NEGRA lat
+#EXTINF:-1 group-title="PELICULAS", PIRATAS DEL CARIBE 1 LA MALDICION DEL PERLA NEGRA lat
 http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%201.avi
 
 
-#EXTINF:-1 , PIRATAS DEL CARIBE 2 EL COFRE DE LA MUERTE lat
+#EXTINF:-1 group-title="PELICULAS", PIRATAS DEL CARIBE 2 EL COFRE DE LA MUERTE lat
 http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%202.avi
 
 
-#EXTINF:-1 , PIRATAS DEL CARIBE 3 EN EL FIN DEL MUNDO lat
+#EXTINF:-1 group-title="PELICULAS", PIRATAS DEL CARIBE 3 EN EL FIN DEL MUNDO lat
 http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%203.avi
 
 
-#EXTINF:-1 , PIRATAS DEL CARIBE 4 NAVEGANDO AGUAS MISTERIOSAS lat
+#EXTINF:-1 group-title="PELICULAS", PIRATAS DEL CARIBE 4 NAVEGANDO AGUAS MISTERIOSAS lat
 http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%204.avi
 
 
-#EXTINF:-1 , CAPITAN AMERICA dual
+#EXTINF:-1 group-title="PELICULAS", CAPITAN AMERICA dual
 http://51.77.66.14/Marvel/Capitan%20America/Capitan%20America%201.mkv
 
 
-#EXTINF:-1 , CAPITAN AMERICA EL SOLDADO DEL INVIERNO dual
+#EXTINF:-1 group-title="PELICULAS", CAPITAN AMERICA EL SOLDADO DEL INVIERNO dual
 http://51.77.66.14/Marvel/Capitan%20America/Capitan%20America%202%20-%20El%20Soldado%20del%20Invierno.mkv
 
 
-#EXTINF:-1 , CAPITAN AMERICA CIVIL WAR dual
+#EXTINF:-1 group-title="PELICULAS", CAPITAN AMERICA CIVIL WAR dual
 http://51.77.66.14/Marvel/Capitan%20America/Captain%20America%203%20-%20Guerra%20Civil.mkv
 
 
-#EXTINF:-1 , ANT MAN dual
+#EXTINF:-1 group-title="PELICULAS", ANT MAN dual
 http://51.77.66.14/Marvel/Ant-Man/Ant-Man%20-%20El%20Hombre%20Hormiga.mkv
 
 
-#EXTINF:-1 , ANT MAN 2 dual
+#EXTINF:-1 group-title="PELICULAS", ANT MAN 2 dual
 http://51.77.66.14/Marvel/Ant-Man/Ant-Man%202%20y%20La%20Avispa.mkv
 
 
-#EXTINF:-1 , DOCTOR STRANGE dual
+#EXTINF:-1 group-title="PELICULAS", DOCTOR STRANGE dual
 http://51.77.66.14/Marvel/Doctor%20Strange%20-%20Hechicero%20Supremo.mkv
 
 
-#EXTINF:-1 , IRON MAN dual
+#EXTINF:-1 group-title="PELICULAS", IRON MAN dual
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%201.mkv
 
 
-#EXTINF:-1 , IRON MAN 2 dual
+#EXTINF:-1 group-title="PELICULAS", IRON MAN 2 dual
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%202.mkv
 
 
-#EXTINF:-1 , IRON MAN 3 dual
+#EXTINF:-1 group-title="PELICULAS", IRON MAN 3 dual
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%203.mkv
 
 
-#EXTINF:-1 , PANTERA NEGRA dual
+#EXTINF:-1 group-title="PELICULAS", PANTERA NEGRA dual
 http://51.77.66.14/Marvel/Pantera%20Negra.mkv
 
 
-#EXTINF:-1 , THOR dual
+#EXTINF:-1 group-title="PELICULAS", THOR dual
 http://51.77.66.14/Marvel/Thor/Thor%201.mkv
 
 
-#EXTINF:-1 , THOR 2 UN MUNDO OSCURO dual
+#EXTINF:-1 group-title="PELICULAS", THOR 2 UN MUNDO OSCURO dual
 http://51.77.66.14/Marvel/Thor/Thor%202%20-%20Un%20Mundo%20Oscuro.mkv
 
 
-#EXTINF:-1 , THOR 3 RAGNAROK dual
+#EXTINF:-1 group-title="PELICULAS", THOR 3 RAGNAROK dual
 http://51.77.66.14/Marvel/Thor/Thor%203%20-%20Ragnarok.mkv
 
 
-#EXTINF:-1 , VENOM dual
+#EXTINF:-1 group-title="PELICULAS", VENOM dual
 http://51.77.66.14/Marvel/Venom.mkv
 
 
-#EXTINF:-1 , ROBIN HOOD dual
+#EXTINF:-1 group-title="PELICULAS", ROBIN HOOD dual
 http://51.77.66.14/Robin%20Hood%20(2018)%201080p%20BDRip%20Dual%20Audio%20Latino-Ingl%c3%a9s.mkv
 
 
-#EXTINF:-1 , GODZILLA REY DE LOS MOUNSTRUOS dual
+#EXTINF:-1 group-title="PELICULAS", GODZILLA REY DE LOS MOUNSTRUOS dual
 http://51.77.66.14/Godzilla.King.of.the.Monsters.(2019).1080p.WEBDL-Latino.mkv
 
 
-#EXTINF:-1 , DOG 2022 sub
+#EXTINF:-1 group-title="PELICULAS", DOG 2022 sub
 http://192.64.86.228/%5ba%5d/Dog%20(2022)%20%5b2160p%5d%20%5b4K%5d%20%5bWEB%5d%20%5b5.1%5d%20%5bYTS.MX%5d/Dog.2022.2160p.4K.WEB.x265.10bit.AAC5.1-%5bYTS.MX%5d.mkv
 
 
-#EXTINF:-1 , CRUELA sub
+#EXTINF:-1 group-title="PELICULAS", CRUELA sub
 http://37.187.20.239/%5b1080p%5d%20Cruella%20(2021)%20WEB-DL%20Dual%20Audio.mkv
 
 
