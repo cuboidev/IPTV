@@ -2,6 +2,18 @@
 
 
 
+
+
+
+
+#EXTINF:-1 , FILADELFIA TV cristiano
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 , TELEMETRO TV
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+
+
 #EXTINF:-1 , CHEDDAR TV
 https://live.chdrstatic.com/get.php?username=cheddar&password=primary&type=m3u
 
@@ -526,6 +538,10 @@ http://144.217.69.162/PELIS_STALKER/The.Simpsons.in.Plusaversary.2021.1080p.mkv
 http://144.217.69.162/PELIS_STALKER/The.Suicide.Squad.2021.mkv
 
 
+#EXTINF:-1 , SUICIDE SQUAD 2 4K lat
+http://144.217.69.162/4K/The.Suicide.Squad.2021.4K.mp4
+
+
 #EXTINF:-1 , EL ESTAFADOR DE TINDER lat
 http://144.217.69.162/PELIS_STALKER/The.Tinder.Swindler.2022.Documental.HDRip.LATINO.mp4
 
@@ -663,13 +679,173 @@ http://144.217.69.162/PELIS_STALKER/La.pasi%c3%b3n.de.Cristo.2004.Drama.BRRip.VO
 http://144.217.69.162/PELIS_STALKER/Hide.and.Seek.2021.Thriller.BRRip.VOSE.mp4
 
 
+#EXTINF:-1 , GEMENIS PLANETA OSCURO dual
+http://144.217.69.162/PELIS_STALKER/Geminis.El.planeta.oscuro.2022.SciFi.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 , EL CALLEJON DE LAS ALMAS PERDIDAS dual
+http://144.217.69.162/PELIS_STALKER/El.callej%c3%b3n.de.las.almas.perdidas.2021.Drama.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 , EL ASESINO DENTRO DE MI sub
+http://144.217.69.162/PELIS_STALKER/El.asesino.dentro.de.mi.2010.Thriller.BRRip.VOSE.mp4
+
+
+#EXTINF:-1 , LA GUERRA DEL MAÑANA lat
+http://144.217.69.162/4K/The.Tomorrow.War.2021.4k.mp4
+
+
+#EXTINF:-1 , ESPIRAL EL JUEGO CONTINUA lat
+http://144.217.69.162/4K/Spiral.From.the.Book.of.Saw.2021.4k.mp4
+
+
+#EXTINF:-1 , NO RESPIRES 2 4K lat
+http://144.217.69.162/4K/Dont.Breathe.2.2021.4K.mp4
+
+
+#EXTINF:-1 , WIFI RALPH dual
+http://51.77.66.14/Wifi.Ralph.2018.1080p.WEB-DL.H264.mkv
+
+
+#EXTINF:-1 , CEMENTERIO DE MASCOTAS dual
+http://51.77.66.14/Pet.Sematary.(2019).1080p.BDRip-Latino.mkv
+
+
+#EXTINF:-1 , JOHN WICK 3 4K dual
+http://51.77.66.14/John.Wick.3.(2019).1080p.BDRip-Latino.mkv
+
+
+#EXTINF:-1 , CAPITANA MARVER 4K dual
+http://51.77.66.14/Captain.Marvel.2019.1080p.WEB-DL.DD5.1.H264.mkv
+
+
+#EXTINF:-1 , BUMBLEBEE 4K dual
+http://51.77.66.14/Bumblebee.2018.WEBDL.1080p.H264.mkv
+
+
+#EXTINF:-1 , JOHNNY ENGLISH ATACA DE NUEVO 2K dual
+http://51.77.66.14/Johnny.English.Strikes.Again.(2018).1080p.BDRip-Latino.mkv
+
+
+#EXTINF:-1 , ANIMALES FANTASTICOS LOS CRIMENES DE GRINDELWALD dual
+http://51.77.66.14/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.WEB.h264.mkv
+
+
+#EXTINF:-1 , POKEMON DETECTIVE PIKACHU dual
+http://51.77.66.14/Pokemon.Detective.Pikachu.(2019).1080p.BDRip-Latino.mkv
+
+
+#EXTINF:-1 , GLASS dual
+http://51.77.66.14/Glass%20(2019)%20Latino%20HD%20WEB-DL%201080P.mkv
+
+
+#EXTINF:-1 , AVENGERS END GAME dual
+http://51.77.66.14/Avengers.endgame.(2019).1080p.BDRip-Latino.mkv
+
+
+#EXTINF:-1 , SPACE JAM 2 dual
+http://51.77.66.14/Space.Jam.a.New.Legacy.2021.1080p.mkv
+
+
+#EXTINF:-1 , EL ROBO DEL SIGLO lat
+http://51.77.66.14/El.robo.del.siglo.2020.WEB-DL.1080P-LMHD/El.robo.del.siglo.2020.WEB-DL.1080P-LMHD.mkv
+
+
+#EXTINF:-1 , RAPIDO Y FURIOSO 3 RETO TOKIO dual
+http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%203%20-%20Reto%20Tokio%202006%20REMUX%204K%20HDR%20Latino.mkv
 
 
 
+#EXTINF:-1 , PIRATAS DEL CARIBE 5 LA VENGANZA DE SALAZAR dual
+http://51.77.66.14/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.Latino.1080p.BluRay.X264.ChileBT/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.Latino.1080p.BluRay.X264.ChileBT.mkv
 
 
+#EXTINF:-1 , PIRATAS DEL CARIBE 1 LA MALDICION DEL PERLA NEGRA lat
+http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%201.avi
 
 
+#EXTINF:-1 , PIRATAS DEL CARIBE 2 EL COFRE DE LA MUERTE lat
+http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%202.avi
+
+
+#EXTINF:-1 , PIRATAS DEL CARIBE 3 EN EL FIN DEL MUNDO lat
+http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%203.avi
+
+
+#EXTINF:-1 , PIRATAS DEL CARIBE 4 NAVEGANDO AGUAS MISTERIOSAS lat
+http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%204.avi
+
+
+#EXTINF:-1 , CAPITAN AMERICA dual
+http://51.77.66.14/Marvel/Capitan%20America/Capitan%20America%201.mkv
+
+
+#EXTINF:-1 , CAPITAN AMERICA EL SOLDADO DEL INVIERNO dual
+http://51.77.66.14/Marvel/Capitan%20America/Capitan%20America%202%20-%20El%20Soldado%20del%20Invierno.mkv
+
+
+#EXTINF:-1 , CAPITAN AMERICA CIVIL WAR dual
+http://51.77.66.14/Marvel/Capitan%20America/Captain%20America%203%20-%20Guerra%20Civil.mkv
+
+
+#EXTINF:-1 , ANT MAN dual
+http://51.77.66.14/Marvel/Ant-Man/Ant-Man%20-%20El%20Hombre%20Hormiga.mkv
+
+
+#EXTINF:-1 , ANT MAN 2 dual
+http://51.77.66.14/Marvel/Ant-Man/Ant-Man%202%20y%20La%20Avispa.mkv
+
+
+#EXTINF:-1 , DOCTOR STRANGE dual
+http://51.77.66.14/Marvel/Doctor%20Strange%20-%20Hechicero%20Supremo.mkv
+
+
+#EXTINF:-1 , IRON MAN dual
+http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%201.mkv
+
+
+#EXTINF:-1 , IRON MAN 2 dual
+http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%202.mkv
+
+
+#EXTINF:-1 , IRON MAN 3 dual
+http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%203.mkv
+
+
+#EXTINF:-1 , PANTERA NEGRA dual
+http://51.77.66.14/Marvel/Pantera%20Negra.mkv
+
+
+#EXTINF:-1 , THOR dual
+http://51.77.66.14/Marvel/Thor/Thor%201.mkv
+
+
+#EXTINF:-1 , THOR 2 UN MUNDO OSCURO dual
+http://51.77.66.14/Marvel/Thor/Thor%202%20-%20Un%20Mundo%20Oscuro.mkv
+
+
+#EXTINF:-1 , THOR 3 RAGNAROK dual
+http://51.77.66.14/Marvel/Thor/Thor%203%20-%20Ragnarok.mkv
+
+
+#EXTINF:-1 , VENOM dual
+http://51.77.66.14/Marvel/Venom.mkv
+
+
+#EXTINF:-1 , ROBIN HOOD dual
+http://51.77.66.14/Robin%20Hood%20(2018)%201080p%20BDRip%20Dual%20Audio%20Latino-Ingl%c3%a9s.mkv
+
+
+#EXTINF:-1 , GODZILLA REY DE LOS MOUNSTRUOS dual
+http://51.77.66.14/Godzilla.King.of.the.Monsters.(2019).1080p.WEBDL-Latino.mkv
+
+
+#EXTINF:-1 , DOG 2022 sub
+http://192.64.86.228/%5ba%5d/Dog%20(2022)%20%5b2160p%5d%20%5b4K%5d%20%5bWEB%5d%20%5b5.1%5d%20%5bYTS.MX%5d/Dog.2022.2160p.4K.WEB.x265.10bit.AAC5.1-%5bYTS.MX%5d.mkv
+
+
+#EXTINF:-1 , CRUELA sub
+http://37.187.20.239/%5b1080p%5d%20Cruella%20(2021)%20WEB-DL%20Dual%20Audio.mkv
 
 
 
