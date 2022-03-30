@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=fHJGZB2ilJM
 https://www.youtube.com/watch?v=Ove87nZ_1D4
 
 
-#EXTINF:-1 group-title="[COLOR orange]SERIES[/COLOR]", CASADOS CON HIJOS
+#EXTINF:-1 group-title="[SERIES[", CASADOS CON HIJOS
 https://www.youtube.com/watch?v=o7Gb05T1-hw
 
 
@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=GZEwdVV5DTY
 https://www.youtube.com/watch?v=WWVwv31dlLg
 
 
-#EXTINF:-1 group-title="CANALES", PBM MUSIC reggae TV music
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   PBM MUSIC reggae TV music
 https://www.youtube.com/watch?v=02UeR-sfXyg
 
 
@@ -150,9 +150,6 @@ https://www.youtube.com/watch?v=-vGhSrfKfUQ
 https://www.youtube.com/watch?v=NYdCsz61Hog
 
 
-#EXTINF:-1 group-title="CANALES",PUBLICA TV
-https://www.youtube.com/watch?v=1KZF41ar9vs
-
 
 #EXTINF:-1 group-title="CANALES",CRONICA TV
 https://www.youtube.com/watch?v=InSydaLSSlw
@@ -202,7 +199,7 @@ http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", RETRO TV
+#EXTINF:-1 group-title="CANALES", RETRO TV music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 
@@ -224,6 +221,10 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-1 group-title="CANALES", DW ESPAÑOL TV
 https://www.youtube.com/watch?v=bKpGAHgpYoU
+
+
+#EXTINF:-1 group-title="CANALES", DW ESPAÑOL 2 TV
+https://www.youtube.com/watch?v=N82PUyiO_QY
 
 
 #EXTINF:-1 group-title="CANALES", NOTICIAS CARACOL TV
@@ -313,15 +314,15 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 group-title="CANALES", CANAL PROVINCIAL TV
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
-#EXTINF:-1 group-title="CANALES", CINEMAX TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__  CINEMAX TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=cinemax&k=SrRegio2022&dos=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", EL NUEVE TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__  EL NUEVE TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=elnueve&k=SrRegio2022&dos=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", A MAS TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__  A MAS TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=amas&k=SrRegio2022&dos=.m3u8
 
 
@@ -329,11 +330,11 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=amas&k=SrRegio2022&dos
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 
 
-#EXTINF:-1 group-title="CANALES", M2O MUSIC TV
+#EXTINF:-1 group-title="CANALES", M2O TV music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", WOW TV 2
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   WOW TV 2
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=wow&k=SrRegio2022&dos=.m3u8
 
 
@@ -341,47 +342,47 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=wow&k=SrRegio2022&dos=
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", FIGHT TIME TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   FIGHT TIME TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=fight&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", TELEMUNDO TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   TELEMUNDO TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=telemundo&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", GOLTV TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   GOLTV TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=goltv&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", GALAVISION TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   GALAVISION TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=galavision&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", ESPN 1 TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   ESPN 1 TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=espn1-mx&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", CLARO SPORT TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   CLARO SPORT TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=clarosports&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", BEIN US HD TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   BEIN US HD TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=beinhd&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", ADRENALINA TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   ADRENALINA TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=adrenalina&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", SPACE TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   SPACE TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=space&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", IMAGEN TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   IMAGEN TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=imagentv&k=SrRegio2022&f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", 5 infantil TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   5 infantil TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=elcinco&k=SrRegio2022&f=.m3u8
 
 
@@ -397,7 +398,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/nettv.php?f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", EL CHAVO TV
+#EXTINF:-1 group-title="CANALES",  __OFFLINE__   EL CHAVO TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 
@@ -445,7 +446,7 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
 
 
-#EXTINF:-1 group-title="CANALES", WTV TV
+#EXTINF:-1 group-title="CANALES", WTV TV music
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 
