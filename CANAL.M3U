@@ -150,7 +150,6 @@ https://www.youtube.com/watch?v=-vGhSrfKfUQ
 https://www.youtube.com/watch?v=NYdCsz61Hog
 
 
-
 #EXTINF:-1 group-title="CANALES",CRONICA TV
 https://www.youtube.com/watch?v=InSydaLSSlw
 
@@ -314,6 +313,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 group-title="CANALES", CANAL PROVINCIAL TV
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
+
 #EXTINF:-1 group-title="CANALES",  __OFFLINE__  CINEMAX TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=cinemax&k=SrRegio2022&dos=.m3u8
 
@@ -430,10 +430,6 @@ https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=flash-1&f=.m3u8
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=tu-cine-latam&f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", TOP CINE TV
-https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=top-cine-latam&f=.
-
-
 #EXTINF:-1 group-title="CANALES", CGTN ESPAÑA TV
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -452,6 +448,35 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 group-title="CANALES", PLANETA MOVIE TV
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1059,6 +1084,12 @@ http://162.12.215.254/Data/Movies/Hollywood/2019/Alita%3A%20Battle%20Angel%20%28
 
 #EXTINF:-1 group-title="PELICULAS", AMORTAL KOMBAT 2021 eng-sub
 http://162.12.215.254/Data/Movies/Hollywood/2021/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", PIRATES OF SYLICON VALLEY 1999 sub
+http://vis.usal.es/rodrigo/documentos/docs/Pirates%20of%20Silicon%20Valley%201999%20DvdRip%20x264-HighCode.mkv
+
+
 
 
 
