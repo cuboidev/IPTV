@@ -18,6 +18,14 @@ https://www.youtube.com/watch?v=o7Gb05T1-hw
 https://www.youtube.com/watch?v=zUMFznjhs8Q
 
 
+#EXTINF:-1 group-title="CANALES", TVPE TV pe
+https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", RPC TV
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
+
+
 #EXTINF:-1 group-title="CANALES", TOKYO SHINJUKU TVCAM
 https://www.youtube.com/watch?v=RQA5RcIZlAM
 
@@ -31,7 +39,11 @@ https://www.youtube.com/watch?v=mhJRzQsLZGg
 
 
 #EXTINF:-1 group-title="CANALES", NASA TV
-https://www.youtube.com/watch?v=21X5lGlDOfg
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", NASA TV
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", LA NACION TV
@@ -202,8 +214,40 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 
+#EXTINF:-1 group-title="CANALES", TS TV
+http://video.telesafor.com/hls/video_high.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", MEDICAL TV ar
+http://panel.dattalive.com:1935/8250/8250/chunklist_w325606071.m3u8
+
+
 #EXTINF:-1 group-title="CANALES", TELEMAX TV
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", HBTV TV
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", RGC TV
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", HLS TV
+http://video.telesafor.com/hls/video_high.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", RTQ TV
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", PD PSERTAO TV br
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", EXTREMA TV
@@ -270,8 +314,17 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 
 
+#EXTINF:-1 group-title="CANALES", MICRO HD TV
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+
+
 #EXTINF:-1 group-title="CANALES", TEN HONDURAS TV
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", HECHOS TV ec
+http://37.187.7.106/hechostv/live.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", TELEMAX TV
@@ -286,6 +339,18 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
 
+#EXTINF:-1 group-title="CANALES", OVACION TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", OVACION TV
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", BH TV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="CANALES", MULTIMEDIOS TV mx
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 
@@ -294,12 +359,20 @@ http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
 
-#EXTINF:-1 group-title="CANALES", LITUS TV br
+#EXTINF:-1 group-title="CANALES", LITUS TV ur
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", MULTIVISION TV arg
 http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", GALICIA TV
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CANALES",CANALE51 TV music
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", CENTRAL TV
@@ -332,6 +405,27 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 
 #EXTINF:-1 group-title="CANALES", M2O TV music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", FLUMOTION TV
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", FLUMOTION 2 TV
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", KTV TV eng
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", DNC TV eng
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", FUTURO TV music
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="CANALES",  __OFFLINE__   WOW TV 2
@@ -385,6 +479,9 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=imagentv&k=SrRegio2022
 #EXTINF:-1 group-title="CANALES",  __OFFLINE__   5 infantil TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=elcinco&k=SrRegio2022&f=.m3u8
 
+#EXTINF:-1 group-title="CANALES", TSC TV eng
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
 
 #EXTINF:-1 group-title="CANALES", LA 2 TV
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
@@ -432,6 +529,10 @@ https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=tu-cine-latam&f=.m3
 
 #EXTINF:-1 group-title="CANALES", CGTN ESPAÑA TV
 https://livees.cgtn.com/1000e/prog_index.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", HLS TV
+http://video.telesafor.com/hls/video_low.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", UNOPLAY TV
@@ -565,6 +666,10 @@ http://144.217.69.162/PELIS_STALKER/Spider.Man.1.De.regreso.a.casa.2017.Accion.B
 
 #EXTINF:-1 group-title="PELICULAS", 30 DIAS DE NOCHE lat
 http://144.217.69.162/PELIS_STALKER/30.d%c3%adas.de.noche.1.2007.Terror.HDRip.LATINO.mp4
+
+
+#EXTINF:-1 group-title="PELICULAS", JIGSAW VIII sub
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
 
 #EXTINF:-1 group-title="PELICULAS", 30 DIAS DE NOCHE 2 lat
@@ -797,8 +902,12 @@ http://144.217.69.162/4K/infinite.2021.mp4
 http://144.217.69.162/4K/The.Forever.Purge.2021.4k.mp4
 
 
-#EXTINF:-1 group-title="PELICULAS", SIN TIEMPO PARA MORIR dual
+#EXTINF:-1 group-title="PELICULAS", SIN TIEMPO PARA MORIR 4K dual
 http://144.217.69.162/4K/No.Time.to.Die.2021.mp4
+
+
+#EXTINF:-1 group-title="PELICULAS", SIN TIEMPO PARA MORIR op2 dual
+http://144.217.69.162/PELIS_STALKER/No.Time.To.Die.2021.mkv
 
 
 #EXTINF:-1 group-title="PELICULAS", FINCH dual
@@ -1273,6 +1382,106 @@ http://144.217.69.162/PELIS_STALKER/Problem.Child.2.1991.Comedia.BRRip.VOSE.mp4
 #EXTINF:-1 group-title="PELICULAS", LA FAMILIA ADDAMS 2 dual
 http://144.217.69.162/PELIS_STALKER/The.Addams.Family.2.2021.mkv
 
+
+#EXTINF:-1 group-title="PELICULAS", HIJO DEL SUR dual
+http://144.217.69.162/PELIS_STALKER/Son.Of.The.South.2020.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", WAY DOWN dual
+http://144.217.69.162/PELIS_STALKER/Way.Down.2021.720p.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", SEPARATION dual
+http://144.217.69.162/PELIS_STALKER/Separation.2021.720p.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", MISERY 1990 dual
+http://144.217.69.162/PELIS_STALKER/Misery.1990.1080p.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", ACTIVIDAD PARANORMAL NEXT OF KIN sub
+http://144.217.69.162/PELIS_STALKER/Paranormal.Activity.Next.of.Kin.2021.720p.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", CAMP CONFIDENTIAL AMERICAS SECRET NAZIS dual
+http://144.217.69.162/PELIS_STALKER/Camp.Confidential.Americas.Secret.Nazis.2021.1080p.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", THE COLLINI CASE dual
+http://144.217.69.162/PELIS_STALKER/The.Collini.Case.2019.720p.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", RED NOTICE dual
+http://144.217.69.162/PELIS_STALKER/Red.Notice.2021.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", 7 PRISIONEROS dual
+http://144.217.69.162/PELIS_STALKER/7.Prisoners.2021.720p.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", NO MANCHES FRIDA lat
+http://144.217.69.162/PELIS_STALKER/No.manches.Frida.1.2016.Comedia.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", NO MANCHES FRIDA 2 lat
+http://144.217.69.162/PELIS_STALKER/No.manches.Frida.2.2019.Comedia.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", EL JUICIO ANTES DE NAVIDAD sub
+http://144.217.69.162/PELIS_STALKER/El.Juicio.antes.de.Navidad.2021.Documental.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 group-title="PELICULAS", ARDIENDO sub
+http://144.217.69.162/PELIS_STALKER/Ardiendo.2021.Documental.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 group-title="PELICULAS", ENSEÑAME EL CAMINO A CASA dual
+http://144.217.69.162/PELIS_STALKER/Ens%c3%a9%c3%b1ame.el.camino.a.casa.2021.Documental.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", ANGELE sub
+http://144.217.69.162/PELIS_STALKER/Ang%c3%a8le.2021.Documental.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 group-title="PELICULAS", JAGGED sub
+http://144.217.69.162/PELIS_STALKER/Jagged.2021.Documental.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 group-title="PELICULAS", FINAL ACCOUNT sub
+http://144.217.69.162/PELIS_STALKER/Final%20Account.2020.Documental.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 group-title="PELICULAS", ADRIENNE sub
+http://144.217.69.162/PELIS_STALKER/Adrienne.2021.Documental.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 group-title="PELICULAS", WITCH HUNT dual
+http://144.217.69.162/PELIS_STALKER/Witch.Hunt.2021.Thriller.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", DEJAME ENTRAR lat
+http://144.217.69.162/PELIS_STALKER/D%c3%a9jame.Entrar.2010.Terror.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", THE UNITED STATES OF INSANITY sub
+http://144.217.69.162/PELIS_STALKER/The.United.States.of.Insanity.2021.Documental.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 group-title="PELICULAS", MR SATURDAY NIGHT sub
+http://144.217.69.162/PELIS_STALKER/Mr.SaturdayNight.2021.Documental.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 group-title="PELICULAS", EL SACRIFICIO DEL CIERVO SAGRADO dual
+http://144.217.69.162/PELIS_STALKER/El.sacrificio.del.ciervo.sagrado.2017.Thriller.BRRip.LATINO.mkv
+
+
+
+#EXTINF:-1 group-title="PELICULAS", REC esp
+http://144.217.69.162/PELIS_STALKER/Rec.1.2007.Terror.BRRip.CASTELLANO.mkv
+
+
+#EXTINF:-1 group-title="PELICULAS", REC 2 esp
+http://144.217.69.162/PELIS_STALKER/Rec.2.2009.Terror.BRRip.CASTELLANO.mkv
 
 
 
