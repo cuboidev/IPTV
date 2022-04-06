@@ -2,20 +2,14 @@
 
 
 
-#EXTINF:-1 group-title="CANALES", CARTOON NETWORK LA TV
-https://www.youtube.com/watch?v=fHJGZB2ilJM
+
 
 
 #EXTINF:-1 group-title="CANALES", T13 TV
 https://www.youtube.com/watch?v=Ove87nZ_1D4
 
 
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS
-https://www.youtube.com/watch?v=o7Gb05T1-hw
 
-
-#EXTINF:-1 group-title="CANALES", JAPAN TRAIN TVCAM
-https://www.youtube.com/watch?v=zUMFznjhs8Q
 
 
 #EXTINF:-1 group-title="CANALES", TVPE TV pe
@@ -42,7 +36,19 @@ https://www.youtube.com/watch?v=mhJRzQsLZGg
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES", NASA TV
+#EXTINF:-1 group-title="CANALES", NASA 2TV
+https://www.youtube.com/watch?v=21X5lGlDOfg
+
+
+#EXTINF:-1 group-title="CANALES", SPACE VIDEOS TV
+https://www.youtube.com/watch?v=u-ngXpZKHvI
+
+
+#EXTINF:-1 group-title="CANALES", NASA 3 TV
+https://www.youtube.com/watch?v=nA9UZF-SZoQ
+
+
+#EXTINF:-1 group-title="CANALES", NASA 4 TV
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
 
@@ -54,8 +60,8 @@ https://www.youtube.com/watch?v=GZEwdVV5DTY
 https://www.youtube.com/watch?v=WWVwv31dlLg
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   PBM MUSIC reggae TV music
-https://www.youtube.com/watch?v=02UeR-sfXyg
+#EXTINF:-1 group-title="CANALES",  FRANCE 24 op2 TV
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", LOFI hiphop TV music
@@ -86,8 +92,8 @@ https://www.youtube.com/watch?v=GDQnA1LVCWA
 https://www.youtube.com/watch?v=N65Jb683pXQ
 
 
-#EXTINF:-1 group-title="CANALES", 24 HORAS TV
-https://www.youtube.com/watch?v=TsI2P9WINhY
+#EXTINF:-1 group-title="CANALES", COMEDY CENTRAL PLUTO TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
 
 
 #EXTINF:-1 group-title="CANALES", RTVE TV
@@ -98,8 +104,7 @@ https://www.youtube.com/watch?v=xR-4NDFsYNk
 https://www.youtube.com/watch?v=qxh5MZXxKb4
 
 
-#EXTINF:-1 group-title="CANALES", TELEDIARIO TV mx
-https://www.youtube.com/watch?v=OdPquVj-tC0
+
 
 
 #EXTINF:-1 group-title="CANALES", N+ TV
@@ -118,32 +123,29 @@ https://www.youtube.com/watch?v=XDJPzMznAjU
 https://www.youtube.com/watch?v=-vGhSrfKfUQ
 
 
-#EXTINF:-1 group-title="CANALES", CANAL 8 TV san juan
-https://www.youtube.com/watch?v=7e3cq4ksaIE
 
 
-#EXTINF:-1 group-title="CANALES", TELEMICRO TV
-https://www.youtube.com/watch?v=vieayCmCQl4
 
 
-#EXTINF:-1 group-title="CANALES", IMAGEN TV
-https://www.youtube.com/watch?v=0u05q6YUM9A
+
+#EXTINF:-1 group-title="CANALES", PLAY TV music
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", CANAL 13 TV ch
 https://www.youtube.com/watch?v=2o1MZuJ5UCA
 
 
-#EXTINF:-1 group-title="CANALES", TELEFE SALTA TV arg
-https://www.youtube.com/watch?v=dBQUJGR_aak
+#EXTINF:-1 group-title="CANALES", PLANENA TV
+https://live.obslivestream.com/planetatvmux/index.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", ADN40 TV
 https://www.youtube.com/watch?v=UKsX8l6f578
 
 
-#EXTINF:-1 group-title="CANALES",NOTICIAS CARACOL TV
-https://www.youtube.com/watch?v=hXvy91-w1B4
+#EXTINF:-1 group-title="CANALES", PLANEA TV
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CANALES",EURONEWS TV
@@ -154,12 +156,23 @@ https://www.youtube.com/watch?v=JbKgQhFlMdU
 https://www.youtube.com/watch?v=wjYi2LImqvk
 
 
+#EXTINF:-1 group-title="CANALES",DEMAND AFRICA TV
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="CANALES",CANAL 5 TV
 https://www.youtube.com/watch?v=-vGhSrfKfUQ
 
 
-#EXTINF:-1 group-title="CANALES",ENCUENTRO TV
-https://www.youtube.com/watch?v=NYdCsz61Hog
+#EXTINF:-1 group-title="CANALES",GALICA AMERICA TV
+http://tvpremiumhd.club/lista-gratuita/184103/on/live.php?id=america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 group-title="CANALES",GALICIA EUROPA TV
+http://tvpremiumhd.club/lista-gratuita/184103/on/live.php?id=europa-crtvg.flumotion.com/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CANALES",DREAMZ TV
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
 
 
 #EXTINF:-1 group-title="CANALES",CRONICA TV
@@ -367,6 +380,10 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 
 
+#EXTINF:-1 group-title="CANALES", MULTIVISION TV arg
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+
 #EXTINF:-1 group-title="CANALES", GALICIA TV
 http://america-crtvg.flumotion.com/playlist.m3u8
 
@@ -387,16 +404,16 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__  CINEMAX TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=cinemax&k=SrRegio2022&dos=.m3u8
+#EXTINF:-1 group-title="CANALES",  RADIO TV NEUQUEN TV
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__  EL NUEVE TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=elnueve&k=SrRegio2022&dos=.m3u8
+#EXTINF:-1 group-title="CANALES",  RNN TV
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__  A MAS TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=amas&k=SrRegio2022&dos=.m3u8
+#EXTINF:-1 group-title="CANALES", GEN TV 
+https://videohd.live:19360/8010/8010.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", TBD TV
@@ -415,8 +432,17 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
 
+#EXTINF:-1 group-title="CANALES", RETROPLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
+
 #EXTINF:-1 group-title="CANALES", KTV TV eng
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", DIRECTE TV 
+http://ventdelnord.tv:8080/escala/directe.m3u8
+
 
 
 #EXTINF:-1 group-title="CANALES", DNC TV eng
@@ -427,57 +453,56 @@ http://video.oct.dc.gov/out/u/DCN.m3u8
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 
 
-
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   WOW TV 2
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=wow&k=SrRegio2022&dos=.m3u8
+#EXTINF:-1 group-title="CANALES", READY TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   FIGHT TIME TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=fight&k=SrRegio2022&f=.m3u8
+#EXTINF:-1 group-title="CANALES",  PUNTA CANA TV
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   TELEMUNDO TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=telemundo&k=SrRegio2022&f=.m3u8
+#EXTINF:-1 group-title="CANALES",  ORBIT TV rd
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   GOLTV TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=goltv&k=SrRegio2022&f=.m3u8
+#EXTINF:-1 group-title="CANALES",  MICROVISION TV rd
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   GALAVISION TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=galavision&k=SrRegio2022&f=.m3u8
+#EXTINF:-1 group-title="CANALES",  HM TV rd
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   ESPN 1 TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=espn1-mx&k=SrRegio2022&f=.m3u8
+#EXTINF:-1 group-title="CANALES",  CINEVISION CANAL 9 TV rd
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   CLARO SPORT TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=clarosports&k=SrRegio2022&f=.m3u8
+#EXTINF:-1 group-title="CANALES",  HUMOR 24/4 TV
+https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   BEIN US HD TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=beinhd&k=SrRegio2022&f=.m3u8
+#EXTINF:-1 group-title="CANALES",  HBTV TICAVISION TV
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   ADRENALINA TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=adrenalina&k=SrRegio2022&f=.m3u8
+#EXTINF:-1 group-title="CANALES",  TDI COLOMBIA TV co
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   SPACE TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=space&k=SrRegio2022&f=.m3u8
+#EXTINF:-1 group-title="CANALES",  CLARO SPORTS TV
+http://45.179.140.242:8000/play/a0ht
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   IMAGEN TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=imagentv&k=SrRegio2022&f=.m3u8
+#EXTINF:-1 group-title="CANALES",  TELEPACIFICO TV co
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   5 infantil TV
-http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=elcinco&k=SrRegio2022&f=.m3u8
+#EXTINF:-1 group-title="CANALES",  CINCO TV
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 #EXTINF:-1 group-title="CANALES", TSC TV eng
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -495,8 +520,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/nettv.php?f=.m3u8
 
 
-#EXTINF:-1 group-title="CANALES",  __OFFLINE__   EL CHAVO TV
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:-1 group-title="CANALES",  CNN INTERNATIONAL
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", WAPPTV TV
@@ -507,12 +532,41 @@ https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=wapptv&f=.m3u8
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=horrorfy&f=.m3u8
 
 
+#EXTINF:-1 group-title="CANALES", CBN NEWS TV eng
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="CANALES", COMEDY ESPAÑA TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
+
+
+#EXTINF:-1 group-title="CANALES", CBN FAMILY TV eng
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", CHANNEL FIGHT TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+
+
 #EXTINF:-1 group-title="CANALES", EURONEWS TV opcion 2
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=euronews-spa&f=.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", SPANGLISH TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=spanglish&f=.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", CNN UK TV uk
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CANALES", CINEPRIDE TV
+https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
+
+#EXTINF:-1 group-title="CANALES", CINELIFE TV eng
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 
 
 #EXTINF:-1 group-title="CANALES", CASA COMEDY TV
@@ -1992,6 +2046,31 @@ http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x08.mkv
 
 
 
+#EXTINF:-1 group-title="SERIES", MR BEAN 01
+https://www.youtube.com/watch?v=sOlP10fDclE
+
+
+#EXTINF:-1 group-title="SERIES", MR BEAN 02
+https://www.youtube.com/watch?v=9f2CSNyd53o
+
+#EXTINF:-1 group-title="SERIES", MR BEAN 03
+https://www.youtube.com/watch?v=v9566h7mSOE
+
+
+#EXTINF:-1 group-title="SERIES", MR BEAN 04
+https://www.youtube.com/watch?v=gMs-zl28ZF0
+
+
+#EXTINF:-1 group-title="SERIES", MR BEAN 05
+https://www.youtube.com/watch?v=ZQryUvMpGk8
+
+
+#EXTINF:-1 group-title="SERIES", MR BEAN 06
+https://www.youtube.com/watch?v=yHgLTGXY2So
+
+
+#EXTINF:-1 group-title="SERIES", MR BEAN 07
+https://www.youtube.com/watch?v=qCNu_vJNLMQ
 
 
 
@@ -2010,9 +2089,36 @@ http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x08.mkv
 
 
 
+#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 01
+https://www.youtube.com/watch?v=o7Gb05T1-hw
 
 
+#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 02
+https://www.youtube.com/watch?v=q9LnztSXBr0
 
+
+#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 03
+https://www.youtube.com/watch?v=Xh_ugOt7jig
+
+
+#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 04
+https://www.youtube.com/watch?v=17DV_-iaJTE
+
+
+#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 05
+https://www.youtube.com/watch?v=nUWw5OwmdFg
+
+
+#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 06
+https://www.youtube.com/watch?v=kapZHt_cMrg
+
+
+#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 07
+https://www.youtube.com/watch?v=ejFCxvddrbM
+
+
+#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 08
+https://www.youtube.com/watch?v=lvmFhio54hs
 
 
 
