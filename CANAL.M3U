@@ -1,2743 +1,1153 @@
 #EXTM3U
-
-
-
-
-
-
-#EXTINF:-1 group-title="CANALES", T13 TV
+#EXTINF:-1 tvg-id="" tvg-name="T13 TV" tvg-logo="" group-title="CANALES",T13 TV
 https://www.youtube.com/watch?v=Ove87nZ_1D4
-
-
-
-
-
-#EXTINF:-1 group-title="CANALES", TVPE TV pe
+#EXTINF:-1 tvg-id="" tvg-name="TVPE TV pe" tvg-logo="" group-title="CANALES",TVPE TV pe
 https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", RPC TV
+#EXTINF:-1 tvg-id="" tvg-name="RPC TV" tvg-logo="" group-title="CANALES",RPC TV
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", TOKYO SHINJUKU TVCAM
+#EXTINF:-1 tvg-id="" tvg-name="TOKYO SHINJUKU TVCAM" tvg-logo="" group-title="CANALES",TOKYO SHINJUKU TVCAM
 https://www.youtube.com/watch?v=RQA5RcIZlAM
-
-
-#EXTINF:-1 group-title="CANALES", KYIV KIEV KIJÒN LVIV LWIW LWÒW TVCAM
+#EXTINF:-1 tvg-id="" tvg-name="KYIV KIEV KIJÒN LVIV LWIW LWÒW TVCAM" tvg-logo="" group-title="CANALES",KYIV KIEV KIJÒN LVIV LWIW LWÒW TVCAM
 https://www.youtube.com/watch?v=e2gC37ILQmk
-
-
-#EXTINF:-1 group-title="CANALES", NASA SPACEFLY TV starbase
+#EXTINF:-1 tvg-id="" tvg-name="NASA SPACEFLY TV starbase" tvg-logo="" group-title="CANALES",NASA SPACEFLY TV starbase
 https://www.youtube.com/watch?v=mhJRzQsLZGg
-
-
-#EXTINF:-1 group-title="CANALES", NASA TV
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="" group-title="CANALES",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", NASA 2TV
+#EXTINF:-1 tvg-id="" tvg-name="NASA 2TV" tvg-logo="" group-title="CANALES",NASA 2TV
 https://www.youtube.com/watch?v=21X5lGlDOfg
-
-
-#EXTINF:-1 group-title="CANALES", SPACE VIDEOS TV
+#EXTINF:-1 tvg-id="" tvg-name="SPACE VIDEOS TV" tvg-logo="" group-title="CANALES",SPACE VIDEOS TV
 https://www.youtube.com/watch?v=u-ngXpZKHvI
-
-
-#EXTINF:-1 group-title="CANALES", NASA 3 TV
+#EXTINF:-1 tvg-id="" tvg-name="NASA 3 TV" tvg-logo="" group-title="CANALES",NASA 3 TV
 https://www.youtube.com/watch?v=nA9UZF-SZoQ
-
-
-#EXTINF:-1 group-title="CANALES", NASA 4 TV
+#EXTINF:-1 tvg-id="" tvg-name="NASA 4 TV" tvg-logo="" group-title="CANALES",NASA 4 TV
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", LA NACION TV
+#EXTINF:-1 tvg-id="" tvg-name="LA NACION TV" tvg-logo="" group-title="CANALES",LA NACION TV
 https://www.youtube.com/watch?v=GZEwdVV5DTY
-
-
-#EXTINF:-1 group-title="CANALES", MEGANOTICIAS TV
+#EXTINF:-1 tvg-id="" tvg-name="MEGANOTICIAS TV" tvg-logo="" group-title="CANALES",MEGANOTICIAS TV
 https://www.youtube.com/watch?v=WWVwv31dlLg
-
-
-#EXTINF:-1 group-title="CANALES",  FRANCE 24 op2 TV
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 op2 TV" tvg-logo="" group-title="CANALES",FRANCE 24 op2 TV
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", LOFI hiphop TV music
+#EXTINF:-1 tvg-id="" tvg-name="LOFI hiphop TV music" tvg-logo="" group-title="CANALES",LOFI hiphop TV music
 https://www.youtube.com/watch?v=5qap5aO4i9A
-
-
-#EXTINF:-1 group-title="CANALES", THE GOOD LIFE 2 TV music
+#EXTINF:-1 tvg-id="" tvg-name="THE GOOD LIFE 2 TV music" tvg-logo="" group-title="CANALES",THE GOOD LIFE 2 TV music
 https://www.youtube.com/watch?v=19hKXI1ENrY
-
-
-#EXTINF:-1 group-title="CANALES", THE GOOD LIFE TV music
+#EXTINF:-1 tvg-id="" tvg-name="THE GOOD LIFE TV music" tvg-logo="" group-title="CANALES",THE GOOD LIFE TV music
 https://www.youtube.com/watch?v=36YnV9STBqc
-
-
-#EXTINF:-1 group-title="CANALES", FREQUENZY rock TV music
+#EXTINF:-1 tvg-id="" tvg-name="FREQUENZY rock TV music" tvg-logo="" group-title="CANALES",FREQUENZY rock TV music
 https://www.youtube.com/watch?v=5X18D-EbjUc
-
-
-#EXTINF:-1 group-title="CANALES", KEEP IT UNDERGROUND deephouse TV music
+#EXTINF:-1 tvg-id="" tvg-name="KEEP IT UNDERGROUND deephouse TV music" tvg-logo="" group-title="CANALES",KEEP IT UNDERGROUND deephouse TV music
 https://www.youtube.com/watch?v=pxltemZvAqc
-
-
-#EXTINF:-1 group-title="CANALES", FUTURE HOUSE electrodance TV music
+#EXTINF:-1 tvg-id="" tvg-name="FUTURE HOUSE electrodance TV music" tvg-logo="" group-title="CANALES",FUTURE HOUSE electrodance TV music
 https://www.youtube.com/watch?v=GDQnA1LVCWA
-
-
-#EXTINF:-1 group-title="CANALES", SPINING RECORDS pop TV music
+#EXTINF:-1 tvg-id="" tvg-name="SPINING RECORDS pop TV music" tvg-logo="" group-title="CANALES",SPINING RECORDS pop TV music
 https://www.youtube.com/watch?v=N65Jb683pXQ
-
-
-#EXTINF:-1 group-title="CANALES", COMEDY CENTRAL PLUTO TV
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL PLUTO TV" tvg-logo="" group-title="CANALES",COMEDY CENTRAL PLUTO TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
-
-
-#EXTINF:-1 group-title="CANALES", RTVE TV
+#EXTINF:-1 tvg-id="" tvg-name="RTVE TV" tvg-logo="" group-title="CANALES",RTVE TV
 https://www.youtube.com/watch?v=xR-4NDFsYNk
-
-
-#EXTINF:-1 group-title="CANALES", MILENIO TV
+#EXTINF:-1 tvg-id="" tvg-name="MILENIO TV" tvg-logo="" group-title="CANALES",MILENIO TV
 https://www.youtube.com/watch?v=qxh5MZXxKb4
-
-
-
-
-
-#EXTINF:-1 group-title="CANALES", N+ TV
+#EXTINF:-1 tvg-id="" tvg-name="N+ TV" tvg-logo="" group-title="CANALES",N+ TV
 https://www.youtube.com/watch?v=ujksVlR9i8w
-
-
-#EXTINF:-1 group-title="CANALES", AMERICA TV
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="" group-title="CANALES",AMERICA TV
 https://www.youtube.com/watch?v=zcWXboTnous
-
-
-#EXTINF:-1 group-title="CANALES", FRANCE 24 ESPAÑOL TV
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ESPAÑOL TV" tvg-logo="" group-title="CANALES",FRANCE 24 ESPAÑOL TV
 https://www.youtube.com/watch?v=XDJPzMznAjU
-
-
-#EXTINF:-1 group-title="CANALES", C5N TV
+#EXTINF:-1 tvg-id="" tvg-name="C5N TV" tvg-logo="" group-title="CANALES",C5N TV
 https://www.youtube.com/watch?v=-vGhSrfKfUQ
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="CANALES", PLAY TV music
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV music" tvg-logo="" group-title="CANALES",PLAY TV music
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CANAL 13 TV ch
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 TV ch" tvg-logo="" group-title="CANALES",CANAL 13 TV ch
 https://www.youtube.com/watch?v=2o1MZuJ5UCA
-
-
-#EXTINF:-1 group-title="CANALES", PLANENA TV
+#EXTINF:-1 tvg-id="" tvg-name="PLANENA TV" tvg-logo="" group-title="CANALES",PLANENA TV
 https://live.obslivestream.com/planetatvmux/index.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", ADN40 TV
+#EXTINF:-1 tvg-id="" tvg-name="ADN40 TV" tvg-logo="" group-title="CANALES",ADN40 TV
 https://www.youtube.com/watch?v=UKsX8l6f578
-
-
-#EXTINF:-1 group-title="CANALES", PLANEA TV
+#EXTINF:-1 tvg-id="" tvg-name="PLANEA TV" tvg-logo="" group-title="CANALES",PLANEA TV
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",EURONEWS TV
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS TV" tvg-logo="" group-title="CANALES",EURONEWS TV
 https://www.youtube.com/watch?v=JbKgQhFlMdU
-
-
-#EXTINF:-1 group-title="CANALES",KZO TV
+#EXTINF:-1 tvg-id="" tvg-name="KZO TV" tvg-logo="" group-title="CANALES",KZO TV
 https://www.youtube.com/watch?v=wjYi2LImqvk
-
-
-#EXTINF:-1 group-title="CANALES",DEMAND AFRICA TV
+#EXTINF:-1 tvg-id="" tvg-name="DEMAND AFRICA TV" tvg-logo="" group-title="CANALES",DEMAND AFRICA TV
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",CANAL 5 TV
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 TV" tvg-logo="" group-title="CANALES",CANAL 5 TV
 https://www.youtube.com/watch?v=-vGhSrfKfUQ
-
-
-#EXTINF:-1 group-title="CANALES",GALICA AMERICA TV
+#EXTINF:-1 tvg-id="" tvg-name="GALICA AMERICA TV" tvg-logo="" group-title="CANALES",GALICA AMERICA TV
 http://tvpremiumhd.club/lista-gratuita/184103/on/live.php?id=america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 group-title="CANALES",GALICIA EUROPA TV
+#EXTINF:-1 tvg-id="" tvg-name="GALICIA EUROPA TV" tvg-logo="" group-title="CANALES",GALICIA EUROPA TV
 http://tvpremiumhd.club/lista-gratuita/184103/on/live.php?id=europa-crtvg.flumotion.com/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",DREAMZ TV
+#EXTINF:-1 tvg-id="" tvg-name="DREAMZ TV" tvg-logo="" group-title="CANALES",DREAMZ TV
 http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
-
-
-#EXTINF:-1 group-title="CANALES",CRONICA TV
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA TV" tvg-logo="" group-title="CANALES",CRONICA TV
 https://www.youtube.com/watch?v=InSydaLSSlw
-
-
-#EXTINF:-1 group-title="CANALES",FILADELFIA TV cristiano
+#EXTINF:-1 tvg-id="" tvg-name="FILADELFIA TV cristiano" tvg-logo="" group-title="CANALES",FILADELFIA TV cristiano
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", TELEMETRO TV
+#EXTINF:-1 tvg-id="" tvg-name="TELEMETRO TV" tvg-logo="" group-title="CANALES",TELEMETRO TV
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CHEDDAR TV
+#EXTINF:-1 tvg-id="" tvg-name="CHEDDAR TV" tvg-logo="" group-title="CANALES",CHEDDAR TV
 https://live.chdrstatic.com/get.php?username=cheddar&password=primary&type=m3u
-
-
-#EXTINF:-1 group-title="CANALES", TMZ TV
+#EXTINF:-1 tvg-id="" tvg-name="TMZ TV" tvg-logo="" group-title="CANALES",TMZ TV
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", TBD TV
+#EXTINF:-1 tvg-id="" tvg-name="TBD TV" tvg-logo="" group-title="CANALES",TBD TV
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-
-
-#EXTINF:-1 group-title="CANALES", REDBULL 2 TV
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL 2 TV" tvg-logo="" group-title="CANALES",REDBULL 2 TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", REDBULL TV
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV" tvg-logo="" group-title="CANALES",REDBULL TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", MMAJUNKIE TV
+#EXTINF:-1 tvg-id="" tvg-name="MMAJUNKIE TV" tvg-logo="" group-title="CANALES",MMAJUNKIE TV
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", FAILARMY TV
+#EXTINF:-1 tvg-id="" tvg-name="FAILARMY TV" tvg-logo="" group-title="CANALES",FAILARMY TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", FAILARMY 2 TV
+#EXTINF:-1 tvg-id="" tvg-name="FAILARMY 2 TV" tvg-logo="" group-title="CANALES",FAILARMY 2 TV
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CAPITAL TV music
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL TV music" tvg-logo="" group-title="CANALES",CAPITAL TV music
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", RETRO TV music
+#EXTINF:-1 tvg-id="" tvg-name="RETRO TV music" tvg-logo="" group-title="CANALES",RETRO TV music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", TS TV
+#EXTINF:-1 tvg-id="" tvg-name="TS TV" tvg-logo="" group-title="CANALES",TS TV
 http://video.telesafor.com/hls/video_high.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", MEDICAL TV ar
+#EXTINF:-1 tvg-id="" tvg-name="MEDICAL TV ar" tvg-logo="" group-title="CANALES",MEDICAL TV ar
 http://panel.dattalive.com:1935/8250/8250/chunklist_w325606071.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", TELEMAX TV
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX TV" tvg-logo="" group-title="CANALES",TELEMAX TV
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", HBTV TV
+#EXTINF:-1 tvg-id="" tvg-name="HBTV TV" tvg-logo="" group-title="CANALES",HBTV TV
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", RGC TV
+#EXTINF:-1 tvg-id="" tvg-name="RGC TV" tvg-logo="" group-title="CANALES",RGC TV
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", ALCARRIA TV
+#EXTINF:-1 tvg-id="" tvg-name="ALCARRIA TV" tvg-logo="" group-title="CANALES",ALCARRIA TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", HLS TV
+#EXTINF:-1 tvg-id="" tvg-name="HLS TV" tvg-logo="" group-title="CANALES",HLS TV
 http://video.telesafor.com/hls/video_high.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", RTQ TV
+#EXTINF:-1 tvg-id="" tvg-name="RTQ TV" tvg-logo="" group-title="CANALES",RTQ TV
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", PD PSERTAO TV br
+#EXTINF:-1 tvg-id="" tvg-name="PD PSERTAO TV br" tvg-logo="" group-title="CANALES",PD PSERTAO TV br
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", EXTREMA TV
+#EXTINF:-1 tvg-id="" tvg-name="EXTREMA TV" tvg-logo="" group-title="CANALES",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",TELESUR NOTICIAS TV
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR NOTICIAS TV" tvg-logo="" group-title="CANALES",TELESUR NOTICIAS TV
 https://www.youtube.com/watch?v=qJR6fN_WnHY
-
-
-#EXTINF:-1 group-title="CANALES", TODO NOTICIAS TV
+#EXTINF:-1 tvg-id="" tvg-name="TODO NOTICIAS TV" tvg-logo="" group-title="CANALES",TODO NOTICIAS TV
 https://www.youtube.com/watch?v=wHn1_QVoXGM
-
-
-#EXTINF:-1 group-title="CANALES", DW ESPAÑOL TV
+#EXTINF:-1 tvg-id="" tvg-name="DW ESPAÑOL TV" tvg-logo="" group-title="CANALES",DW ESPAÑOL TV
 https://www.youtube.com/watch?v=bKpGAHgpYoU
-
-
-#EXTINF:-1 group-title="CANALES", DW ESPAÑOL 2 TV
+#EXTINF:-1 tvg-id="" tvg-name="DW ESPAÑOL 2 TV" tvg-logo="" group-title="CANALES",DW ESPAÑOL 2 TV
 https://www.youtube.com/watch?v=N82PUyiO_QY
-
-
-#EXTINF:-1 group-title="CANALES", NOTICIAS CARACOL TV
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS CARACOL TV" tvg-logo="" group-title="CANALES",NOTICIAS CARACOL TV
 https://www.youtube.com/watch?v=hXvy91-w1B4
-
-
-#EXTINF:-1 group-title="CANALES", FASHION TV
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="" group-title="CANALES",FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CANAL CAPITAL TV co
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL TV co" tvg-logo="" group-title="CANALES",CANAL CAPITAL TV co
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", MIAMI TV
+#EXTINF:-1 tvg-id="" tvg-name="MIAMI TV" tvg-logo="" group-title="CANALES",MIAMI TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", TELESUR TV cr
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR TV cr" tvg-logo="" group-title="CANALES",TELESUR TV cr
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", JASMIN TV
+#EXTINF:-1 tvg-id="" tvg-name="JASMIN TV" tvg-logo="" group-title="CANALES",JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", LANCELOT TV
+#EXTINF:-1 tvg-id="" tvg-name="LANCELOT TV" tvg-logo="" group-title="CANALES",LANCELOT TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", PORTAL FOXMIX TV music
+#EXTINF:-1 tvg-id="" tvg-name="PORTAL FOXMIX TV music" tvg-logo="" group-title="CANALES",PORTAL FOXMIX TV music
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", LOCA TV
+#EXTINF:-1 tvg-id="" tvg-name="LOCA TV" tvg-logo="" group-title="CANALES",LOCA TV
 http://184.173.181.2:1935/8022/8022/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CHETUMAL TV
+#EXTINF:-1 tvg-id="" tvg-name="CHETUMAL TV" tvg-logo="" group-title="CANALES",CHETUMAL TV
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CAMPUS HD TV
+#EXTINF:-1 tvg-id="" tvg-name="CAMPUS HD TV" tvg-logo="" group-title="CANALES",CAMPUS HD TV
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", MICRO HD TV
+#EXTINF:-1 tvg-id="" tvg-name="MICRO HD TV" tvg-logo="" group-title="CANALES",MICRO HD TV
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-
-
-
-#EXTINF:-1 group-title="CANALES", TEN HONDURAS TV
+#EXTINF:-1 tvg-id="" tvg-name="TEN HONDURAS TV" tvg-logo="" group-title="CANALES",TEN HONDURAS TV
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", HECHOS TV ec
+#EXTINF:-1 tvg-id="" tvg-name="HECHOS TV ec" tvg-logo="" group-title="CANALES",HECHOS TV ec
 http://37.187.7.106/hechostv/live.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", TELEMAX TV
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX TV" tvg-logo="" group-title="CANALES",TELEMAX TV
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", UHLS 2 TV
+#EXTINF:-1 tvg-id="" tvg-name="UHLS 2 TV" tvg-logo="" group-title="CANALES",UHLS 2 TV
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", UHLS TV
+#EXTINF:-1 tvg-id="" tvg-name="UHLS TV" tvg-logo="" group-title="CANALES",UHLS TV
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", OVACION TV
+#EXTINF:-1 tvg-id="" tvg-name="OVACION TV" tvg-logo="" group-title="CANALES",OVACION TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", OVACION TV
+#EXTINF:-1 tvg-id="" tvg-name="OVACION TV" tvg-logo="" group-title="CANALES",OVACION TV
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", BH TV
+#EXTINF:-1 tvg-id="" tvg-name="BH TV" tvg-logo="" group-title="CANALES",BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", MULTIMEDIOS TV mx
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS TV mx" tvg-logo="" group-title="CANALES",MULTIMEDIOS TV mx
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", MULTIMEDIOS TV cr
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS TV cr" tvg-logo="" group-title="CANALES",MULTIMEDIOS TV cr
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-
-
-#EXTINF:-1 group-title="CANALES", LITUS TV ur
+#EXTINF:-1 tvg-id="" tvg-name="LITUS TV ur" tvg-logo="" group-title="CANALES",LITUS TV ur
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", MULTIVISION TV arg
+#EXTINF:-1 tvg-id="" tvg-name="MULTIVISION TV arg" tvg-logo="" group-title="CANALES",MULTIVISION TV arg
 http://panel.dattalive.com:1935/8250/8250/.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", MULTIVISION TV arg
+#EXTINF:-1 tvg-id="" tvg-name="MULTIVISION TV arg" tvg-logo="" group-title="CANALES",MULTIVISION TV arg
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", GALICIA TV
+#EXTINF:-1 tvg-id="" tvg-name="GALICIA TV" tvg-logo="" group-title="CANALES",GALICIA TV
 http://america-crtvg.flumotion.com/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",CANALE51 TV music
+#EXTINF:-1 tvg-id="" tvg-name="CANALE51 TV music" tvg-logo="" group-title="CANALES",CANALE51 TV music
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CENTRAL TV
+#EXTINF:-1 tvg-id="" tvg-name="CENTRAL TV" tvg-logo="" group-title="CANALES",CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CBS NEWS TV
+#EXTINF:-1 tvg-id="" tvg-name="CBS NEWS TV" tvg-logo="" group-title="CANALES",CBS NEWS TV
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CANAL PROVINCIAL TV
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PROVINCIAL TV" tvg-logo="" group-title="CANALES",CANAL PROVINCIAL TV
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  RADIO TV NEUQUEN TV
+#EXTINF:-1 tvg-id="" tvg-name="RADIO TV NEUQUEN TV" tvg-logo="" group-title="CANALES",RADIO TV NEUQUEN TV
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  RNN TV
+#EXTINF:-1 tvg-id="" tvg-name="RNN TV" tvg-logo="" group-title="CANALES",RNN TV
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", GEN TV 
+#EXTINF:-1 tvg-id="" tvg-name="GEN TV " tvg-logo="" group-title="CANALES",GEN TV 
 https://videohd.live:19360/8010/8010.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", TBD TV
+#EXTINF:-1 tvg-id="" tvg-name="TBD TV" tvg-logo="" group-title="CANALES",TBD TV
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-
-
-#EXTINF:-1 group-title="CANALES", M2O TV music
+#EXTINF:-1 tvg-id="" tvg-name="M2O TV music" tvg-logo="" group-title="CANALES",M2O TV music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", FLUMOTION TV
+#EXTINF:-1 tvg-id="" tvg-name="FLUMOTION TV" tvg-logo="" group-title="CANALES",FLUMOTION TV
 http://america-crtvg.flumotion.com/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", FLUMOTION 2 TV
+#EXTINF:-1 tvg-id="" tvg-name="FLUMOTION 2 TV" tvg-logo="" group-title="CANALES",FLUMOTION 2 TV
 http://europa-crtvg.flumotion.com/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", RETROPLUS TV
+#EXTINF:-1 tvg-id="" tvg-name="RETROPLUS TV" tvg-logo="" group-title="CANALES",RETROPLUS TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", KTV TV eng
+#EXTINF:-1 tvg-id="" tvg-name="KTV TV eng" tvg-logo="" group-title="CANALES",KTV TV eng
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", DIRECTE TV 
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTE TV " tvg-logo="" group-title="CANALES",DIRECTE TV 
 http://ventdelnord.tv:8080/escala/directe.m3u8
-
-
-
-#EXTINF:-1 group-title="CANALES", DNC TV eng
+#EXTINF:-1 tvg-id="" tvg-name="DNC TV eng" tvg-logo="" group-title="CANALES",DNC TV eng
 http://video.oct.dc.gov/out/u/DCN.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", FUTURO TV music
+#EXTINF:-1 tvg-id="" tvg-name="FUTURO TV music" tvg-logo="" group-title="CANALES",FUTURO TV music
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", READY TV
+#EXTINF:-1 tvg-id="" tvg-name="READY TV" tvg-logo="" group-title="CANALES",READY TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", WOW TV
+#EXTINF:-1 tvg-id="" tvg-name="WOW TV" tvg-logo="" group-title="CANALES",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  PUNTA CANA TV
+#EXTINF:-1 tvg-id="" tvg-name="PUNTA CANA TV" tvg-logo="" group-title="CANALES",PUNTA CANA TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  ORBIT TV rd
+#EXTINF:-1 tvg-id="" tvg-name="ORBIT TV rd" tvg-logo="" group-title="CANALES",ORBIT TV rd
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  MICROVISION TV rd
+#EXTINF:-1 tvg-id="" tvg-name="MICROVISION TV rd" tvg-logo="" group-title="CANALES",MICROVISION TV rd
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  HM TV rd
+#EXTINF:-1 tvg-id="" tvg-name="HM TV rd" tvg-logo="" group-title="CANALES",HM TV rd
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  CINEVISION CANAL 9 TV rd
+#EXTINF:-1 tvg-id="" tvg-name="CINEVISION CANAL 9 TV rd" tvg-logo="" group-title="CANALES",CINEVISION CANAL 9 TV rd
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  HUMOR 24/4 TV
+#EXTINF:-1 tvg-id="" tvg-name="HUMOR 24/4 TV" tvg-logo="" group-title="CANALES",HUMOR 24/4 TV
 https://srv.panelcast.net/humor247/humor247/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  HBTV TICAVISION TV
+#EXTINF:-1 tvg-id="" tvg-name="HBTV TICAVISION TV" tvg-logo="" group-title="CANALES",HBTV TICAVISION TV
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  TDI COLOMBIA TV co
+#EXTINF:-1 tvg-id="" tvg-name="TDI COLOMBIA TV co" tvg-logo="" group-title="CANALES",TDI COLOMBIA TV co
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  CLARO SPORTS TV
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS TV" tvg-logo="" group-title="CANALES",CLARO SPORTS TV
 http://45.179.140.242:8000/play/a0ht
-
-
-#EXTINF:-1 group-title="CANALES",  TELEPACIFICO TV co
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO TV co" tvg-logo="" group-title="CANALES",TELEPACIFICO TV co
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  CINCO TV
+#EXTINF:-1 tvg-id="" tvg-name="CINCO TV" tvg-logo="" group-title="CANALES",CINCO TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-#EXTINF:-1 group-title="CANALES", TSC TV eng
+#EXTINF:-1 tvg-id="" tvg-name="TSC TV eng" tvg-logo="" group-title="CANALES",TSC TV eng
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", LA 2 TV
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 TV" tvg-logo="" group-title="CANALES",LA 2 TV
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", AND40 TV
+#EXTINF:-1 tvg-id="" tvg-name="AND40 TV" tvg-logo="" group-title="CANALES",AND40 TV
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", NET TV
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="" group-title="CANALES",NET TV
 http://regioplay.xyz/php/SR_REGIO_223022_/nettv.php?f=.m3u8
-
-
-#EXTINF:-1 group-title="CANALES",  CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="" group-title="CANALES",CNN INTERNATIONAL
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", WAPPTV TV
+#EXTINF:-1 tvg-id="" tvg-name="WAPPTV TV" tvg-logo="" group-title="CANALES",WAPPTV TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=wapptv&f=.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", HORRORFY TV
+#EXTINF:-1 tvg-id="" tvg-name="HORRORFY TV" tvg-logo="" group-title="CANALES",HORRORFY TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=horrorfy&f=.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CBN NEWS TV eng
+#EXTINF:-1 tvg-id="" tvg-name="CBN NEWS TV eng" tvg-logo="" group-title="CANALES",CBN NEWS TV eng
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-
-
-
-
-#EXTINF:-1 group-title="CANALES", COMEDY ESPAÑA TV
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY ESPAÑA TV" tvg-logo="" group-title="CANALES",COMEDY ESPAÑA TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
-
-
-#EXTINF:-1 group-title="CANALES", CBN FAMILY TV eng
+#EXTINF:-1 tvg-id="" tvg-name="CBN FAMILY TV eng" tvg-logo="" group-title="CANALES",CBN FAMILY TV eng
 https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CHANNEL FIGHT TV
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL FIGHT TV" tvg-logo="" group-title="CANALES",CHANNEL FIGHT TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-
-
-#EXTINF:-1 group-title="CANALES", EURONEWS TV opcion 2
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS TV opcion 2" tvg-logo="" group-title="CANALES",EURONEWS TV opcion 2
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=euronews-spa&f=.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", SPANGLISH TV
+#EXTINF:-1 tvg-id="" tvg-name="SPANGLISH TV" tvg-logo="" group-title="CANALES",SPANGLISH TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=spanglish&f=.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CNN UK TV uk
+#EXTINF:-1 tvg-id="" tvg-name="CNN UK TV uk" tvg-logo="" group-title="CANALES",CNN UK TV uk
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CINEPRIDE TV
+#EXTINF:-1 tvg-id="" tvg-name="CINEPRIDE TV" tvg-logo="" group-title="CANALES",CINEPRIDE TV
 https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
-
-#EXTINF:-1 group-title="CANALES", CINELIFE TV eng
+#EXTINF:-1 tvg-id="" tvg-name="CINELIFE TV eng" tvg-logo="" group-title="CANALES",CINELIFE TV eng
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CASA COMEDY TV
+#EXTINF:-1 tvg-id="" tvg-name="CASA COMEDY TV" tvg-logo="" group-title="CANALES",CASA COMEDY TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=casa-comedy&f=.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", FLASH MUSIC TV
+#EXTINF:-1 tvg-id="" tvg-name="FLASH MUSIC TV" tvg-logo="" group-title="CANALES",FLASH MUSIC TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=flash-1&f=.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", TU CINE TV
+#EXTINF:-1 tvg-id="" tvg-name="TU CINE TV" tvg-logo="" group-title="CANALES",TU CINE TV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=tu-cine-latam&f=.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", CGTN ESPAÑA TV
+#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑA TV" tvg-logo="" group-title="CANALES",CGTN ESPAÑA TV
 https://livees.cgtn.com/1000e/prog_index.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", HLS TV
+#EXTINF:-1 tvg-id="" tvg-name="HLS TV" tvg-logo="" group-title="CANALES",HLS TV
 http://video.telesafor.com/hls/video_low.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", UNOPLAY TV
+#EXTINF:-1 tvg-id="" tvg-name="UNOPLAY TV" tvg-logo="" group-title="CANALES",UNOPLAY TV
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", VORTERIX TV
+#EXTINF:-1 tvg-id="" tvg-name="VORTERIX TV" tvg-logo="" group-title="CANALES",VORTERIX TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
-
-
-#EXTINF:-1 group-title="CANALES", WTV TV music
+#EXTINF:-1 tvg-id="" tvg-name="WTV TV music" tvg-logo="" group-title="CANALES",WTV TV music
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-
-
-#EXTINF:-1 group-title="CANALES", PLANETA MOVIE TV
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA MOVIE TV" tvg-logo="" group-title="CANALES",PLANETA MOVIE TV
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="PELICULAS", PROMETEUS lat
+#EXTINF:-1 tvg-id="" tvg-name="PROMETEUS lat" tvg-logo="" group-title="PELICULAS",PROMETEUS lat
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", DEADPOOL lat
+#EXTINF:-1 tvg-id="" tvg-name="DEADPOOL lat" tvg-logo="" group-title="PELICULAS",DEADPOOL lat
 https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", INTENSAMENTE lat
+#EXTINF:-1 tvg-id="" tvg-name="INTENSAMENTE lat" tvg-logo="" group-title="PELICULAS",INTENSAMENTE lat
 https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", GUARDIANES DE LA GALAXIA lat
+#EXTINF:-1 tvg-id="" tvg-name="GUARDIANES DE LA GALAXIA lat" tvg-logo="" group-title="PELICULAS",GUARDIANES DE LA GALAXIA lat
 https://goo.gl/sFaEVq
-
-
-#EXTINF:-1 group-title="PELICULAS", LA FORMA DEL AGUA sub
+#EXTINF:-1 tvg-id="" tvg-name="LA FORMA DEL AGUA sub" tvg-logo="" group-title="PELICULAS",LA FORMA DEL AGUA sub
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", ANGRY BIRDS lat
+#EXTINF:-1 tvg-id="" tvg-name="ANGRY BIRDS lat" tvg-logo="" group-title="PELICULAS",ANGRY BIRDS lat
 http://cecegeek@goo.gl/3KGMLf
-
-
-#EXTINF:-1 group-title="PELICULAS", ANDY WEXLER lat
+#EXTINF:-1 tvg-id="" tvg-name="ANDY WEXLER lat" tvg-logo="" group-title="PELICULAS",ANDY WEXLER lat
 http://bit.ly/MRAQCSAND
-
-
-#EXTINF:-1 group-title="PELICULAS", THE MINE lat
+#EXTINF:-1 tvg-id="" tvg-name="THE MINE lat" tvg-logo="" group-title="PELICULAS",THE MINE lat
 http://bit.ly/THEMINE
-
-
-#EXTINF:-º1 group-title="PELICULAS", VOLVER AL FUTURO lat
+#EXTINF:-1 tvg-id="" tvg-name="VOLVER AL FUTURO lat" tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO lat
 http://regioplay.xyz/php/SR_REGIO_223022_/volver.php?f=.mp4
-
-
-#EXTINF:-º1 group-title="PELICULAS", VOLVER AL FUTURO II lat
+#EXTINF:-1 tvg-id="" tvg-name="VOLVER AL FUTURO II lat" tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO II lat
 http://regioplay.xyz/php/SR_REGIO_223022_/volver2.php?f=.mp4
-
-
-#EXTINF:-º1 group-title="PELICULAS", VOLVER AL FUTURO III lat
+#EXTINF:-1 tvg-id="" tvg-name="VOLVER AL FUTURO III lat" tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO III lat
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", RENO 911 sub
+#EXTINF:-1 tvg-id="" tvg-name="RENO 911 sub" tvg-logo="" group-title="PELICULAS",RENO 911 sub
 http://144.217.69.162/PELIS_STALKER/Reno.911.The.Hunt.For.QAnon.2021.Comedia.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", VOYAGERS lat
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGERS lat" tvg-logo="" group-title="PELICULAS",VOYAGERS lat
 http://144.217.69.162/PELIS_STALKER/Voyagers.2021.SciFi.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", VENOM 2 sub
+#EXTINF:-1 tvg-id="" tvg-name="VENOM 2 sub" tvg-logo="" group-title="PELICULAS",VENOM 2 sub
 http://144.217.69.162/PELIS_STALKER/Venom.Let.There.Be.Carnage.SUB.2021.mp4
-
-#EXTINF:-1 group-title="PELICULAS", VENOM 2 lat
+#EXTINF:-1 tvg-id="" tvg-name="VENOM 2 lat" tvg-logo="" group-title="PELICULAS",VENOM 2 lat
 http://regioplay.xyz/223022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", VHS sub
+#EXTINF:-1 tvg-id="" tvg-name="VHS sub" tvg-logo="" group-title="PELICULAS",VHS sub
 http://144.217.69.162/PELIS_STALKER/VHS.94.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", UNA FAMILIA GENIAL lat
+#EXTINF:-1 tvg-id="" tvg-name="UNA FAMILIA GENIAL lat" tvg-logo="" group-title="PELICULAS",UNA FAMILIA GENIAL lat
 http://144.217.69.162/PELIS_STALKER/Una.familia.genial.2017.Aventura.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SPIDERMAN LEJOS DE CASA lat
+#EXTINF:-1 tvg-id="" tvg-name="SPIDERMAN LEJOS DE CASA lat" tvg-logo="" group-title="PELICULAS",SPIDERMAN LEJOS DE CASA lat
 http://144.217.69.162/PELIS_STALKER/Spider.Man.2.Lejos.de.casa.2019.Accion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SPIDERMAN DE REGRESO A CASA lat
+#EXTINF:-1 tvg-id="" tvg-name="SPIDERMAN DE REGRESO A CASA lat" tvg-logo="" group-title="PELICULAS",SPIDERMAN DE REGRESO A CASA lat
 http://144.217.69.162/PELIS_STALKER/Spider.Man.1.De.regreso.a.casa.2017.Accion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", 30 DIAS DE NOCHE lat
+#EXTINF:-1 tvg-id="" tvg-name="30 DIAS DE NOCHE lat" tvg-logo="" group-title="PELICULAS",30 DIAS DE NOCHE lat
 http://144.217.69.162/PELIS_STALKER/30.d%c3%adas.de.noche.1.2007.Terror.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", JIGSAW VIII sub
+#EXTINF:-1 tvg-id="" tvg-name="JIGSAW VIII sub" tvg-logo="" group-title="PELICULAS",JIGSAW VIII sub
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", 30 DIAS DE NOCHE 2 lat
+#EXTINF:-1 tvg-id="" tvg-name="30 DIAS DE NOCHE 2 lat" tvg-logo="" group-title="PELICULAS",30 DIAS DE NOCHE 2 lat
 http://144.217.69.162/PELIS_STALKER/30.d%c3%adas.de.noche.2.D%c3%adas.oscuros.2010.Terror.HDRip.LATINO%20.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", ALICIA EN EL PAIS DE LAS MARAVILLAS lat
+#EXTINF:-1 tvg-id="" tvg-name="ALICIA EN EL PAIS DE LAS MARAVILLAS lat" tvg-logo="" group-title="PELICULAS",ALICIA EN EL PAIS DE LAS MARAVILLAS lat
 http://144.217.69.162/PELIS_STALKER/Alicia.1.en.el.Pa%c3%ads.de.las.Maravillas.2010.Aventuras.BDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", ALICIA 2 ATRAVES DEL ESPEJO lat
+#EXTINF:-1 tvg-id="" tvg-name="ALICIA 2 ATRAVES DEL ESPEJO lat" tvg-logo="" group-title="PELICULAS",ALICIA 2 ATRAVES DEL ESPEJO lat
 http://144.217.69.162/PELIS_STALKER/Alicia.2.a.trav%c3%a9s.del.espejo.2016.Aventuras.BDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", CARBON ALTERADO REENFUNDADOS lat
+#EXTINF:-1 tvg-id="" tvg-name="CARBON ALTERADO REENFUNDADOS lat" tvg-logo="" group-title="PELICULAS",CARBON ALTERADO REENFUNDADOS lat
 http://144.217.69.162/PELIS_STALKER/Altered.Carbon.Reenfundados.2020.Animacion.BRRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", ASSASSINS CREED lat
+#EXTINF:-1 tvg-id="" tvg-name="ASSASSINS CREED lat" tvg-logo="" group-title="PELICULAS",ASSASSINS CREED lat
 http://144.217.69.162/PELIS_STALKER/Assassins.Creed.2016.Accion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", CANDYMAN lat
+#EXTINF:-1 tvg-id="" tvg-name="CANDYMAN lat" tvg-logo="" group-title="PELICULAS",CANDYMAN lat
 http://144.217.69.162/PELIS_STALKER/Candyman.2021.720p.mkv
-
-#EXTINF:-1 group-title="PELICULAS", CARIÑO CUANTO TE ODIO lat
+#EXTINF:-1 tvg-id="" tvg-name="CARIÑO CUANTO TE ODIO lat" tvg-logo="" group-title="PELICULAS",CARIÑO CUANTO TE ODIO lat
 http://144.217.69.162/PELIS_STALKER/Carino.cuanto.te.odio.2021.Romance.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", COMO SI FUERA LA PRIMERA VEZ lat
+#EXTINF:-1 tvg-id="" tvg-name="COMO SI FUERA LA PRIMERA VEZ lat" tvg-logo="" group-title="PELICULAS",COMO SI FUERA LA PRIMERA VEZ lat
 http://144.217.69.162/PELIS_STALKER/Como.si.fuera.la.primera.vez.2004.Romance.BRRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", DRACULA MUERTO PERO FELIZ lat
+#EXTINF:-1 tvg-id="" tvg-name="DRACULA MUERTO PERO FELIZ lat" tvg-logo="" group-title="PELICULAS",DRACULA MUERTO PERO FELIZ lat
 http://144.217.69.162/PELIS_STALKER/Dr%c3%a1cula.Muerto.pero.feliz.1995.Comedia.BRRip.LATINO.mkv
-
-#EXTINF:-1 group-title="PELICULAS", DUNE lat
+#EXTINF:-1 tvg-id="" tvg-name="DUNE lat" tvg-logo="" group-title="PELICULAS",DUNE lat
 http://144.217.69.162/PELIS_STALKER/Dune.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", EIFFEL lat
+#EXTINF:-1 tvg-id="" tvg-name="EIFFEL lat" tvg-logo="" group-title="PELICULAS",EIFFEL lat
 http://144.217.69.162/PELIS_STALKER/Eiffel.2021.Drama.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", EL CONTADOR DE CARTAS lat
+#EXTINF:-1 tvg-id="" tvg-name="EL CONTADOR DE CARTAS lat" tvg-logo="" group-title="PELICULAS",EL CONTADOR DE CARTAS lat
 http://144.217.69.162/PELIS_STALKER/El.contador.de.cartas.2021.Accion.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", ETERNALS lat
+#EXTINF:-1 tvg-id="" tvg-name="ETERNALS lat" tvg-logo="" group-title="PELICULAS",ETERNALS lat
 http://144.217.69.162/PELIS_STALKER/Eternals.2021.Accion.HDRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", ETERNALS lat
+#EXTINF:-1 tvg-id="" tvg-name="ETERNALS lat" tvg-logo="" group-title="PELICULAS",ETERNALS lat
 http://regioplay.xyz/223022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", CAZAFANTASMAS lat
+#EXTINF:-1 tvg-id="" tvg-name="CAZAFANTASMAS lat" tvg-logo="" group-title="PELICULAS",CAZAFANTASMAS lat
 http://144.217.69.162/PELIS_STALKER/Ghostbusters.2016.Comedia.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", CAZAFANTASMAS MAS ALLA lat
+#EXTINF:-1 tvg-id="" tvg-name="CAZAFANTASMAS MAS ALLA lat" tvg-logo="" group-title="PELICULAS",CAZAFANTASMAS MAS ALLA lat
 http://144.217.69.162/PELIS_STALKER/Ghostbusters.Afterlife.2021.Comedia.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", CAZAFANTASMAS MAS ALLA lat opcion 2
+#EXTINF:-1 tvg-id="" tvg-name="CAZAFANTASMAS MAS ALLA lat opcion 2" tvg-logo="" group-title="PELICULAS",CAZAFANTASMAS MAS ALLA lat opcion 2
 http://144.217.69.162/4K/ghostbusters.afterlife.2021.2160p.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", JAKASS FOREVER lat
+#EXTINF:-1 tvg-id="" tvg-name="JAKASS FOREVER lat" tvg-logo="" group-title="PELICULAS",JAKASS FOREVER lat
 http://144.217.69.162/PELIS_STALKER/Jackass.por.siempre.2022.Comedia.HDRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", KINGSMAN SERVICIO SECRETO lat
+#EXTINF:-1 tvg-id="" tvg-name="KINGSMAN SERVICIO SECRETO lat" tvg-logo="" group-title="PELICULAS",KINGSMAN SERVICIO SECRETO lat
 http://144.217.69.162/PELIS_STALKER/Kingsman.1.The.Secret.Service.2014.Accion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", KINGSMAN CIRCULO DORADO lat
+#EXTINF:-1 tvg-id="" tvg-name="KINGSMAN CIRCULO DORADO lat" tvg-logo="" group-title="PELICULAS",KINGSMAN CIRCULO DORADO lat
 http://144.217.69.162/PELIS_STALKER/Kingsman.2.The.Golden.Circle.2017.Accion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", KINGSMAN 3 lat
+#EXTINF:-1 tvg-id="" tvg-name="KINGSMAN 3 lat" tvg-logo="" group-title="PELICULAS",KINGSMAN 3 lat
 http://144.217.69.162/PELIS_STALKER/Kingsman.3.The.Kings.Man.2021.Accion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO lat
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.1.2002.Animacion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO 2 lat
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO 2 lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO 2 lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.2.2006.Animacion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO 3 lat
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO 3 lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO 3 lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.3.2009.Animacion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO 4 lat
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO 4 lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO 4 lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.4.2012.Animacion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO 5 lat
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO 5 lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO 5 lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.5.Choque.de.mundos.2016.Animacion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA ERA DEL HIELO 6 lat
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO 6 lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO 6 lat
 http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.6.2022.Animacion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA HERENCIA DEL SEÑOR DEEDS dual
+#EXTINF:-1 tvg-id="" tvg-name="LA HERENCIA DEL SEÑOR DEEDS dual" tvg-logo="" group-title="PELICULAS",LA HERENCIA DEL SEÑOR DEEDS dual
 http://144.217.69.162/PELIS_STALKER/La.herencia.del.Sr.Deeds.2002.Comedia.BRRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", MATRIX RESURRECCIONES lat
+#EXTINF:-1 tvg-id="" tvg-name="MATRIX RESURRECCIONES lat" tvg-logo="" group-title="PELICULAS",MATRIX RESURRECCIONES lat
 http://144.217.69.162/PELIS_STALKER/Matrix.Resurrecciones.2021.Accion.HDRip.LATINO.mp4
-
-#EXTINF:-1 group-title="PELICULAS", MATRIX RESURRECCIONES opcion 2 lat
+#EXTINF:-1 tvg-id="" tvg-name="MATRIX RESURRECCIONES opcion 2 lat" tvg-logo="" group-title="PELICULAS",MATRIX RESURRECCIONES opcion 2 lat
 http://regioplay.xyz/php/SR_REGIO_223022_/matrix2021.php?f=.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", RESIDENT EVIL BIENVENIDOS A RACCOON CITY lat
+#EXTINF:-1 tvg-id="" tvg-name="RESIDENT EVIL BIENVENIDOS A RACCOON CITY lat" tvg-logo="" group-title="PELICULAS",RESIDENT EVIL BIENVENIDOS A RACCOON CITY lat
 http://144.217.69.162/PELIS_STALKER/Resident.Evil.Bienvenidos.a.Raccoon.City.2021.Terror.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", SCREAM lat
+#EXTINF:-1 tvg-id="" tvg-name="SCREAM lat" tvg-logo="" group-title="PELICULAS",SCREAM lat
 http://144.217.69.162/PELIS_STALKER/Scream.2022.Terror.HDRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SHANG CHI lat
+#EXTINF:-1 tvg-id="" tvg-name="SHANG CHI lat" tvg-logo="" group-title="PELICULAS",SHANG CHI lat
 http://144.217.69.162/PELIS_STALKER/Shang-Chi.And.The.Legend.Of.The.Ten.Rings.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SNAKE EYES GIJOE dual
+#EXTINF:-1 tvg-id="" tvg-name="SNAKE EYES GIJOE dual" tvg-logo="" group-title="PELICULAS",SNAKE EYES GIJOE dual
 http://144.217.69.162/PELIS_STALKER/Snake.Eyes.G.I.Joe.Origins.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SOUTH PARK POST COVID 1 lat
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK POST COVID 1 lat" tvg-logo="" group-title="PELICULAS",SOUTH PARK POST COVID 1 lat
 http://144.217.69.162/PELIS_STALKER/South.Park.Post.Covid.1.2021.Animacion.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", SOUTH PARK POST COVID 2 lat
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK POST COVID 2 lat" tvg-logo="" group-title="PELICULAS",SOUTH PARK POST COVID 2 lat
 http://144.217.69.162/PELIS_STALKER/South.Park.Post.Covid.2.The.Return.of.Covid.2021.Animacion.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", LOS SIMPSONS EN PLUS ANIVERSARIO lat
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS EN PLUS ANIVERSARIO lat" tvg-logo="" group-title="PELICULAS",LOS SIMPSONS EN PLUS ANIVERSARIO lat
 http://144.217.69.162/PELIS_STALKER/The.Simpsons.in.Plusaversary.2021.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SUICIDE SQUAD 2 lat
+#EXTINF:-1 tvg-id="" tvg-name="SUICIDE SQUAD 2 lat" tvg-logo="" group-title="PELICULAS",SUICIDE SQUAD 2 lat
 http://144.217.69.162/PELIS_STALKER/The.Suicide.Squad.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SUICIDE SQUAD 2 4K lat
+#EXTINF:-1 tvg-id="" tvg-name="SUICIDE SQUAD 2 4K lat" tvg-logo="" group-title="PELICULAS",SUICIDE SQUAD 2 4K lat
 http://144.217.69.162/4K/The.Suicide.Squad.2021.4K.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", EL ESTAFADOR DE TINDER lat
+#EXTINF:-1 tvg-id="" tvg-name="EL ESTAFADOR DE TINDER lat" tvg-logo="" group-title="PELICULAS",EL ESTAFADOR DE TINDER lat
 http://144.217.69.162/PELIS_STALKER/The.Tinder.Swindler.2022.Documental.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", FRANCO ESCAMILLA BIENVENIDO AL MUNDO lat
+#EXTINF:-1 tvg-id="" tvg-name="FRANCO ESCAMILLA BIENVENIDO AL MUNDO lat" tvg-logo="" group-title="PELICULAS",FRANCO ESCAMILLA BIENVENIDO AL MUNDO lat
 http://regioplay.xyz/php/SR_REGIO_223022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", FREE GUY lat
+#EXTINF:-1 tvg-id="" tvg-name="FREE GUY lat" tvg-logo="" group-title="PELICULAS",FREE GUY lat
 http://regioplay.xyz/223022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", NO RESPIRES 2 lat
+#EXTINF:-1 tvg-id="" tvg-name="NO RESPIRES 2 lat" tvg-logo="" group-title="PELICULAS",NO RESPIRES 2 lat
 http://regioplay.xyz/223022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-
-
-
-#EXTINF:-1 group-title="PELICULAS", FAST AND FURIOUS 9 lat
+#EXTINF:-1 tvg-id="" tvg-name="FAST AND FURIOUS 9 lat" tvg-logo="" group-title="PELICULAS",FAST AND FURIOUS 9 lat
 http://regioplay.xyz/223022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", FAST AND FURIOUS 9 lat
+#EXTINF:-1 tvg-id="" tvg-name="FAST AND FURIOUS 9 lat" tvg-logo="" group-title="PELICULAS",FAST AND FURIOUS 9 lat
 http://regioplay.xyz/223022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", MASACRE EN TEXAS 2022 lat
+#EXTINF:-1 tvg-id="" tvg-name="MASACRE EN TEXAS 2022 lat" tvg-logo="" group-title="PELICULAS",MASACRE EN TEXAS 2022 lat
 http://regioplay.xyz/php/SR_REGIO_223022_/masacreentexas2022.php?f=.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", XMEN APOCALIPSIS dual
+#EXTINF:-1 tvg-id="" tvg-name="XMEN APOCALIPSIS dual" tvg-logo="" group-title="PELICULAS",XMEN APOCALIPSIS dual
 http://51.77.66.14/Marvel/X-Men/X-Men%208%20-%20Apocalypse.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", XMEN PRIMERA GENERACION dual
+#EXTINF:-1 tvg-id="" tvg-name="XMEN PRIMERA GENERACION dual" tvg-logo="" group-title="PELICULAS",XMEN PRIMERA GENERACION dual
 http://51.77.66.14/Marvel/X-Men/X-Men%205%20-%20Primera%20Generacion.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", XMEN ORIGINS WOLVERINE INMORTAL dual
+#EXTINF:-1 tvg-id="" tvg-name="XMEN ORIGINS WOLVERINE INMORTAL dual" tvg-logo="" group-title="PELICULAS",XMEN ORIGINS WOLVERINE INMORTAL dual
 http://51.77.66.14/Marvel/X-Men/X-Men%206%20-%20Origins%20-%20Wolverine%20Inmortal%20(Extended).mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", XMEN LOGAN dual
+#EXTINF:-1 tvg-id="" tvg-name="XMEN LOGAN dual" tvg-logo="" group-title="PELICULAS",XMEN LOGAN dual
 http://51.77.66.14/Marvel/X-Men/X-Men%209%20-%20Origenes%20-%20Logan.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", XMEN DIAS DEL FUTURO PASADO dual
+#EXTINF:-1 tvg-id="" tvg-name="XMEN DIAS DEL FUTURO PASADO dual" tvg-logo="" group-title="PELICULAS",XMEN DIAS DEL FUTURO PASADO dual
 http://51.77.66.14/Marvel/X-Men/X-Men%207%20-%20Dias%20del%20Futuro%20Pasado%20(The%20Rogue%20Cut).mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", JOHN WICK 3 dual
+#EXTINF:-1 tvg-id="" tvg-name="JOHN WICK 3 dual" tvg-logo="" group-title="PELICULAS",JOHN WICK 3 dual
 http://162.12.215.254/Data/Movies/Dual%20Audio/2020/John%20Wick%20Chapter%203%202019%20Dual%20Audio%20720p%20BRRip%201.1Gb%20x264/John%20Wick%20Chapter%203%202019%20Dual%20Audio%20720p%20BRRip%201.1Gb%20x264.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", AVENGERS END GAME dual
+#EXTINF:-1 tvg-id="" tvg-name="AVENGERS END GAME dual" tvg-logo="" group-title="PELICULAS",AVENGERS END GAME dual
 http://162.12.215.254/Data/Movies/Dual%20Audio/2019/Avengers%20Endgame%202019%20Dual%20Audio%20ORG%20720p%20BRRip%201.7Gb%20x264/
-
-
-#EXTINF:-1 group-title="PELICULAS", ALIVE lat
+#EXTINF:-1 tvg-id="" tvg-name="ALIVE lat" tvg-logo="" group-title="PELICULAS",ALIVE lat
 http://144.217.69.162/PELIS_STALKER/Alive.2019.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", CHILANGOLANDIA lat
+#EXTINF:-1 tvg-id="" tvg-name="CHILANGOLANDIA lat" tvg-logo="" group-title="PELICULAS",CHILANGOLANDIA lat
 http://144.217.69.162/PELIS_STALKER/Chilangolandia.2021.Comedia.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", CORAZON VALIENTE lat
+#EXTINF:-1 tvg-id="" tvg-name="CORAZON VALIENTE lat" tvg-logo="" group-title="PELICULAS",CORAZON VALIENTE lat
 http://144.217.69.162/PELIS_STALKER/Corazon.valiente.1995.Aventuras.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", INFINITE dual
+#EXTINF:-1 tvg-id="" tvg-name="INFINITE dual" tvg-logo="" group-title="PELICULAS",INFINITE dual
 http://144.217.69.162/4K/infinite.2021.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", LA PURGA FOREVER dual
+#EXTINF:-1 tvg-id="" tvg-name="LA PURGA FOREVER dual" tvg-logo="" group-title="PELICULAS",LA PURGA FOREVER dual
 http://144.217.69.162/4K/The.Forever.Purge.2021.4k.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", SIN TIEMPO PARA MORIR 4K dual
+#EXTINF:-1 tvg-id="" tvg-name="SIN TIEMPO PARA MORIR 4K dual" tvg-logo="" group-title="PELICULAS",SIN TIEMPO PARA MORIR 4K dual
 http://144.217.69.162/4K/No.Time.to.Die.2021.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", SIN TIEMPO PARA MORIR op2 dual
+#EXTINF:-1 tvg-id="" tvg-name="SIN TIEMPO PARA MORIR op2 dual" tvg-logo="" group-title="PELICULAS",SIN TIEMPO PARA MORIR op2 dual
 http://144.217.69.162/PELIS_STALKER/No.Time.To.Die.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", FINCH dual
+#EXTINF:-1 tvg-id="" tvg-name="FINCH dual" tvg-logo="" group-title="PELICULAS",FINCH dual
 http://144.217.69.162/4K/Finch.2021.4K.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", FREE GUY dual
+#EXTINF:-1 tvg-id="" tvg-name="FREE GUY dual" tvg-logo="" group-title="PELICULAS",FREE GUY dual
 http://144.217.69.162/4K/Free.Guy.2021.2160p.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", LA CASA GUCCI dual
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA GUCCI dual" tvg-logo="" group-title="PELICULAS",LA CASA GUCCI dual
 http://144.217.69.162/4K/House.Of.Gucci.2021.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", EL ULTIMO RITO sub
+#EXTINF:-1 tvg-id="" tvg-name="EL ULTIMO RITO sub" tvg-logo="" group-title="PELICULAS",EL ULTIMO RITO sub
 http://144.217.69.162/PELIS_STALKER/The.Last.Rite.2021.Terror.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", EL ULTIMO EXORSISMO sub
+#EXTINF:-1 tvg-id="" tvg-name="EL ULTIMO EXORSISMO sub" tvg-logo="" group-title="PELICULAS",EL ULTIMO EXORSISMO sub
 http://144.217.69.162/PELIS_STALKER/The.Last.Exorcist.2020.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LOS OJOS DE TAMMY FAYE sub
+#EXTINF:-1 tvg-id="" tvg-name="LOS OJOS DE TAMMY FAYE sub" tvg-logo="" group-title="PELICULAS",LOS OJOS DE TAMMY FAYE sub
 http://144.217.69.162/PELIS_STALKER/The.Eyes.of.Tammy.Faye.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", MUERTE INSTANTANEA lat
+#EXTINF:-1 tvg-id="" tvg-name="MUERTE INSTANTANEA lat" tvg-logo="" group-title="PELICULAS",MUERTE INSTANTANEA lat
 http://144.217.69.162/PELIS_STALKER/Polaroid.2019.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", OTRA PELICULA DE HUEVOS Y UN POLLO lat
+#EXTINF:-1 tvg-id="" tvg-name="OTRA PELICULA DE HUEVOS Y UN POLLO lat" tvg-logo="" group-title="PELICULAS",OTRA PELICULA DE HUEVOS Y UN POLLO lat
 http://144.217.69.162/PELIS_STALKER/Otra.pelicula.de.huevos.y.un.pollo.2009.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", OCUPATION dual
+#EXTINF:-1 tvg-id="" tvg-name="OCUPATION dual" tvg-logo="" group-title="PELICULAS",OCUPATION dual
 http://144.217.69.162/PELIS_STALKER/Occupation.2021.Sci.Fi.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", NO MIRESA ARRIBA dual
+#EXTINF:-1 tvg-id="" tvg-name="NO MIRESA ARRIBA dual" tvg-logo="" group-title="PELICULAS",NO MIRESA ARRIBA dual
 http://144.217.69.162/PELIS_STALKER/No.miren.arriba.2021.Comedia.BRRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", MO NOVIA ES UN ZOMBIE dual
+#EXTINF:-1 tvg-id="" tvg-name="MO NOVIA ES UN ZOMBIE dual" tvg-logo="" group-title="PELICULAS",MO NOVIA ES UN ZOMBIE dual
 http://144.217.69.162/PELIS_STALKER/Mi.novia.es.un.zombie.2014.Comedia.BRRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", LORDS OF SCAM lat
+#EXTINF:-1 tvg-id="" tvg-name="LORDS OF SCAM lat" tvg-logo="" group-title="PELICULAS",LORDS OF SCAM lat
 http://144.217.69.162/PELIS_STALKER/Lords.of.Scam.2021.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA PASION DE CRISTO dual
+#EXTINF:-1 tvg-id="" tvg-name="LA PASION DE CRISTO dual" tvg-logo="" group-title="PELICULAS",LA PASION DE CRISTO dual
 http://144.217.69.162/PELIS_STALKER/La.pasi%c3%b3n.de.Cristo.2004.Drama.BRRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", HIDE AND SEEK sub
+#EXTINF:-1 tvg-id="" tvg-name="HIDE AND SEEK sub" tvg-logo="" group-title="PELICULAS",HIDE AND SEEK sub
 http://144.217.69.162/PELIS_STALKER/Hide.and.Seek.2021.Thriller.BRRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", GEMENIS PLANETA OSCURO dual
+#EXTINF:-1 tvg-id="" tvg-name="GEMENIS PLANETA OSCURO dual" tvg-logo="" group-title="PELICULAS",GEMENIS PLANETA OSCURO dual
 http://144.217.69.162/PELIS_STALKER/Geminis.El.planeta.oscuro.2022.SciFi.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", EL CALLEJON DE LAS ALMAS PERDIDAS dual
+#EXTINF:-1 tvg-id="" tvg-name="EL CALLEJON DE LAS ALMAS PERDIDAS dual" tvg-logo="" group-title="PELICULAS",EL CALLEJON DE LAS ALMAS PERDIDAS dual
 http://144.217.69.162/PELIS_STALKER/El.callej%c3%b3n.de.las.almas.perdidas.2021.Drama.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", EL ASESINO DENTRO DE MI sub
+#EXTINF:-1 tvg-id="" tvg-name="EL ASESINO DENTRO DE MI sub" tvg-logo="" group-title="PELICULAS",EL ASESINO DENTRO DE MI sub
 http://144.217.69.162/PELIS_STALKER/El.asesino.dentro.de.mi.2010.Thriller.BRRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", LA GUERRA DEL MAÑANA lat
+#EXTINF:-1 tvg-id="" tvg-name="LA GUERRA DEL MAÑANA lat" tvg-logo="" group-title="PELICULAS",LA GUERRA DEL MAÑANA lat
 http://144.217.69.162/4K/The.Tomorrow.War.2021.4k.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", ESPIRAL EL JUEGO CONTINUA lat
+#EXTINF:-1 tvg-id="" tvg-name="ESPIRAL EL JUEGO CONTINUA lat" tvg-logo="" group-title="PELICULAS",ESPIRAL EL JUEGO CONTINUA lat
 http://144.217.69.162/4K/Spiral.From.the.Book.of.Saw.2021.4k.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", NO RESPIRES 2 4K lat
+#EXTINF:-1 tvg-id="" tvg-name="NO RESPIRES 2 4K lat" tvg-logo="" group-title="PELICULAS",NO RESPIRES 2 4K lat
 http://144.217.69.162/4K/Dont.Breathe.2.2021.4K.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", WIFI RALPH dual
+#EXTINF:-1 tvg-id="" tvg-name="WIFI RALPH dual" tvg-logo="" group-title="PELICULAS",WIFI RALPH dual
 http://51.77.66.14/Wifi.Ralph.2018.1080p.WEB-DL.H264.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", CEMENTERIO DE MASCOTAS dual
+#EXTINF:-1 tvg-id="" tvg-name="CEMENTERIO DE MASCOTAS dual" tvg-logo="" group-title="PELICULAS",CEMENTERIO DE MASCOTAS dual
 http://51.77.66.14/Pet.Sematary.(2019).1080p.BDRip-Latino.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", JOHN WICK 3 4K dual
+#EXTINF:-1 tvg-id="" tvg-name="JOHN WICK 3 4K dual" tvg-logo="" group-title="PELICULAS",JOHN WICK 3 4K dual
 http://51.77.66.14/John.Wick.3.(2019).1080p.BDRip-Latino.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", CAPITANA MARVER 4K dual
+#EXTINF:-1 tvg-id="" tvg-name="CAPITANA MARVER 4K dual" tvg-logo="" group-title="PELICULAS",CAPITANA MARVER 4K dual
 http://51.77.66.14/Captain.Marvel.2019.1080p.WEB-DL.DD5.1.H264.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", BUMBLEBEE 4K dual
+#EXTINF:-1 tvg-id="" tvg-name="BUMBLEBEE 4K dual" tvg-logo="" group-title="PELICULAS",BUMBLEBEE 4K dual
 http://51.77.66.14/Bumblebee.2018.WEBDL.1080p.H264.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", JOHNNY ENGLISH ATACA DE NUEVO 2K dual
+#EXTINF:-1 tvg-id="" tvg-name="JOHNNY ENGLISH ATACA DE NUEVO 2K dual" tvg-logo="" group-title="PELICULAS",JOHNNY ENGLISH ATACA DE NUEVO 2K dual
 http://51.77.66.14/Johnny.English.Strikes.Again.(2018).1080p.BDRip-Latino.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", ANIMALES FANTASTICOS LOS CRIMENES DE GRINDELWALD dual
+#EXTINF:-1 tvg-id="" tvg-name="ANIMALES FANTASTICOS LOS CRIMENES DE GRINDELWALD dual" tvg-logo="" group-title="PELICULAS",ANIMALES FANTASTICOS LOS CRIMENES DE GRINDELWALD dual
 http://51.77.66.14/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.WEB.h264.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", POKEMON DETECTIVE PIKACHU dual
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON DETECTIVE PIKACHU dual" tvg-logo="" group-title="PELICULAS",POKEMON DETECTIVE PIKACHU dual
 http://51.77.66.14/Pokemon.Detective.Pikachu.(2019).1080p.BDRip-Latino.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", GLASS dual
+#EXTINF:-1 tvg-id="" tvg-name="GLASS dual" tvg-logo="" group-title="PELICULAS",GLASS dual
 http://51.77.66.14/Glass%20(2019)%20Latino%20HD%20WEB-DL%201080P.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", AVENGERS END GAME dual
+#EXTINF:-1 tvg-id="" tvg-name="AVENGERS END GAME dual" tvg-logo="" group-title="PELICULAS",AVENGERS END GAME dual
 http://51.77.66.14/Avengers.endgame.(2019).1080p.BDRip-Latino.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SPACE JAM 2 dual
+#EXTINF:-1 tvg-id="" tvg-name="SPACE JAM 2 dual" tvg-logo="" group-title="PELICULAS",SPACE JAM 2 dual
 http://51.77.66.14/Space.Jam.a.New.Legacy.2021.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", EL ROBO DEL SIGLO lat
+#EXTINF:-1 tvg-id="" tvg-name="EL ROBO DEL SIGLO lat" tvg-logo="" group-title="PELICULAS",EL ROBO DEL SIGLO lat
 http://51.77.66.14/El.robo.del.siglo.2020.WEB-DL.1080P-LMHD/El.robo.del.siglo.2020.WEB-DL.1080P-LMHD.mkv
-
-
-
-#EXTINF:-1 group-title="PELICULAS", PIRATAS DEL CARIBE 5 LA VENGANZA DE SALAZAR dual
+#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE 5 LA VENGANZA DE SALAZAR dual" tvg-logo="" group-title="PELICULAS",PIRATAS DEL CARIBE 5 LA VENGANZA DE SALAZAR dual
 http://51.77.66.14/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.Latino.1080p.BluRay.X264.ChileBT/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.Latino.1080p.BluRay.X264.ChileBT.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", PIRATAS DEL CARIBE 1 LA MALDICION DEL PERLA NEGRA lat
+#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE 1 LA MALDICION DEL PERLA NEGRA lat" tvg-logo="" group-title="PELICULAS",PIRATAS DEL CARIBE 1 LA MALDICION DEL PERLA NEGRA lat
 http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%201.avi
-
-
-#EXTINF:-1 group-title="PELICULAS", PIRATAS DEL CARIBE 2 EL COFRE DE LA MUERTE lat
+#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE 2 EL COFRE DE LA MUERTE lat" tvg-logo="" group-title="PELICULAS",PIRATAS DEL CARIBE 2 EL COFRE DE LA MUERTE lat
 http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%202.avi
-
-
-#EXTINF:-1 group-title="PELICULAS", PIRATAS DEL CARIBE 3 EN EL FIN DEL MUNDO lat
+#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE 3 EN EL FIN DEL MUNDO lat" tvg-logo="" group-title="PELICULAS",PIRATAS DEL CARIBE 3 EN EL FIN DEL MUNDO lat
 http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%203.avi
-
-
-#EXTINF:-1 group-title="PELICULAS", PIRATAS DEL CARIBE 4 NAVEGANDO AGUAS MISTERIOSAS lat
+#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE 4 NAVEGANDO AGUAS MISTERIOSAS lat" tvg-logo="" group-title="PELICULAS",PIRATAS DEL CARIBE 4 NAVEGANDO AGUAS MISTERIOSAS lat
 http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%204.avi
-
-
-#EXTINF:-1 group-title="PELICULAS", CAPITAN AMERICA dual
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAN AMERICA dual" tvg-logo="" group-title="PELICULAS",CAPITAN AMERICA dual
 http://51.77.66.14/Marvel/Capitan%20America/Capitan%20America%201.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", CAPITAN AMERICA EL SOLDADO DEL INVIERNO dual
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAN AMERICA EL SOLDADO DEL INVIERNO dual" tvg-logo="" group-title="PELICULAS",CAPITAN AMERICA EL SOLDADO DEL INVIERNO dual
 http://51.77.66.14/Marvel/Capitan%20America/Capitan%20America%202%20-%20El%20Soldado%20del%20Invierno.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", CAPITAN AMERICA CIVIL WAR dual
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAN AMERICA CIVIL WAR dual" tvg-logo="" group-title="PELICULAS",CAPITAN AMERICA CIVIL WAR dual
 http://51.77.66.14/Marvel/Capitan%20America/Captain%20America%203%20-%20Guerra%20Civil.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", ANT MAN dual
+#EXTINF:-1 tvg-id="" tvg-name="ANT MAN dual" tvg-logo="" group-title="PELICULAS",ANT MAN dual
 http://51.77.66.14/Marvel/Ant-Man/Ant-Man%20-%20El%20Hombre%20Hormiga.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", ANT MAN 2 dual
+#EXTINF:-1 tvg-id="" tvg-name="ANT MAN 2 dual" tvg-logo="" group-title="PELICULAS",ANT MAN 2 dual
 http://51.77.66.14/Marvel/Ant-Man/Ant-Man%202%20y%20La%20Avispa.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", DOCTOR STRANGE dual
+#EXTINF:-1 tvg-id="" tvg-name="DOCTOR STRANGE dual" tvg-logo="" group-title="PELICULAS",DOCTOR STRANGE dual
 http://51.77.66.14/Marvel/Doctor%20Strange%20-%20Hechicero%20Supremo.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", IRON MAN dual
+#EXTINF:-1 tvg-id="" tvg-name="IRON MAN dual" tvg-logo="" group-title="PELICULAS",IRON MAN dual
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%201.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", IRON MAN 2 dual
+#EXTINF:-1 tvg-id="" tvg-name="IRON MAN 2 dual" tvg-logo="" group-title="PELICULAS",IRON MAN 2 dual
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%202.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", IRON MAN 3 dual
+#EXTINF:-1 tvg-id="" tvg-name="IRON MAN 3 dual" tvg-logo="" group-title="PELICULAS",IRON MAN 3 dual
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%203.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", PANTERA NEGRA dual
+#EXTINF:-1 tvg-id="" tvg-name="PANTERA NEGRA dual" tvg-logo="" group-title="PELICULAS",PANTERA NEGRA dual
 http://51.77.66.14/Marvel/Pantera%20Negra.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THOR dual
+#EXTINF:-1 tvg-id="" tvg-name="THOR dual" tvg-logo="" group-title="PELICULAS",THOR dual
 http://51.77.66.14/Marvel/Thor/Thor%201.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THOR 2 UN MUNDO OSCURO dual
+#EXTINF:-1 tvg-id="" tvg-name="THOR 2 UN MUNDO OSCURO dual" tvg-logo="" group-title="PELICULAS",THOR 2 UN MUNDO OSCURO dual
 http://51.77.66.14/Marvel/Thor/Thor%202%20-%20Un%20Mundo%20Oscuro.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THOR 3 RAGNAROK dual
+#EXTINF:-1 tvg-id="" tvg-name="THOR 3 RAGNAROK dual" tvg-logo="" group-title="PELICULAS",THOR 3 RAGNAROK dual
 http://51.77.66.14/Marvel/Thor/Thor%203%20-%20Ragnarok.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", VENOM dual
+#EXTINF:-1 tvg-id="" tvg-name="VENOM dual" tvg-logo="" group-title="PELICULAS",VENOM dual
 http://51.77.66.14/Marvel/Venom.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", ROBIN HOOD dual
+#EXTINF:-1 tvg-id="" tvg-name="ROBIN HOOD dual" tvg-logo="" group-title="PELICULAS",ROBIN HOOD dual
 http://51.77.66.14/Robin%20Hood%20(2018)%201080p%20BDRip%20Dual%20Audio%20Latino-Ingl%c3%a9s.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", GODZILLA REY DE LOS MOUNSTRUOS dual
+#EXTINF:-1 tvg-id="" tvg-name="GODZILLA REY DE LOS MOUNSTRUOS dual" tvg-logo="" group-title="PELICULAS",GODZILLA REY DE LOS MOUNSTRUOS dual
 http://51.77.66.14/Godzilla.King.of.the.Monsters.(2019).1080p.WEBDL-Latino.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", DOG 2022 sub
+#EXTINF:-1 tvg-id="" tvg-name="DOG 2022 sub" tvg-logo="" group-title="PELICULAS",DOG 2022 sub
 http://144.217.69.162/PELIS_STALKER/Dog.Un.viaje.salvaje.2022.Comedia.BRRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", CRUELA sub
+#EXTINF:-1 tvg-id="" tvg-name="CRUELA sub" tvg-logo="" group-title="PELICULAS",CRUELA sub
 http://37.187.20.239/%5b1080p%5d%20Cruella%20(2021)%20WEB-DL%20Dual%20Audio.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA GUERRA DEL EL PLANETA DE LOS SIMOS lat
+#EXTINF:-1 tvg-id="" tvg-name="LA GUERRA DEL EL PLANETA DE LOS SIMOS lat" tvg-logo="" group-title="PELICULAS",LA GUERRA DEL EL PLANETA DE LOS SIMOS lat
 http://167.114.174.132:9092/movies/Batch240/La%20Guerra%20Del%20Planeta%20De%20Los%20Simios%20%5BBluRay%20Rip%5D%5BAC3%202.0%20Espa%C3%B1ol%20Latino%5D%5B2017%5D.avi
-
-
-#EXTINF:-1 group-title="PELICULAS", ALIEN 2 EL REGRESO 1986 dual
+#EXTINF:-1 tvg-id="" tvg-name="ALIEN 2 EL REGRESO 1986 dual" tvg-logo="" group-title="PELICULAS",ALIEN 2 EL REGRESO 1986 dual
 http://167.114.174.132:9092/movies/batch233/ALIEN%202%20EL%20REGRESO%20%281986%29%20%20dual%20audio%20DVDRIP.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", MAS BARATO POR DOCENA sub
+#EXTINF:-1 tvg-id="" tvg-name="MAS BARATO POR DOCENA sub" tvg-logo="" group-title="PELICULAS",MAS BARATO POR DOCENA sub
 http://144.217.69.162/PELIS_STALKER/Mas.barato.por.docena.1.2003.Comedia.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", MAS BARATO POR DOCENA 2 sub
+#EXTINF:-1 tvg-id="" tvg-name="MAS BARATO POR DOCENA 2 sub" tvg-logo="" group-title="PELICULAS",MAS BARATO POR DOCENA 2 sub
 http://144.217.69.162/PELIS_STALKER/Mas.barato.por.docena.2.2005.Comedia.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", LOS REYES DE LAS OLAS lat
+#EXTINF:-1 tvg-id="" tvg-name="LOS REYES DE LAS OLAS lat" tvg-logo="" group-title="PELICULAS",LOS REYES DE LAS OLAS lat
 http://144.217.69.162/PELIS_STALKER/Los.reyes.de.las.olas.1.2007.Animacion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LOS REYES DE LAS OLAS 2 lat
+#EXTINF:-1 tvg-id="" tvg-name="LOS REYES DE LAS OLAS 2 lat" tvg-logo="" group-title="PELICULAS",LOS REYES DE LAS OLAS 2 lat
 http://144.217.69.162/PELIS_STALKER/Los.reyes.de.las.olas.2.WaveMania.2017.Animacion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA CASA BAJO EL AGUA lat
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA BAJO EL AGUA lat" tvg-logo="" group-title="PELICULAS",LA CASA BAJO EL AGUA lat
 http://144.217.69.162/PELIS_STALKER/La.casa.bajo.el.agua.2021.Terror.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", KNOCKING sub
+#EXTINF:-1 tvg-id="" tvg-name="KNOCKING sub" tvg-logo="" group-title="PELICULAS",KNOCKING sub
 http://144.217.69.162/PELIS_STALKER/Knocking.2021.Thriller.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", JUNGLE CRUISE lat
+#EXTINF:-1 tvg-id="" tvg-name="JUNGLE CRUISE lat" tvg-logo="" group-title="PELICULAS",JUNGLE CRUISE lat
 http://144.217.69.162/PELIS_STALKER/Jungle.Cruise.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", IN THE EARTH sub
+#EXTINF:-1 tvg-id="" tvg-name="IN THE EARTH sub" tvg-logo="" group-title="PELICULAS",IN THE EARTH sub
 http://144.217.69.162/PELIS_STALKER/In.the.Earth.2021.Terror.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", CON LA FRENTE EN ALTO lat
+#EXTINF:-1 tvg-id="" tvg-name="CON LA FRENTE EN ALTO lat" tvg-logo="" group-title="PELICULAS",CON LA FRENTE EN ALTO lat
 http://144.217.69.162/PELIS_STALKER/Con_la_frente_en_alto.2004.Accion.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", EJERCITO DE LADRONES lat
+#EXTINF:-1 tvg-id="" tvg-name="EJERCITO DE LADRONES lat" tvg-logo="" group-title="PELICULAS",EJERCITO DE LADRONES lat
 http://144.217.69.162/PELIS_STALKER/Army.of.Thieves.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", RAPIDO Y FURIOSO RETO TOKYO dual
+#EXTINF:-1 tvg-id="" tvg-name="RAPIDO Y FURIOSO RETO TOKYO dual" tvg-logo="" group-title="PELICULAS",RAPIDO Y FURIOSO RETO TOKYO dual
 http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%203%20-%20Reto%20Tokio%202006%20REMUX%204K%20HDR%20Latino.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", MOONFALL sub 	
+#EXTINF:-1 tvg-id="" tvg-name="MOONFALL sub 	" tvg-logo="" group-title="PELICULAS",MOONFALL sub 	
 http://192.64.86.228/%5ba%5d/Moonfall.2022.Full.1080P-Ing-Subt-Cinecalidad3.Com.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", ALITA BATTLE ANGEL eng sub
+#EXTINF:-1 tvg-id="" tvg-name="ALITA BATTLE ANGEL eng sub" tvg-logo="" group-title="PELICULAS",ALITA BATTLE ANGEL eng sub
 http://162.12.215.254/Data/Movies/Hollywood/2019/Alita%3A%20Battle%20Angel%20%282019%29/Alita%20Battle%20Angel%20%5B2019%5D%20%5B1080p%5D%20%5BCiTYCloud%5D.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", AMORTAL KOMBAT 2021 eng-sub
+#EXTINF:-1 tvg-id="" tvg-name="AMORTAL KOMBAT 2021 eng-sub" tvg-logo="" group-title="PELICULAS",AMORTAL KOMBAT 2021 eng-sub
 http://162.12.215.254/Data/Movies/Hollywood/2021/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", PIRATES OF SYLICON VALLEY 1999 sub
+#EXTINF:-1 tvg-id="" tvg-name="PIRATES OF SYLICON VALLEY 1999 sub" tvg-logo="" group-title="PELICULAS",PIRATES OF SYLICON VALLEY 1999 sub
 http://vis.usal.es/rodrigo/documentos/docs/Pirates%20of%20Silicon%20Valley%201999%20DvdRip%20x264-HighCode.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SE QUE ESTAS ALLI lat
+#EXTINF:-1 tvg-id="" tvg-name="SE QUE ESTAS ALLI lat" tvg-logo="" group-title="PELICULAS",SE QUE ESTAS ALLI lat
 http://144.217.69.162/PELIS_STALKER/I.Know.Youre.in.There.2016.Terror.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", A PRUEBA DE HOMBRES sub
+#EXTINF:-1 tvg-id="" tvg-name="A PRUEBA DE HOMBRES sub" tvg-logo="" group-title="PELICULAS",A PRUEBA DE HOMBRES sub
 http://144.217.69.162/PELIS_STALKER/A.prueba.de.hombres.2007.Comedia.BRRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", PROJECTO ADAM lat
+#EXTINF:-1 tvg-id="" tvg-name="PROJECTO ADAM lat" tvg-logo="" group-title="PELICULAS",PROJECTO ADAM lat
 http://144.217.69.162/PELIS_STALKER/El.proyecto.Adam.2022.Sci.Fi.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SCREAM sub
+#EXTINF:-1 tvg-id="" tvg-name="SCREAM sub" tvg-logo="" group-title="PELICULAS",SCREAM sub
 http://144.217.69.162/PELIS_STALKER/Scream.2022.Terror.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", ENCANTO sub
+#EXTINF:-1 tvg-id="" tvg-name="ENCANTO sub" tvg-logo="" group-title="PELICULAS",ENCANTO sub
 http://144.217.69.162/PELIS_STALKER/Encanto.2021.Animacion.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", GEMINI MAN sub eng
+#EXTINF:-1 tvg-id="" tvg-name="GEMINI MAN sub eng" tvg-logo="" group-title="PELICULAS",GEMINI MAN sub eng
 http://162.12.215.254/Data/Movies/Hollywood/2019/Gemini%20Man%20%282019%29%20WEB-DL%20480p/Gemini%20Man%20%282019%29%20WEB-DL%20480p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", HACKER 2019 lat
+#EXTINF:-1 tvg-id="" tvg-name="HACKER 2019 lat" tvg-logo="" group-title="PELICULAS",HACKER 2019 lat
 http://162.12.215.254/Data/Movies/Hollywood/2019/Hacker%20%282019%29/Hacker.2019.BRRip.H264.1080p.Dual.YG.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", BLACK WIDOW dual
+#EXTINF:-1 tvg-id="" tvg-name="BLACK WIDOW dual" tvg-logo="" group-title="PELICULAS",BLACK WIDOW dual
 http://144.217.69.162/4K/Black.Widow.2021.2160p(1).mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", MANNEQUIN 1987 lat
+#EXTINF:-1 tvg-id="" tvg-name="MANNEQUIN 1987 lat" tvg-logo="" group-title="PELICULAS",MANNEQUIN 1987 lat
 http://144.217.69.162/PELIS_STALKER/Mannequin%201987%20%5b1080p%5d.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", WOODSTOOK 99 PEACE AND RAGE sub
+#EXTINF:-1 tvg-id="" tvg-name="WOODSTOOK 99 PEACE AND RAGE sub" tvg-logo="" group-title="PELICULAS",WOODSTOOK 99 PEACE AND RAGE sub
 http://144.217.69.162/PELIS_STALKER/Woodstock.99.Peace.Love.and.Rage.2021.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SHINY FLAKES THE TEENAGE DRUG LORD lat
+#EXTINF:-1 tvg-id="" tvg-name="SHINY FLAKES THE TEENAGE DRUG LORD lat" tvg-logo="" group-title="PELICULAS",SHINY FLAKES THE TEENAGE DRUG LORD lat
 http://144.217.69.162/PELIS_STALKER/Shiny.Flakes.The.Teenage.Drug.Lord.2021.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA NUBE lat
+#EXTINF:-1 tvg-id="" tvg-name="LA NUBE lat" tvg-logo="" group-title="PELICULAS",LA NUBE lat
 http://144.217.69.162/PELIS_STALKER/La.Nube.2020.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", CODA dual
+#EXTINF:-1 tvg-id="" tvg-name="CODA dual" tvg-logo="" group-title="PELICULAS",CODA dual
 http://144.217.69.162/PELIS_STALKER/Coda.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", VILLANOS dual
+#EXTINF:-1 tvg-id="" tvg-name="VILLANOS dual" tvg-logo="" group-title="PELICULAS",VILLANOS dual
 http://144.217.69.162/PELIS_STALKER/Villains.2019.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", COURRIER dual
+#EXTINF:-1 tvg-id="" tvg-name="COURRIER dual" tvg-logo="" group-title="PELICULAS",COURRIER dual
 http://144.217.69.162/PELIS_STALKER/Courier.2020.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", REMINISCENCE dual
+#EXTINF:-1 tvg-id="" tvg-name="REMINISCENCE dual" tvg-logo="" group-title="PELICULAS",REMINISCENCE dual
 http://144.217.69.162/PELIS_STALKER/Reminiscence.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SWEET GIRL dual
+#EXTINF:-1 tvg-id="" tvg-name="SWEET GIRL dual" tvg-logo="" group-title="PELICULAS",SWEET GIRL dual
 http://144.217.69.162/PELIS_STALKER/Sweet.Girl.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", UN RESCATE DE HUEVITOS lat
+#EXTINF:-1 tvg-id="" tvg-name="UN RESCATE DE HUEVITOS lat" tvg-logo="" group-title="PELICULAS",UN RESCATE DE HUEVITOS lat
 http://144.217.69.162/PELIS_STALKER/Un.Rescate.de.Huevitos.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", STILLWATER sub
+#EXTINF:-1 tvg-id="" tvg-name="STILLWATER sub" tvg-logo="" group-title="PELICULAS",STILLWATER sub
 http://144.217.69.162/PELIS_STALKER/Stillwater.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THE GIRL WHO GOT AWAY sub
+#EXTINF:-1 tvg-id="" tvg-name="THE GIRL WHO GOT AWAY sub" tvg-logo="" group-title="PELICULAS",THE GIRL WHO GOT AWAY sub
 http://144.217.69.162/PELIS_STALKER/The.Girl.Who.Got.Away.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SCAPE ROOM TOURNAMENT OF CHAMPIONS sub
+#EXTINF:-1 tvg-id="" tvg-name="SCAPE ROOM TOURNAMENT OF CHAMPIONS sub" tvg-logo="" group-title="PELICULAS",SCAPE ROOM TOURNAMENT OF CHAMPIONS sub
 http://144.217.69.162/PELIS_STALKER/Escape.Room.Tournament.of.Champions.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", UNTOLD BREAKING POINT dual
+#EXTINF:-1 tvg-id="" tvg-name="UNTOLD BREAKING POINT dual" tvg-logo="" group-title="PELICULAS",UNTOLD BREAKING POINT dual
 http://144.217.69.162/PELIS_STALKER/Untold.Breaking.Point.2021.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", YOU ARE NOT ALONE dual
+#EXTINF:-1 tvg-id="" tvg-name="YOU ARE NOT ALONE dual" tvg-logo="" group-title="PELICULAS",YOU ARE NOT ALONE dual
 http://144.217.69.162/PELIS_STALKER/Youre.Not.Alone.2020.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THE PROTEGE sub
+#EXTINF:-1 tvg-id="" tvg-name="THE PROTEGE sub" tvg-logo="" group-title="PELICULAS",THE PROTEGE sub
 http://144.217.69.162/PELIS_STALKER/The.Protege.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", MAGIC MOUNTAINS dual
+#EXTINF:-1 tvg-id="" tvg-name="MAGIC MOUNTAINS dual" tvg-logo="" group-title="PELICULAS",MAGIC MOUNTAINS dual
 http://144.217.69.162/PELIS_STALKER/Magic.Mountains.2020.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", BIENVENIDO AL MUNDO DE LOS OGGLIES dual
+#EXTINF:-1 tvg-id="" tvg-name="BIENVENIDO AL MUNDO DE LOS OGGLIES dual" tvg-logo="" group-title="PELICULAS",BIENVENIDO AL MUNDO DE LOS OGGLIES dual
 http://144.217.69.162/PELIS_STALKER/The.Ogglies.Welcome.to.Smelliville.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", VACATION FRIENDS dual
+#EXTINF:-1 tvg-id="" tvg-name="VACATION FRIENDS dual" tvg-logo="" group-title="PELICULAS",VACATION FRIENDS dual
 http://144.217.69.162/PELIS_STALKER/Vacation.Friends.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THE OLD WAYS dual
+#EXTINF:-1 tvg-id="" tvg-name="THE OLD WAYS dual" tvg-logo="" group-title="PELICULAS",THE OLD WAYS dual
 http://144.217.69.162/PELIS_STALKER/The.Old.Ways.2020.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LO INIMAGINABLE dual
+#EXTINF:-1 tvg-id="" tvg-name="LO INIMAGINABLE dual" tvg-logo="" group-title="PELICULAS",LO INIMAGINABLE dual
 http://144.217.69.162/PELIS_STALKER/Lo.Inimaginable.2018.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", ORTA PELICULA DE HUEVOS Y UN POLLO lat
+#EXTINF:-1 tvg-id="" tvg-name="ORTA PELICULA DE HUEVOS Y UN POLLO lat" tvg-logo="" group-title="PELICULAS",ORTA PELICULA DE HUEVOS Y UN POLLO lat
 http://144.217.69.162/PELIS_STALKER/Otra.pelicula.de.huevos.y.un.pollo.2009.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", RISEN sub
+#EXTINF:-1 tvg-id="" tvg-name="RISEN sub" tvg-logo="" group-title="PELICULAS",RISEN sub
 http://144.217.69.162/PELIS_STALKER/Risen.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", ANNETTE sub
+#EXTINF:-1 tvg-id="" tvg-name="ANNETTE sub" tvg-logo="" group-title="PELICULAS",ANNETTE sub
 http://144.217.69.162/PELIS_STALKER/Annette.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", EL MESERO lat
+#EXTINF:-1 tvg-id="" tvg-name="EL MESERO lat" tvg-logo="" group-title="PELICULAS",EL MESERO lat
 http://144.217.69.162/PELIS_STALKER/El.mesero.2021.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", LA CASA DEL CARACOL esp
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL CARACOL esp" tvg-logo="" group-title="PELICULAS",LA CASA DEL CARACOL esp
 http://144.217.69.162/PELIS_STALKER/La.Casa.Del.Caracol.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", DARK CITY 1998 dual
+#EXTINF:-1 tvg-id="" tvg-name="DARK CITY 1998 dual" tvg-logo="" group-title="PELICULAS",DARK CITY 1998 dual
 http://144.217.69.162/PELIS_STALKER/Dark.City.1998.DC.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", MOST DANGEROUS GAME dual
+#EXTINF:-1 tvg-id="" tvg-name="MOST DANGEROUS GAME dual" tvg-logo="" group-title="PELICULAS",MOST DANGEROUS GAME dual
 http://144.217.69.162/PELIS_STALKER/Most%20Dangerous%20Game.2020.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THE HEAD HUNTER dual
+#EXTINF:-1 tvg-id="" tvg-name="THE HEAD HUNTER dual" tvg-logo="" group-title="PELICULAS",THE HEAD HUNTER dual
 http://144.217.69.162/PELIS_STALKER/The.Head.Hunter.2018.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THE HOUSE NEXT DOOR MEET THE BLACKS 2 lat
+#EXTINF:-1 tvg-id="" tvg-name="THE HOUSE NEXT DOOR MEET THE BLACKS 2 lat" tvg-logo="" group-title="PELICULAS",THE HOUSE NEXT DOOR MEET THE BLACKS 2 lat
 http://144.217.69.162/PELIS_STALKER/The.House.Next.Door.Meet.the.Blacks.2.2021.Comedia.HDRip.LATINO.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", RIPPER UNTOLD dual
+#EXTINF:-1 tvg-id="" tvg-name="RIPPER UNTOLD dual" tvg-logo="" group-title="PELICULAS",RIPPER UNTOLD dual
 http://144.217.69.162/PELIS_STALKER/Ripper.Untold.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", EL PROFUGO lat
+#EXTINF:-1 tvg-id="" tvg-name="EL PROFUGO lat" tvg-logo="" group-title="PELICULAS",EL PROFUGO lat
 http://144.217.69.162/PELIS_STALKER/El.profugo.2021.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THERES SOMEONE INSIDE YOUR HOUSE dual
+#EXTINF:-1 tvg-id="" tvg-name="THERES SOMEONE INSIDE YOUR HOUSE dual" tvg-logo="" group-title="PELICULAS",THERES SOMEONE INSIDE YOUR HOUSE dual
 http://144.217.69.162/PELIS_STALKER/Theres.Someone.Inside.Your.House.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", POSSESSOR dual
+#EXTINF:-1 tvg-id="" tvg-name="POSSESSOR dual" tvg-logo="" group-title="PELICULAS",POSSESSOR dual
 http://144.217.69.162/PELIS_STALKER/Possessor.2020.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THE NEXT DOOR dual
+#EXTINF:-1 tvg-id="" tvg-name="THE NEXT DOOR dual" tvg-logo="" group-title="PELICULAS",THE NEXT DOOR dual
 http://144.217.69.162/PELIS_STALKER/The.House.Next.Door.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", MI POBRE DIABLILLO 1990 sub
+#EXTINF:-1 tvg-id="" tvg-name="MI POBRE DIABLILLO 1990 sub" tvg-logo="" group-title="PELICULAS",MI POBRE DIABLILLO 1990 sub
 http://144.217.69.162/PELIS_STALKER/Problem.Child.1.1990.Comedia.BRRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", MI POBRE DIABLILLO 2 1991 sub
+#EXTINF:-1 tvg-id="" tvg-name="MI POBRE DIABLILLO 2 1991 sub" tvg-logo="" group-title="PELICULAS",MI POBRE DIABLILLO 2 1991 sub
 http://144.217.69.162/PELIS_STALKER/Problem.Child.2.1991.Comedia.BRRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", LA FAMILIA ADDAMS 2 dual
+#EXTINF:-1 tvg-id="" tvg-name="LA FAMILIA ADDAMS 2 dual" tvg-logo="" group-title="PELICULAS",LA FAMILIA ADDAMS 2 dual
 http://144.217.69.162/PELIS_STALKER/The.Addams.Family.2.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", HIJO DEL SUR dual
+#EXTINF:-1 tvg-id="" tvg-name="HIJO DEL SUR dual" tvg-logo="" group-title="PELICULAS",HIJO DEL SUR dual
 http://144.217.69.162/PELIS_STALKER/Son.Of.The.South.2020.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", WAY DOWN dual
+#EXTINF:-1 tvg-id="" tvg-name="WAY DOWN dual" tvg-logo="" group-title="PELICULAS",WAY DOWN dual
 http://144.217.69.162/PELIS_STALKER/Way.Down.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", SEPARATION dual
+#EXTINF:-1 tvg-id="" tvg-name="SEPARATION dual" tvg-logo="" group-title="PELICULAS",SEPARATION dual
 http://144.217.69.162/PELIS_STALKER/Separation.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", MISERY 1990 dual
+#EXTINF:-1 tvg-id="" tvg-name="MISERY 1990 dual" tvg-logo="" group-title="PELICULAS",MISERY 1990 dual
 http://144.217.69.162/PELIS_STALKER/Misery.1990.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", ACTIVIDAD PARANORMAL NEXT OF KIN sub
+#EXTINF:-1 tvg-id="" tvg-name="ACTIVIDAD PARANORMAL NEXT OF KIN sub" tvg-logo="" group-title="PELICULAS",ACTIVIDAD PARANORMAL NEXT OF KIN sub
 http://144.217.69.162/PELIS_STALKER/Paranormal.Activity.Next.of.Kin.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", CAMP CONFIDENTIAL AMERICAS SECRET NAZIS dual
+#EXTINF:-1 tvg-id="" tvg-name="CAMP CONFIDENTIAL AMERICAS SECRET NAZIS dual" tvg-logo="" group-title="PELICULAS",CAMP CONFIDENTIAL AMERICAS SECRET NAZIS dual
 http://144.217.69.162/PELIS_STALKER/Camp.Confidential.Americas.Secret.Nazis.2021.1080p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THE COLLINI CASE dual
+#EXTINF:-1 tvg-id="" tvg-name="THE COLLINI CASE dual" tvg-logo="" group-title="PELICULAS",THE COLLINI CASE dual
 http://144.217.69.162/PELIS_STALKER/The.Collini.Case.2019.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", RED NOTICE dual
+#EXTINF:-1 tvg-id="" tvg-name="RED NOTICE dual" tvg-logo="" group-title="PELICULAS",RED NOTICE dual
 http://144.217.69.162/PELIS_STALKER/Red.Notice.2021.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", 7 PRISIONEROS dual
+#EXTINF:-1 tvg-id="" tvg-name="7 PRISIONEROS dual" tvg-logo="" group-title="PELICULAS",7 PRISIONEROS dual
 http://144.217.69.162/PELIS_STALKER/7.Prisoners.2021.720p.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", NO MANCHES FRIDA lat
+#EXTINF:-1 tvg-id="" tvg-name="NO MANCHES FRIDA lat" tvg-logo="" group-title="PELICULAS",NO MANCHES FRIDA lat
 http://144.217.69.162/PELIS_STALKER/No.manches.Frida.1.2016.Comedia.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", NO MANCHES FRIDA 2 lat
+#EXTINF:-1 tvg-id="" tvg-name="NO MANCHES FRIDA 2 lat" tvg-logo="" group-title="PELICULAS",NO MANCHES FRIDA 2 lat
 http://144.217.69.162/PELIS_STALKER/No.manches.Frida.2.2019.Comedia.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", EL JUICIO ANTES DE NAVIDAD sub
+#EXTINF:-1 tvg-id="" tvg-name="EL JUICIO ANTES DE NAVIDAD sub" tvg-logo="" group-title="PELICULAS",EL JUICIO ANTES DE NAVIDAD sub
 http://144.217.69.162/PELIS_STALKER/El.Juicio.antes.de.Navidad.2021.Documental.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", ARDIENDO sub
+#EXTINF:-1 tvg-id="" tvg-name="ARDIENDO sub" tvg-logo="" group-title="PELICULAS",ARDIENDO sub
 http://144.217.69.162/PELIS_STALKER/Ardiendo.2021.Documental.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", ENSEÑAME EL CAMINO A CASA dual
+#EXTINF:-1 tvg-id="" tvg-name="ENSEÑAME EL CAMINO A CASA dual" tvg-logo="" group-title="PELICULAS",ENSEÑAME EL CAMINO A CASA dual
 http://144.217.69.162/PELIS_STALKER/Ens%c3%a9%c3%b1ame.el.camino.a.casa.2021.Documental.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", ANGELE sub
+#EXTINF:-1 tvg-id="" tvg-name="ANGELE sub" tvg-logo="" group-title="PELICULAS",ANGELE sub
 http://144.217.69.162/PELIS_STALKER/Ang%c3%a8le.2021.Documental.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", JAGGED sub
+#EXTINF:-1 tvg-id="" tvg-name="JAGGED sub" tvg-logo="" group-title="PELICULAS",JAGGED sub
 http://144.217.69.162/PELIS_STALKER/Jagged.2021.Documental.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", FINAL ACCOUNT sub
+#EXTINF:-1 tvg-id="" tvg-name="FINAL ACCOUNT sub" tvg-logo="" group-title="PELICULAS",FINAL ACCOUNT sub
 http://144.217.69.162/PELIS_STALKER/Final%20Account.2020.Documental.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", ADRIENNE sub
+#EXTINF:-1 tvg-id="" tvg-name="ADRIENNE sub" tvg-logo="" group-title="PELICULAS",ADRIENNE sub
 http://144.217.69.162/PELIS_STALKER/Adrienne.2021.Documental.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", WITCH HUNT dual
+#EXTINF:-1 tvg-id="" tvg-name="WITCH HUNT dual" tvg-logo="" group-title="PELICULAS",WITCH HUNT dual
 http://144.217.69.162/PELIS_STALKER/Witch.Hunt.2021.Thriller.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", DEJAME ENTRAR lat
+#EXTINF:-1 tvg-id="" tvg-name="DEJAME ENTRAR lat" tvg-logo="" group-title="PELICULAS",DEJAME ENTRAR lat
 http://144.217.69.162/PELIS_STALKER/D%c3%a9jame.Entrar.2010.Terror.BRRip.LATINO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", THE UNITED STATES OF INSANITY sub
+#EXTINF:-1 tvg-id="" tvg-name="THE UNITED STATES OF INSANITY sub" tvg-logo="" group-title="PELICULAS",THE UNITED STATES OF INSANITY sub
 http://144.217.69.162/PELIS_STALKER/The.United.States.of.Insanity.2021.Documental.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", MR SATURDAY NIGHT sub
+#EXTINF:-1 tvg-id="" tvg-name="MR SATURDAY NIGHT sub" tvg-logo="" group-title="PELICULAS",MR SATURDAY NIGHT sub
 http://144.217.69.162/PELIS_STALKER/Mr.SaturdayNight.2021.Documental.HDRip.VOSE.mp4
-
-
-#EXTINF:-1 group-title="PELICULAS", EL SACRIFICIO DEL CIERVO SAGRADO dual
+#EXTINF:-1 tvg-id="" tvg-name="EL SACRIFICIO DEL CIERVO SAGRADO dual" tvg-logo="" group-title="PELICULAS",EL SACRIFICIO DEL CIERVO SAGRADO dual
 http://144.217.69.162/PELIS_STALKER/El.sacrificio.del.ciervo.sagrado.2017.Thriller.BRRip.LATINO.mkv
-
-
-
-#EXTINF:-1 group-title="PELICULAS", REC esp
+#EXTINF:-1 tvg-id="" tvg-name="REC esp" tvg-logo="" group-title="PELICULAS",REC esp
 http://144.217.69.162/PELIS_STALKER/Rec.1.2007.Terror.BRRip.CASTELLANO.mkv
-
-
-#EXTINF:-1 group-title="PELICULAS", REC 2 esp
+#EXTINF:-1 tvg-id="" tvg-name="REC 2 esp" tvg-logo="" group-title="PELICULAS",REC 2 esp
 http://144.217.69.162/PELIS_STALKER/Rec.2.2009.Terror.BRRip.CASTELLANO.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x01
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER AND THE SORCERERS STONE lat" tvg-logo="" group-title="PELICULAS",HARRY POTTER AND THE SORCERERS STONE lat
+http://144.217.69.162/PELIS_STALKER/Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x02   
+#EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x02%20Bart%20Es%20un%20Genio.m4v          
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x03 
+#EXTINF:-1 tvg-id="" tvg-name="1x03 " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x03 
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x03%20La%20Odisea%20de%20Homero.m4v      
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x04 
+#EXTINF:-1 tvg-id="" tvg-name="1x04 " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x04 
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x04%20Unafamilia%20modelo.m4v       
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x05
+#EXTINF:-1 tvg-id="" tvg-name="1x05" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x05
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x05%20Bart%20el%20General.m4v     
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x06
+#EXTINF:-1 tvg-id="" tvg-name="1x06" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x06
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x06%20La%20Depresion%20De%20Lisa.m4v     
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x07
+#EXTINF:-1 tvg-id="" tvg-name="1x07" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x07
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x07%20Llamada%20De%20Los%20Simpsons.m4v     
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x08 
+#EXTINF:-1 tvg-id="" tvg-name="1x08 " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x08 
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x08%20El%20Heroe%20Sin%20Cabeza.m4v        
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x09
+#EXTINF:-1 tvg-id="" tvg-name="1x09" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x09
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x09%20Un%20Momento%20De%20Decision.m4v     
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x10
+#EXTINF:-1 tvg-id="" tvg-name="1x10" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x10
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x10%20La%20Correria%20De%20Homero.m4v     
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x11
+#EXTINF:-1 tvg-id="" tvg-name="1x11" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x11
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x11%20Intercambio%20Cultural.m4v     
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x12
+#EXTINF:-1 tvg-id="" tvg-name="1x12" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x12
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x12%20Krusty%20va%20a%20la%20carcel.m4v     
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 1x13
+#EXTINF:-1 tvg-id="" tvg-name="1x13" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x13
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x13%20Una%20Noche%20Encantadora.m4v     
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2X01  
+#EXTINF:-1 tvg-id="" tvg-name="2X01  " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2X01  
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x01_Bart_Reprueba.m4v     
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x02 
+#EXTINF:-1 tvg-id="" tvg-name="2x02 " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x02 
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x02_simpson_y_Dalila.m4v       
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x03
+#EXTINF:-1 tvg-id="" tvg-name="2x03" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x03
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x03_Especial_de_Noche_de_Brujas.m4v     
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x04
+#EXTINF:-1 tvg-id="" tvg-name="2x04" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x04
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x04%20Dos%20Autos%20en%20Cada%20Cochera%20y%20Tres%20Ojos%20en%20Cada%20Pez.m4v     
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x05 
+#EXTINF:-1 tvg-id="" tvg-name="2x05 " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x05 
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x05_Homero_el_Animador.m4v         
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x06
+#EXTINF:-1 tvg-id="" tvg-name="2x06" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x06
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x06_La_Sociedad_de_Los_Golfistas_Muertos.m4v     
-  
- 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x07      
+#EXTINF:-1 tvg-id="" tvg-name="2x07      " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x07      
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x07_Bart_Contra_el_D_a_de_Gracias.m4v     
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x08      
+#EXTINF:-1 tvg-id="" tvg-name="2x08      " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x08      
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x08_Bart_El_Temerario.m4v      
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x09  
+#EXTINF:-1 tvg-id="" tvg-name="2x09  " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x09  
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x09_Tomi__Daly_y_Marge.m4v         
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x10   
+#EXTINF:-1 tvg-id="" tvg-name="2x10   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x10   
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x10_Bart_es_Atropellado.m4v     
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x11       
+#EXTINF:-1 tvg-id="" tvg-name="2x11       " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x11       
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x11_Aviso_de_Muerte.m4v        
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x12     
+#EXTINF:-1 tvg-id="" tvg-name="2x12     " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x12     
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x12_Los_A_os_que_Vivimos.m4v     
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x13
+#EXTINF:-1 tvg-id="" tvg-name="2x13" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x13
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x13_No_Robar_s.m4v         
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x14    
+#EXTINF:-1 tvg-id="" tvg-name="2x14    " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x14    
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x14_El__ltimo_Tren.m4v          
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x15
+#EXTINF:-1 tvg-id="" tvg-name="2x15" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x15
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x15_D_nde_Est_s_Hermano_M_o.m4v          
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x16 
+#EXTINF:-1 tvg-id="" tvg-name="2x16 " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x16 
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x16_El_Perro_de_Bart_Reprueba.m4v         
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x17     
+#EXTINF:-1 tvg-id="" tvg-name="2x17     " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x17     
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x17_Nuestro_A_os_Felice.m4v     
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x18      
+#EXTINF:-1 tvg-id="" tvg-name="2x18      " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x18      
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x18_Pinceles_con_Alma.m4v     
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x19  
+#EXTINF:-1 tvg-id="" tvg-name="2x19  " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x19  
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x19_El_Substituto_de_Lisa.m4v     
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x20   
+#EXTINF:-1 tvg-id="" tvg-name="2x20   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x20   
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x20_La_Guerra_de_Los_Simpsons.m4v     
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x21  
+#EXTINF:-1 tvg-id="" tvg-name="2x21  " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x21  
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x21_tres%20hombres%20y%20una%20historieta.m4v       
-  
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS", 2x22
+#EXTINF:-1 tvg-id="" tvg-name="2x22" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",2x22
 http://167.114.174.132:9092/series/lossimpsons/capitulos/2x22_sangre_nueva.m4v     
-  
-  
-  
-  
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 3x01
+#EXTINF:-1 tvg-id="" tvg-name="3x01" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",3x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/3x01_Pap_est_loco.m4v     
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x02
+#EXTINF:-1 tvg-id="" tvg-name="03x02" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x02
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x02.m4v               
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x03
+#EXTINF:-1 tvg-id="" tvg-name="03x03" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x03
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x03.m4v        
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x04
+#EXTINF:-1 tvg-id="" tvg-name="03x04" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x04
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x04.m4v        
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x05
+#EXTINF:-1 tvg-id="" tvg-name="03x05" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x05
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x05.m4v       
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x06
+#EXTINF:-1 tvg-id="" tvg-name="03x06" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x06
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x06.m4v        
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x07
+#EXTINF:-1 tvg-id="" tvg-name="03x07" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x07
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x07.m4v        
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x08
+#EXTINF:-1 tvg-id="" tvg-name="03x08" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x08
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x08.m4v      
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x09
+#EXTINF:-1 tvg-id="" tvg-name="03x09" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x09
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x09.m4v      
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x10
+#EXTINF:-1 tvg-id="" tvg-name="03x10" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x10
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x10.m4v       
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x11
+#EXTINF:-1 tvg-id="" tvg-name="03x11" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x11
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x11.m4v       
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x12
+#EXTINF:-1 tvg-id="" tvg-name="03x12" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x12
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x12.m4v      
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x13
+#EXTINF:-1 tvg-id="" tvg-name="03x13" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x13
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x13.m4v       
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x14
+#EXTINF:-1 tvg-id="" tvg-name="03x14" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x14
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x14.m4v       
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x15
+#EXTINF:-1 tvg-id="" tvg-name="03x15" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x15
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x15.m4v      
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x16
+#EXTINF:-1 tvg-id="" tvg-name="03x16" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x16
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x16.m4v      
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x17
+#EXTINF:-1 tvg-id="" tvg-name="03x17" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x17
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x17.m4v      
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x18
+#EXTINF:-1 tvg-id="" tvg-name="03x18" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x18
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x18.m4v     
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x19
+#EXTINF:-1 tvg-id="" tvg-name="03x19" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x19
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x19.m4v       
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x20
+#EXTINF:-1 tvg-id="" tvg-name="03x20" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x20
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x20.m4v        
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x21
+#EXTINF:-1 tvg-id="" tvg-name="03x21" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x21
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x21.m4v        
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x22
+#EXTINF:-1 tvg-id="" tvg-name="03x22" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x22
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x22.m4v       
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS", 03x24
+#EXTINF:-1 tvg-id="" tvg-name="03x24" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x24
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x24.m4v     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/witcher/images/a/a4/Netflix_poster_s1.jpg/revision/latest?cb=20191120213257" group-title="THE WITCHER SEANSON 1", THE WITCHER 01x01
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x01" tvg-logo="https://static.wikia.nocookie.net/witcher/images/a/a4/Netflix_poster_s1.jpg/revision/latest?cb=20191120213257" group-title="THE WITCHER SEANSON 1",THE WITCHER 01x01
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E01.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 1", THE WITCHER 01x02
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x02" tvg-logo="" group-title="THE WITCHER SEANSON 1",THE WITCHER 01x02
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E02.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 1", THE WITCHER 01x03
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x03" tvg-logo="" group-title="THE WITCHER SEANSON 1",THE WITCHER 01x03
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E03.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 1", THE WITCHER 01x04
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x04" tvg-logo="" group-title="THE WITCHER SEANSON 1",THE WITCHER 01x04
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E04.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 1", THE WITCHER 01x05
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x05" tvg-logo="" group-title="THE WITCHER SEANSON 1",THE WITCHER 01x05
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E05.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 1", THE WITCHER 01x06
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x06" tvg-logo="" group-title="THE WITCHER SEANSON 1",THE WITCHER 01x06
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E06.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 1", THE WITCHER 01x07
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x07" tvg-logo="" group-title="THE WITCHER SEANSON 1",THE WITCHER 01x07
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E07.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 1", THE WITCHER 01x08
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x08" tvg-logo="" group-title="THE WITCHER SEANSON 1",THE WITCHER 01x08
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E08.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="THE WITCHER SEANSON 2", THE WITCHER 01x01
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x01" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="THE WITCHER SEANSON 2",THE WITCHER 01x01
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E01.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 2", THE WITCHER 01x02
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x02" tvg-logo="" group-title="THE WITCHER SEANSON 2",THE WITCHER 01x02
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E02.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 2", THE WITCHER 01x03
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x03" tvg-logo="" group-title="THE WITCHER SEANSON 2",THE WITCHER 01x03
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E03.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 2", THE WITCHER 01x04
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x04" tvg-logo="" group-title="THE WITCHER SEANSON 2",THE WITCHER 01x04
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E04.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 2", THE WITCHER 01x05
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x05" tvg-logo="" group-title="THE WITCHER SEANSON 2",THE WITCHER 01x05
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E05.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 2", THE WITCHER 01x06
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x06" tvg-logo="" group-title="THE WITCHER SEANSON 2",THE WITCHER 01x06
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E06.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 2", THE WITCHER 01x07
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x07" tvg-logo="" group-title="THE WITCHER SEANSON 2",THE WITCHER 01x07
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E07.mkv
-
-
-#EXTINF:-1 group-title="THE WITCHER SEANSON 2", THE WITCHER 01x08
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x08" tvg-logo="" group-title="THE WITCHER SEANSON 2",THE WITCHER 01x08
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E08.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1", MARADONA 01x01
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x01" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x01
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E01.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1", MARADONA 01x02
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x02" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x02
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E02.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1", MARADONA 01x03
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x03" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x03
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E03.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1", MARADONA 01x04
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x04" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x04
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E04.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1", MARADONA 01x05
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x05" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x05
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E05.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1", MARADONA 01x06
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x06" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x06
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E06.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1", MARADONA 01x07
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x07" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x07
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E07.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x01
+#EXTINF:-1 tvg-id="" tvg-name="01x01" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x01
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x01.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x02
+#EXTINF:-1 tvg-id="" tvg-name="01x02" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x02
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x02.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x03
+#EXTINF:-1 tvg-id="" tvg-name="01x03" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x03
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x03.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x04
+#EXTINF:-1 tvg-id="" tvg-name="01x04" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x04
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x04.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x05
+#EXTINF:-1 tvg-id="" tvg-name="01x05" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x05
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x05.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x06
+#EXTINF:-1 tvg-id="" tvg-name="01x06" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x06
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x06.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x07
+#EXTINF:-1 tvg-id="" tvg-name="01x07" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x07
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x07.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x08
+#EXTINF:-1 tvg-id="" tvg-name="01x08" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x08
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x08.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x09
+#EXTINF:-1 tvg-id="" tvg-name="01x09" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x09
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x09.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x10
+#EXTINF:-1 tvg-id="" tvg-name="01x10" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x10
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x10.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x11
+#EXTINF:-1 tvg-id="" tvg-name="01x11" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x11
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x11.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x12
+#EXTINF:-1 tvg-id="" tvg-name="01x12" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x12
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x12.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1", 01x13
+#EXTINF:-1 tvg-id="" tvg-name="01x13" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 1",01x13
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x13.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2", 02x01
+#EXTINF:-1 tvg-id="" tvg-name="02x01" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2",02x01
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x01.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2", 02x02
+#EXTINF:-1 tvg-id="" tvg-name="02x02" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2",02x02
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x02.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2", 02x03
+#EXTINF:-1 tvg-id="" tvg-name="02x03" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2",02x03
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x03.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2", 02x04
+#EXTINF:-1 tvg-id="" tvg-name="02x04" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2",02x04
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x04.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2", 02x05
+#EXTINF:-1 tvg-id="" tvg-name="02x05" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2",02x05
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x05.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2", 02x06
+#EXTINF:-1 tvg-id="" tvg-name="02x06" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 2",02x06
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x06.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3", 03x01
+#EXTINF:-1 tvg-id="" tvg-name="03x01" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3",03x01
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x01.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3", 03x02
+#EXTINF:-1 tvg-id="" tvg-name="03x02" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3",03x02
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x02.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3", 03x03
+#EXTINF:-1 tvg-id="" tvg-name="03x03" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3",03x03
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x03.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3", 03x04
+#EXTINF:-1 tvg-id="" tvg-name="03x04" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3",03x04
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x04.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3", 03x05
+#EXTINF:-1 tvg-id="" tvg-name="03x05" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3",03x05
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x05.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3", 03x06
+#EXTINF:-1 tvg-id="" tvg-name="03x06" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3",03x06
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x06.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3", 03x07
+#EXTINF:-1 tvg-id="" tvg-name="03x07" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3",03x07
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x07.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3", 03x08
+#EXTINF:-1 tvg-id="" tvg-name="03x08" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 3",03x08
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x08.mkv
-
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4", 04x01
+#EXTINF:-1 tvg-id="" tvg-name="04x01" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4",04x01
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x01.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4", 04x02
+#EXTINF:-1 tvg-id="" tvg-name="04x02" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4",04x02
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x02.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4", 04x03
+#EXTINF:-1 tvg-id="" tvg-name="04x03" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4",04x03
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x03.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4", 04x04
+#EXTINF:-1 tvg-id="" tvg-name="04x04" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4",04x04
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x04.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4", 04x05
+#EXTINF:-1 tvg-id="" tvg-name="04x05" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4",04x05
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x05.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4", 04x06
+#EXTINF:-1 tvg-id="" tvg-name="04x06" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4",04x06
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x06.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4", 04x07
+#EXTINF:-1 tvg-id="" tvg-name="04x07" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4",04x07
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x07.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4", 04x08
+#EXTINF:-1 tvg-id="" tvg-name="04x08" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 4",04x08
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x08.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5", 05x01
+#EXTINF:-1 tvg-id="" tvg-name="05x01" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x01
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x01.mkv
-
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5", 05x02
+#EXTINF:-1 tvg-id="" tvg-name="05x02" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x02
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x02.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5", 05x03
+#EXTINF:-1 tvg-id="" tvg-name="05x03" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x03
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x03.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5", 05x04
+#EXTINF:-1 tvg-id="" tvg-name="05x04" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x04
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x04.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5", 05x05
+#EXTINF:-1 tvg-id="" tvg-name="05x05" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x05
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x05.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5", 05x06
+#EXTINF:-1 tvg-id="" tvg-name="05x06" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x06
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x06.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5", 05x07
+#EXTINF:-1 tvg-id="" tvg-name="05x07" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x07
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x07.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5", 05x08
+#EXTINF:-1 tvg-id="" tvg-name="05x08" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x08
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x08.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5", 05x09
+#EXTINF:-1 tvg-id="" tvg-name="05x09" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x09
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x09.mkv
-
-
-#EXTINF:-1 tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5", 05x10
+#EXTINF:-1 tvg-id="" tvg-name="05x10" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x10
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x10.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN", 01X01
+#EXTINF:-1 tvg-id="" tvg-name="01X01" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN",01X01
 http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E01.mkv
-
-
-#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN", 01X02
+#EXTINF:-1 tvg-id="" tvg-name="01X02" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN",01X02
 http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E02.mkv
-
-
-#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN", 01X03
+#EXTINF:-1 tvg-id="" tvg-name="01X03" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN",01X03
 http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E03.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1", 01X01
+#EXTINF:-1 tvg-id="" tvg-name="01X01" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X01
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x01.mkv
-
-
-#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1", 01X02
+#EXTINF:-1 tvg-id="" tvg-name="01X02" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X02
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x02.mkv
-
-
-#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1", 01X03
+#EXTINF:-1 tvg-id="" tvg-name="01X03" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X03
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x03.mkv
-
-
-#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1", 01X04
+#EXTINF:-1 tvg-id="" tvg-name="01X04" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X04
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x04.mkv
-
-
-#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1", 01X05
+#EXTINF:-1 tvg-id="" tvg-name="01X05" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X05
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x05.mkv
-
-
-#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1", 01X06
+#EXTINF:-1 tvg-id="" tvg-name="01X06" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X06
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x06.mkv
-
-
-#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1", 01X07
+#EXTINF:-1 tvg-id="" tvg-name="01X07" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X07
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x07.mkv
-
-
-#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1", 01X08
+#EXTINF:-1 tvg-id="" tvg-name="01X08" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X08
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x08.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SERIES", MR BEAN 01
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 01" tvg-logo="" group-title="SERIES",MR BEAN 01
 https://www.youtube.com/watch?v=sOlP10fDclE
-
-
-#EXTINF:-1 group-title="SERIES", MR BEAN 02
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 02" tvg-logo="" group-title="SERIES",MR BEAN 02
 https://www.youtube.com/watch?v=9f2CSNyd53o
-
-#EXTINF:-1 group-title="SERIES", MR BEAN 03
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 03" tvg-logo="" group-title="SERIES",MR BEAN 03
 https://www.youtube.com/watch?v=v9566h7mSOE
-
-
-#EXTINF:-1 group-title="SERIES", MR BEAN 04
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 04" tvg-logo="" group-title="SERIES",MR BEAN 04
 https://www.youtube.com/watch?v=gMs-zl28ZF0
-
-
-#EXTINF:-1 group-title="SERIES", MR BEAN 05
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 05" tvg-logo="" group-title="SERIES",MR BEAN 05
 https://www.youtube.com/watch?v=ZQryUvMpGk8
-
-
-#EXTINF:-1 group-title="SERIES", MR BEAN 06
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 06" tvg-logo="" group-title="SERIES",MR BEAN 06
 https://www.youtube.com/watch?v=yHgLTGXY2So
-
-
-#EXTINF:-1 group-title="SERIES", MR BEAN 07
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 07" tvg-logo="" group-title="SERIES",MR BEAN 07
 https://www.youtube.com/watch?v=qCNu_vJNLMQ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 01
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 01" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 01
 https://www.youtube.com/watch?v=o7Gb05T1-hw
-
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 02
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 02" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 02
 https://www.youtube.com/watch?v=q9LnztSXBr0
-
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 03
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 03" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 03
 https://www.youtube.com/watch?v=Xh_ugOt7jig
-
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 04
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 04" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 04
 https://www.youtube.com/watch?v=17DV_-iaJTE
-
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 05
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 05" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 05
 https://www.youtube.com/watch?v=nUWw5OwmdFg
-
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 06
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 06" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 06
 https://www.youtube.com/watch?v=kapZHt_cMrg
-
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 07
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 07" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 07
 https://www.youtube.com/watch?v=ejFCxvddrbM
-
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 08
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 08" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 08
 https://www.youtube.com/watch?v=lvmFhio54hs
-
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 09
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 09" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 09
 https://www.youtube.com/watch?v=wwQOMjUbJvU
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 10
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 10" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 10
 https://www.youtube.com/watch?v=2qk6Sd5RLcA
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 11
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 11" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 11
 https://www.youtube.com/watch?v=a0j-9tViViU
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 12
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 12" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 12
 https://www.youtube.com/watch?v=BXcEPghII1s
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 13
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 13" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 13
 https://www.youtube.com/watch?v=rQxyfVUDaxg
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 14
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 14" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 14
 https://www.youtube.com/watch?v=JMDDKuIo5gc
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 15
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 15" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 15
 https://www.youtube.com/watch?v=EI3XjhgR47Q
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 16
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 16" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 16
 https://www.youtube.com/watch?v=w_eliJz19uw
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 17
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 17" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 17
 https://www.youtube.com/watch?v=EPF4zEW7cbw
-
-#EXTINF:-1 group-title="SERIES", CASADOS CON HIJOS 18
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 18" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 18
 https://www.youtube.com/watch?v=w9oBitSjwXQ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", COCACOLA COMPANY doc
+#EXTINF:-1 tvg-id="" tvg-name="COCACOLA COMPANY doc" tvg-logo="" group-title="DOCUMENTALES",COCACOLA COMPANY doc
 https://www.youtube.com/watch?v=h5uSqZLD8IQ
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", COCACOLA VS PEPSI doc
+#EXTINF:-1 tvg-id="" tvg-name="COCACOLA VS PEPSI doc" tvg-logo="" group-title="DOCUMENTALES",COCACOLA VS PEPSI doc
 https://www.youtube.com/watch?v=OjHqH8hdDXU
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", MEGAFABRICAS JACKDANIELS doc
+#EXTINF:-1 tvg-id="" tvg-name="MEGAFABRICAS JACKDANIELS doc" tvg-logo="" group-title="DOCUMENTALES",MEGAFABRICAS JACKDANIELS doc
 https://www.youtube.com/watch?v=3o1R8nD6QAo
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", MOTOS HONDA doc
+#EXTINF:-1 tvg-id="" tvg-name="MOTOS HONDA doc" tvg-logo="" group-title="DOCUMENTALES",MOTOS HONDA doc
 https://www.youtube.com/watch?v=8-WNorByyfg
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", LA AMAZONIA EN PELIGRO doc
+#EXTINF:-1 tvg-id="" tvg-name="LA AMAZONIA EN PELIGRO doc" tvg-logo="" group-title="DOCUMENTALES",LA AMAZONIA EN PELIGRO doc
 https://www.youtube.com/watch?v=G1IS73YVtSo
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", LA VIDA DE LOS RICOS EN AFRICA doc
+#EXTINF:-1 tvg-id="" tvg-name="LA VIDA DE LOS RICOS EN AFRICA doc" tvg-logo="" group-title="DOCUMENTALES",LA VIDA DE LOS RICOS EN AFRICA doc
 https://www.youtube.com/watch?v=Uqb3nG4s4D8
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", LOS NEANDERTALES doc
+#EXTINF:-1 tvg-id="" tvg-name="LOS NEANDERTALES doc" tvg-logo="" group-title="DOCUMENTALES",LOS NEANDERTALES doc
 https://www.youtube.com/watch?v=cKcwZWo1Sns
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", PROPAGANDO NAZI doc
+#EXTINF:-1 tvg-id="" tvg-name="PROPAGANDO NAZI doc" tvg-logo="" group-title="DOCUMENTALES",PROPAGANDO NAZI doc
 https://www.youtube.com/watch?v=o9qdfrx3WBI
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", GEOINGENIERIA CONTRA EL CLIMA doc
+#EXTINF:-1 tvg-id="" tvg-name="GEOINGENIERIA CONTRA EL CLIMA doc" tvg-logo="" group-title="DOCUMENTALES",GEOINGENIERIA CONTRA EL CLIMA doc
 https://www.youtube.com/watch?v=3LaLUREx8lg
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", INTERNET DESDE EL ESPACIO doc
+#EXTINF:-1 tvg-id="" tvg-name="INTERNET DESDE EL ESPACIO doc" tvg-logo="" group-title="DOCUMENTALES",INTERNET DESDE EL ESPACIO doc
 https://www.youtube.com/watch?v=FEAfZ37Pb4k
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", EL INTERNET DE LAS COSAS doc
+#EXTINF:-1 tvg-id="" tvg-name="EL INTERNET DE LAS COSAS doc" tvg-logo="" group-title="DOCUMENTALES",EL INTERNET DE LAS COSAS doc
 https://www.youtube.com/watch?v=iUbR046La68
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", UN VIAJE POR COREA DEL NORTE doc
+#EXTINF:-1 tvg-id="" tvg-name="UN VIAJE POR COREA DEL NORTE doc" tvg-logo="" group-title="DOCUMENTALES",UN VIAJE POR COREA DEL NORTE doc
 https://www.youtube.com/watch?v=OUfoY7h46fM
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", LA MUERTE DE HITLER doc
+#EXTINF:-1 tvg-id="" tvg-name="LA MUERTE DE HITLER doc" tvg-logo="" group-title="DOCUMENTALES",LA MUERTE DE HITLER doc
 https://www.youtube.com/watch?v=fKW7oayvfCY
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", MARX Y SUS HEREDEROS doc
+#EXTINF:-1 tvg-id="" tvg-name="MARX Y SUS HEREDEROS doc" tvg-logo="" group-title="DOCUMENTALES",MARX Y SUS HEREDEROS doc
 https://www.youtube.com/watch?v=NL0j5olb9LE
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", PLOMO EN LA SANGRE doc
+#EXTINF:-1 tvg-id="" tvg-name="PLOMO EN LA SANGRE doc" tvg-logo="" group-title="DOCUMENTALES",PLOMO EN LA SANGRE doc
 https://www.youtube.com/watch?v=k-yYJN5mZwI&t=1736s
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", VIEJAS ALIENZAS NUEVAS AMENAZAS doc
+#EXTINF:-1 tvg-id="" tvg-name="VIEJAS ALIENZAS NUEVAS AMENAZAS doc" tvg-logo="" group-title="DOCUMENTALES",VIEJAS ALIENZAS NUEVAS AMENAZAS doc
 https://www.youtube.com/watch?v=QBKy2ZWxhbE
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", LA ZONA MAS EXTRANA DEL OCEANO doc
+#EXTINF:-1 tvg-id="" tvg-name="LA ZONA MAS EXTRANA DEL OCEANO doc" tvg-logo="" group-title="DOCUMENTALES",LA ZONA MAS EXTRANA DEL OCEANO doc
 https://www.youtube.com/watch?v=Nn4ZA3IqxBs
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", BERLIN LA SINAGONA DE LA CUPULA DORADA doc
+#EXTINF:-1 tvg-id="" tvg-name="BERLIN LA SINAGONA DE LA CUPULA DORADA doc" tvg-logo="" group-title="DOCUMENTALES",BERLIN LA SINAGONA DE LA CUPULA DORADA doc
 https://www.youtube.com/watch?v=b3agKryj1gw
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", LA NUEVA RUTA DE LA SEDA doc
+#EXTINF:-1 tvg-id="" tvg-name="LA NUEVA RUTA DE LA SEDA doc" tvg-logo="" group-title="DOCUMENTALES",LA NUEVA RUTA DE LA SEDA doc
 https://www.youtube.com/watch?v=l322kC4NJ_Q&t=24s
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", EL FRAUDE DE LA FRUTA doc
+#EXTINF:-1 tvg-id="" tvg-name="EL FRAUDE DE LA FRUTA doc" tvg-logo="" group-title="DOCUMENTALES",EL FRAUDE DE LA FRUTA doc
 https://www.youtube.com/watch?v=p-E9w0l6qbY
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", COCACOLA ES COCAINA doc
+#EXTINF:-1 tvg-id="" tvg-name="COCACOLA ES COCAINA doc" tvg-logo="" group-title="DOCUMENTALES",COCACOLA ES COCAINA doc
 https://www.youtube.com/watch?v=vdOpUaXj_fE
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", BILL GATES BIO doc
+#EXTINF:-1 tvg-id="" tvg-name="BILL GATES BIO doc" tvg-logo="" group-title="DOCUMENTALES",BILL GATES BIO doc
 https://www.youtube.com/watch?v=YtZvtUWo-bw
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", BILL GATES Y MICROSOFT doc
+#EXTINF:-1 tvg-id="" tvg-name="BILL GATES Y MICROSOFT doc" tvg-logo="" group-title="DOCUMENTALES",BILL GATES Y MICROSOFT doc
 https://www.youtube.com/watch?v=r_3vNINzkYo
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", STEVE JOBS VS BILL GATES doc
+#EXTINF:-1 tvg-id="" tvg-name="STEVE JOBS VS BILL GATES doc" tvg-logo="" group-title="DOCUMENTALES",STEVE JOBS VS BILL GATES doc
 https://www.youtube.com/watch?v=OtPY-yMLpwA
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", COMO NACIO EL UNIVERSO doc
+#EXTINF:-1 tvg-id="" tvg-name="COMO NACIO EL UNIVERSO doc" tvg-logo="" group-title="DOCUMENTALES",COMO NACIO EL UNIVERSO doc
 https://www.youtube.com/watch?v=5KuovaKXo1M
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", PIONEROS DEL INTERNET doc
+#EXTINF:-1 tvg-id="" tvg-name="PIONEROS DEL INTERNET doc" tvg-logo="" group-title="DOCUMENTALES",PIONEROS DEL INTERNET doc
 https://www.youtube.com/watch?v=0J3B1YyJzS0
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", STEVE JOBS COMO CAMBIO EL MUNDO doc
+#EXTINF:-1 tvg-id="" tvg-name="STEVE JOBS COMO CAMBIO EL MUNDO doc" tvg-logo="" group-title="DOCUMENTALES",STEVE JOBS COMO CAMBIO EL MUNDO doc
 https://www.youtube.com/watch?v=XUGLIqDjveo
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", STEVE JOBS Y LOS INICIOS DE APPLE doc
+#EXTINF:-1 tvg-id="" tvg-name="STEVE JOBS Y LOS INICIOS DE APPLE doc" tvg-logo="" group-title="DOCUMENTALES",STEVE JOBS Y LOS INICIOS DE APPLE doc
 https://www.youtube.com/watch?v=xUE7uguFy1A
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", STEVE JOBS UN GENIO VISIONARIO doc
+#EXTINF:-1 tvg-id="" tvg-name="STEVE JOBS UN GENIO VISIONARIO doc" tvg-logo="" group-title="DOCUMENTALES",STEVE JOBS UN GENIO VISIONARIO doc
 https://www.youtube.com/watch?v=mcwILc7A-Ic
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", AMAZON, JEFF BEZOS Y LA COLECCION DE DATOSd oc
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON, JEFF BEZOS Y LA COLECCION DE DATOSd oc" tvg-logo="" group-title="DOCUMENTALES",AMAZON, JEFF BEZOS Y LA COLECCION DE DATOSd oc
 https://www.youtube.com/watch?v=UzGemfwaTT8
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", LOS PRODUCTOS HALAL doc
+#EXTINF:-1 tvg-id="" tvg-name="LOS PRODUCTOS HALAL doc" tvg-logo="" group-title="DOCUMENTALES",LOS PRODUCTOS HALAL doc
 https://www.youtube.com/watch?v=LKoCygaU0Lk
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", PERSIGUIENDO A MADOFF doc
+#EXTINF:-1 tvg-id="" tvg-name="PERSIGUIENDO A MADOFF doc" tvg-logo="" group-title="DOCUMENTALES",PERSIGUIENDO A MADOFF doc
 https://www.youtube.com/watch?v=q8ESsZeeHf4
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", GRANDES ESTAFAS doc
+#EXTINF:-1 tvg-id="" tvg-name="GRANDES ESTAFAS doc" tvg-logo="" group-title="DOCUMENTALES",GRANDES ESTAFAS doc
 https://www.youtube.com/watch?v=te1yp2dQhYk
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", ECONOMICO - COMO EL DINERO DEJO DE TENER VALOR doc
+#EXTINF:-1 tvg-id="" tvg-name="ECONOMICO - COMO EL DINERO DEJO DE TENER VALOR doc" tvg-logo="" group-title="DOCUMENTALES",ECONOMICO - COMO EL DINERO DEJO DE TENER VALOR doc
 https://www.youtube.com/watch?v=jw0-H2S5eT4
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", POLITICA EXTERIOS DE BIDEN doc
+#EXTINF:-1 tvg-id="" tvg-name="POLITICA EXTERIOS DE BIDEN doc" tvg-logo="" group-title="DOCUMENTALES",POLITICA EXTERIOS DE BIDEN doc
 https://www.youtube.com/watch?v=0cAlmYRuBbg
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", ESQUEMA PONZI doc
+#EXTINF:-1 tvg-id="" tvg-name="ESQUEMA PONZI doc" tvg-logo="" group-title="DOCUMENTALES",ESQUEMA PONZI doc
 https://www.youtube.com/watch?v=8vDyGaDxmic
-
-
-#EXTINF:-1 group-title="DOCUMENTALES", JORDAN BELFORT doc
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN BELFORT doc" tvg-logo="" group-title="DOCUMENTALES",JORDAN BELFORT doc
 https://www.youtube.com/watch?v=lozXiv_zQYY
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="100 AÑOS DE BAUHAUS", EL CODIGO 01
+#EXTINF:-1 tvg-id="" tvg-name="G FUNK SNOOP DOGG doc" tvg-logo="" group-title="DOCUMENTALES",G FUNK SNOOP DOGG doc
+https://www.youtube.com/watch?v=JIf1r0ZJ3Z0
+#EXTINF:-1 tvg-id="" tvg-name="LA MARA 18 doc" tvg-logo="" group-title="DOCUMENTALES",LA MARA 18 doc
+https://www.youtube.com/watch?v=nMr-tM5kFy0
+#EXTINF:-1 tvg-id="" tvg-name="EL CODIGO 01" tvg-logo="" group-title="100 AÑOS DE BAUHAUS",EL CODIGO 01
 https://www.youtube.com/watch?v=3TFmr6y8lcM&t=15s
-
-
-#EXTINF:-1 group-title="100 AÑOS DE BAUHAUS", EL EFECTO 02
+#EXTINF:-1 tvg-id="" tvg-name="EL EFECTO 02" tvg-logo="" group-title="100 AÑOS DE BAUHAUS",EL EFECTO 02
 https://www.youtube.com/watch?v=jGaOnSqN4gs
-
-
-#EXTINF:-1 group-title="100 AÑOS DE BAUHAUS", LA UTOPIA 03
+#EXTINF:-1 tvg-id="" tvg-name="LA UTOPIA 03" tvg-logo="" group-title="100 AÑOS DE BAUHAUS",LA UTOPIA 03
 https://www.youtube.com/watch?v=9WVOG9Kav5c
