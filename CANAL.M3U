@@ -249,14 +249,8 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AND40 TV" tvg-logo="" group-title="CANALES",AND40 TV
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="" group-title="CANALES",NET TV
-http://regioplay.xyz/php/SR_REGIO_223022_/nettv.php?f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="" group-title="CANALES",CNN INTERNATIONAL
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WAPPTV TV" tvg-logo="" group-title="CANALES",WAPPTV TV
-https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=wapptv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HORRORFY TV" tvg-logo="" group-title="CANALES",HORRORFY TV
-https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=horrorfy&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBN NEWS TV eng" tvg-logo="" group-title="CANALES",CBN NEWS TV eng
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY ESPAÑA TV" tvg-logo="" group-title="CANALES",COMEDY ESPAÑA TV
@@ -265,22 +259,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007
 https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL FIGHT TV" tvg-logo="" group-title="CANALES",CHANNEL FIGHT TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS TV opcion 2" tvg-logo="" group-title="CANALES",EURONEWS TV opcion 2
-https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=euronews-spa&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPANGLISH TV" tvg-logo="" group-title="CANALES",SPANGLISH TV
-https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=spanglish&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN UK TV uk" tvg-logo="" group-title="CANALES",CNN UK TV uk
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEPRIDE TV" tvg-logo="" group-title="CANALES",CINEPRIDE TV
 https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINELIFE TV eng" tvg-logo="" group-title="CANALES",CINELIFE TV eng
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CASA COMEDY TV" tvg-logo="" group-title="CANALES",CASA COMEDY TV
-https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=casa-comedy&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FLASH MUSIC TV" tvg-logo="" group-title="CANALES",FLASH MUSIC TV
-https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=flash-1&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TU CINE TV" tvg-logo="" group-title="CANALES",TU CINE TV
-https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=tu-cine-latam&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑA TV" tvg-logo="" group-title="CANALES",CGTN ESPAÑA TV
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HLS TV" tvg-logo="" group-title="CANALES",HLS TV
@@ -309,10 +293,6 @@ http://cecegeek@goo.gl/3KGMLf
 http://bit.ly/MRAQCSAND
 #EXTINF:-1 tvg-id="" tvg-name="THE MINE lat" tvg-logo="" group-title="PELICULAS",THE MINE lat
 http://bit.ly/THEMINE
-#EXTINF:-1 tvg-id="" tvg-name="VOLVER AL FUTURO lat" tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO lat
-http://regioplay.xyz/php/SR_REGIO_223022_/volver.php?f=.mp4
-#EXTINF:-1 tvg-id="" tvg-name="VOLVER AL FUTURO II lat" tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO II lat
-http://regioplay.xyz/php/SR_REGIO_223022_/volver2.php?f=.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOLVER AL FUTURO III lat" tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO III lat
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 #EXTINF:-1 tvg-id="" tvg-name="RENO 911 sub" tvg-logo="" group-title="PELICULAS",RENO 911 sub
@@ -673,8 +653,6 @@ http://144.217.69.162/PELIS_STALKER/Most%20Dangerous%20Game.2020.mkv
 http://144.217.69.162/PELIS_STALKER/The.Head.Hunter.2018.1080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="THE HOUSE NEXT DOOR MEET THE BLACKS 2 lat" tvg-logo="https://1.bp.blogspot.com/--BQJy1tfytU/YJhoQUSXNVI/AAAAAAAA5ZE/prK7Zi9NBL022n7RqTTLvqiMzD2i9gFSACLcBGAsYHQ/s800/house_next_door_poster.jpg" group-title="PELICULAS",THE HOUSE NEXT DOOR MEET THE BLACKS 2 lat
 http://144.217.69.162/PELIS_STALKER/The.House.Next.Door.Meet.the.Blacks.2.2021.Comedia.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RIPPER UNTOLD dual" tvg-logo="https://pics.filmaffinity.com/Ripper_Untold-380250668-large.jpg" group-title="PELICULAS",RIPPER UNTOLD dual
-http://144.217.69.162/PELIS_STALKER/Ripper.Untold.2021.720p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EL PROFUGO lat" tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/30/15/43/2556601.jpg" group-title="PELICULAS",EL PROFUGO lat
 http://144.217.69.162/PELIS_STALKER/El.profugo.2021.1080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="THERES SOMEONE INSIDE YOUR HOUSE dual" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ4OTAwNjAtMzBjZS00ZTI3LTk0YTUtMzE1N2I5ZDA5ZGRiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS",THERES SOMEONE INSIDE YOUR HOUSE dual
@@ -774,7 +752,7 @@ http://54.39.52.63/PELICULA/1.20.1/13532.The.Last.Duel.2021.1080p.BluRay.Dual.La
 #EXTINF:-1 tvg-id="" tvg-name="EL HOBBIT UN VIAJE INESPERADO dual" tvg-logo="https://i0.wp.com/elanillounico.com/wp-content/uploads/2012/12/EL_HOB2.jpg" group-title="PELICULAS",EL HOBBIT UN VIAJE INESPERADO dual
 http://54.39.52.63/PELICULA/1.26/19021.The.Hobbit.An.Unexpected.Journey.2012.EXTENDED.REMASTERED.1080p.BluRay.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DONT KILL ME dual" tvg-logo="https://resizing.flixster.com/iFE62zhpmW42qm-ouD63xJfgLrM=/206x305/v2/https://resizing.flixster.com/5ydrQxrF5vrN6KJ19NlHXBK5Xyo=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2QxZjYyZmM5LTVjZjctNDUzOC05ZTJjLTg5ODQwNDJkZmNiMi5qcGc=" group-title="PELICULAS",DONT KILL ME dual
-http://54.39.52.63/PELICULA/2.23/18476.Dont.Kill.Me.2021.1080p.WEBRip.Dual.Latino.mkv
+https://resizing.flixster.com/5ydrQxrF5vrN6KJ19NlHXBK5Xyo=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2QxZjYyZmM5LTVjZjctNDUzOC05ZTJjLTg5ODQwNDJkZmNiMi5qcGc=" group-title="PELICULAS",DONT KILL ME dual
 #EXTINF:-1 tvg-id="" tvg-name="BLACKLIGHT sub" tvg-logo="data:image/jpeg;base64,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" group-title="PELICULAS",BLACKLIGHT sub
 http://54.39.52.63/PELICULA/3.3/4551.Blacklight.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="LOS TRAPOS SUCIOS SE LAVAN EN CASA lat" tvg-logo="https://pics.filmaffinity.com/Los_trapos_sucios_se_lavan_en_casa-977965555-large.jpg" group-title="PELICULAS",LOS TRAPOS SUCIOS SE LAVAN EN CASA lat
@@ -803,6 +781,16 @@ http://54.39.52.63/PELICULA/4.8/11208.11M.Terror.in.Madrid.2022.1080p.WEBRip.mkv
 http://54.39.52.63/PELICULA/2.4A/4987.The.Bubble.2022.1080p.WEBRip.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MUERTE EN EL NILO lat" tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-43449.jpg" group-title="PELICULAS",MUERTE EN EL NILO lat
 http://54.39.52.63/PELICULA/3.29/13233.Death.on.the.Nile.2022.1080p.BluRay.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SODA STEREO EL ULTIMO CONCIERTO" tvg-logo="" group-title="PELICULAS",SODA STEREO EL ULTIMO CONCIERTO
+https://www.youtube.com/watch?v=xk7fSD6MZeg
+#EXTINF:-1 tvg-id="" tvg-name="CHOOSE OR DIE lat" tvg-logo="" group-title="PELICULAS",CHOOSE OR DIE lat
+http://54.39.52.63/PELICULA/4.17/2552.Choose.or.Die.2022.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UNCHARTED sub" tvg-logo="" group-title="PELICULAS",UNCHARTED sub
+http://144.217.69.162/PELIS_STALKER/Uncharted.2022.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JACK AND JILL dual" tvg-logo="" group-title="PELICULAS",JACK AND JILL dual
+http://54.39.52.63/PELICULA/24.4/15896.Jack.and.Jill.2011.1080p.BluRay.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AMBULANCE sub" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBkMjA1OTEtYjIzZi00ZjkxLWIxOTYtYThiM2JkOGQ0ZWZlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="PELICULAS",AMBULANCE sub
+http://54.39.52.63/PELICULA/23.4/19949.Ambulance.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -1053,4 +1041,235 @@ http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x08.mkv
 #EXTINF:-1 tvg-id="" tvg-name="05x09" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x09
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x09.mkv
-#EXTINF:-1 tvg-id="" tvg-name="05x10" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-
+#EXTINF:-1 tvg-id="" tvg-name="05x10" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL SEANSON 5",05x10
+http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x10.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X01" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN",01X01
+http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E01.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X02" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN",01X02
+http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E02.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X03" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN",01X03
+http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E03.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X01" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X01
+http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x01.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X02" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X02
+http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x02.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X03" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X03
+http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x03.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X04" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X04
+http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x04.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X05" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X05
+http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x05.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X06" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X06
+http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x06.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X07" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X07
+http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x07.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X08" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="HARINA SEANSON 1",01X08
+http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x08.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 01" tvg-logo="" group-title="SERIES",MR BEAN 01
+https://www.youtube.com/watch?v=sOlP10fDclE
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 02" tvg-logo="" group-title="SERIES",MR BEAN 02
+https://www.youtube.com/watch?v=9f2CSNyd53o
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 03" tvg-logo="" group-title="SERIES",MR BEAN 03
+https://www.youtube.com/watch?v=v9566h7mSOE
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 04" tvg-logo="" group-title="SERIES",MR BEAN 04
+https://www.youtube.com/watch?v=gMs-zl28ZF0
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 05" tvg-logo="" group-title="SERIES",MR BEAN 05
+https://www.youtube.com/watch?v=ZQryUvMpGk8
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 06" tvg-logo="" group-title="SERIES",MR BEAN 06
+https://www.youtube.com/watch?v=yHgLTGXY2So
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN 07" tvg-logo="" group-title="SERIES",MR BEAN 07
+https://www.youtube.com/watch?v=qCNu_vJNLMQ
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 01" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 01
+https://www.youtube.com/watch?v=o7Gb05T1-hw
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 02" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 02
+https://www.youtube.com/watch?v=q9LnztSXBr0
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 03" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 03
+https://www.youtube.com/watch?v=Xh_ugOt7jig
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 04" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 04
+https://www.youtube.com/watch?v=17DV_-iaJTE
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 05" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 05
+https://www.youtube.com/watch?v=nUWw5OwmdFg
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 06" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 06
+https://www.youtube.com/watch?v=kapZHt_cMrg
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 07" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 07
+https://www.youtube.com/watch?v=ejFCxvddrbM
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 08" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 08
+https://www.youtube.com/watch?v=lvmFhio54hs
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 09" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 09
+https://www.youtube.com/watch?v=wwQOMjUbJvU
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 10" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 10
+https://www.youtube.com/watch?v=2qk6Sd5RLcA
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 11" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 11
+https://www.youtube.com/watch?v=a0j-9tViViU
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 12" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 12
+https://www.youtube.com/watch?v=BXcEPghII1s
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 13" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 13
+https://www.youtube.com/watch?v=rQxyfVUDaxg
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 14" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 14
+https://www.youtube.com/watch?v=JMDDKuIo5gc
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 15" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 15
+https://www.youtube.com/watch?v=EI3XjhgR47Q
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 16" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 16
+https://www.youtube.com/watch?v=w_eliJz19uw
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 17" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 17
+https://www.youtube.com/watch?v=EPF4zEW7cbw
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 18" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 18
+https://www.youtube.com/watch?v=w9oBitSjwXQ
+#EXTINF:-1 tvg-id="" tvg-name="COCACOLA COMPANY doc" tvg-logo="" group-title="DOCUMENTALES",COCACOLA COMPANY doc
+https://www.youtube.com/watch?v=h5uSqZLD8IQ
+#EXTINF:-1 tvg-id="" tvg-name="COCACOLA VS PEPSI doc" tvg-logo="" group-title="DOCUMENTALES",COCACOLA VS PEPSI doc
+https://www.youtube.com/watch?v=OjHqH8hdDXU
+#EXTINF:-1 tvg-id="" tvg-name="MEGAFABRICAS JACKDANIELS doc" tvg-logo="" group-title="DOCUMENTALES",MEGAFABRICAS JACKDANIELS doc
+https://www.youtube.com/watch?v=3o1R8nD6QAo
+#EXTINF:-1 tvg-id="" tvg-name="MOTOS HONDA doc" tvg-logo="" group-title="DOCUMENTALES",MOTOS HONDA doc
+https://www.youtube.com/watch?v=8-WNorByyfg
+#EXTINF:-1 tvg-id="" tvg-name="LA AMAZONIA EN PELIGRO doc" tvg-logo="" group-title="DOCUMENTALES",LA AMAZONIA EN PELIGRO doc
+https://www.youtube.com/watch?v=G1IS73YVtSo
+#EXTINF:-1 tvg-id="" tvg-name="LA VIDA DE LOS RICOS EN AFRICA doc" tvg-logo="" group-title="DOCUMENTALES",LA VIDA DE LOS RICOS EN AFRICA doc
+https://www.youtube.com/watch?v=Uqb3nG4s4D8
+#EXTINF:-1 tvg-id="" tvg-name="LOS NEANDERTALES doc" tvg-logo="" group-title="DOCUMENTALES",LOS NEANDERTALES doc
+https://www.youtube.com/watch?v=cKcwZWo1Sns
+#EXTINF:-1 tvg-id="" tvg-name="PROPAGANDO NAZI doc" tvg-logo="" group-title="DOCUMENTALES",PROPAGANDO NAZI doc
+https://www.youtube.com/watch?v=o9qdfrx3WBI
+#EXTINF:-1 tvg-id="" tvg-name="GEOINGENIERIA CONTRA EL CLIMA doc" tvg-logo="" group-title="DOCUMENTALES",GEOINGENIERIA CONTRA EL CLIMA doc
+https://www.youtube.com/watch?v=3LaLUREx8lg
+#EXTINF:-1 tvg-id="" tvg-name="INTERNET DESDE EL ESPACIO doc" tvg-logo="" group-title="DOCUMENTALES",INTERNET DESDE EL ESPACIO doc
+https://www.youtube.com/watch?v=FEAfZ37Pb4k
+#EXTINF:-1 tvg-id="" tvg-name="EL INTERNET DE LAS COSAS doc" tvg-logo="" group-title="DOCUMENTALES",EL INTERNET DE LAS COSAS doc
+https://www.youtube.com/watch?v=iUbR046La68
+#EXTINF:-1 tvg-id="" tvg-name="UN VIAJE POR COREA DEL NORTE doc" tvg-logo="" group-title="DOCUMENTALES",UN VIAJE POR COREA DEL NORTE doc
+https://www.youtube.com/watch?v=OUfoY7h46fM
+#EXTINF:-1 tvg-id="" tvg-name="LA MUERTE DE HITLER doc" tvg-logo="" group-title="DOCUMENTALES",LA MUERTE DE HITLER doc
+https://www.youtube.com/watch?v=fKW7oayvfCY
+#EXTINF:-1 tvg-id="" tvg-name="MARX Y SUS HEREDEROS doc" tvg-logo="" group-title="DOCUMENTALES",MARX Y SUS HEREDEROS doc
+https://www.youtube.com/watch?v=NL0j5olb9LE
+#EXTINF:-1 tvg-id="" tvg-name="PLOMO EN LA SANGRE doc" tvg-logo="" group-title="DOCUMENTALES",PLOMO EN LA SANGRE doc
+https://www.youtube.com/watch?v=k-yYJN5mZwI&t=1736s
+#EXTINF:-1 tvg-id="" tvg-name="VIEJAS ALIENZAS NUEVAS AMENAZAS doc" tvg-logo="" group-title="DOCUMENTALES",VIEJAS ALIENZAS NUEVAS AMENAZAS doc
+https://www.youtube.com/watch?v=QBKy2ZWxhbE
+#EXTINF:-1 tvg-id="" tvg-name="LA ZONA MAS EXTRANA DEL OCEANO doc" tvg-logo="" group-title="DOCUMENTALES",LA ZONA MAS EXTRANA DEL OCEANO doc
+https://www.youtube.com/watch?v=Nn4ZA3IqxBs
+#EXTINF:-1 tvg-id="" tvg-name="BERLIN LA SINAGONA DE LA CUPULA DORADA doc" tvg-logo="" group-title="DOCUMENTALES",BERLIN LA SINAGONA DE LA CUPULA DORADA doc
+https://www.youtube.com/watch?v=b3agKryj1gw
+#EXTINF:-1 tvg-id="" tvg-name="LA NUEVA RUTA DE LA SEDA doc" tvg-logo="" group-title="DOCUMENTALES",LA NUEVA RUTA DE LA SEDA doc
+https://www.youtube.com/watch?v=l322kC4NJ_Q&t=24s
+#EXTINF:-1 tvg-id="" tvg-name="EL FRAUDE DE LA FRUTA doc" tvg-logo="" group-title="DOCUMENTALES",EL FRAUDE DE LA FRUTA doc
+https://www.youtube.com/watch?v=p-E9w0l6qbY
+#EXTINF:-1 tvg-id="" tvg-name="COCACOLA ES COCAINA doc" tvg-logo="" group-title="DOCUMENTALES",COCACOLA ES COCAINA doc
+https://www.youtube.com/watch?v=vdOpUaXj_fE
+#EXTINF:-1 tvg-id="" tvg-name="BILL GATES BIO doc" tvg-logo="" group-title="DOCUMENTALES",BILL GATES BIO doc
+https://www.youtube.com/watch?v=YtZvtUWo-bw
+#EXTINF:-1 tvg-id="" tvg-name="BILL GATES Y MICROSOFT doc" tvg-logo="" group-title="DOCUMENTALES",BILL GATES Y MICROSOFT doc
+https://www.youtube.com/watch?v=r_3vNINzkYo
+#EXTINF:-1 tvg-id="" tvg-name="STEVE JOBS VS BILL GATES doc" tvg-logo="" group-title="DOCUMENTALES",STEVE JOBS VS BILL GATES doc
+https://www.youtube.com/watch?v=OtPY-yMLpwA
+#EXTINF:-1 tvg-id="" tvg-name="COMO NACIO EL UNIVERSO doc" tvg-logo="" group-title="DOCUMENTALES",COMO NACIO EL UNIVERSO doc
+https://www.youtube.com/watch?v=5KuovaKXo1M
+#EXTINF:-1 tvg-id="" tvg-name="PIONEROS DEL INTERNET doc" tvg-logo="" group-title="DOCUMENTALES",PIONEROS DEL INTERNET doc
+https://www.youtube.com/watch?v=0J3B1YyJzS0
+#EXTINF:-1 tvg-id="" tvg-name="STEVE JOBS COMO CAMBIO EL MUNDO doc" tvg-logo="" group-title="DOCUMENTALES",STEVE JOBS COMO CAMBIO EL MUNDO doc
+https://www.youtube.com/watch?v=XUGLIqDjveo
+#EXTINF:-1 tvg-id="" tvg-name="STEVE JOBS Y LOS INICIOS DE APPLE doc" tvg-logo="" group-title="DOCUMENTALES",STEVE JOBS Y LOS INICIOS DE APPLE doc
+https://www.youtube.com/watch?v=xUE7uguFy1A
+#EXTINF:-1 tvg-id="" tvg-name="STEVE JOBS UN GENIO VISIONARIO doc" tvg-logo="" group-title="DOCUMENTALES",STEVE JOBS UN GENIO VISIONARIO doc
+https://www.youtube.com/watch?v=mcwILc7A-Ic
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON, JEFF BEZOS Y LA COLECCION DE DATOSd oc" tvg-logo="" group-title="DOCUMENTALES",AMAZON, JEFF BEZOS Y LA COLECCION DE DATOSd oc
+https://www.youtube.com/watch?v=UzGemfwaTT8
+#EXTINF:-1 tvg-id="" tvg-name="LOS PRODUCTOS HALAL doc" tvg-logo="" group-title="DOCUMENTALES",LOS PRODUCTOS HALAL doc
+https://www.youtube.com/watch?v=LKoCygaU0Lk
+#EXTINF:-1 tvg-id="" tvg-name="PERSIGUIENDO A MADOFF doc" tvg-logo="" group-title="DOCUMENTALES",PERSIGUIENDO A MADOFF doc
+https://www.youtube.com/watch?v=q8ESsZeeHf4
+#EXTINF:-1 tvg-id="" tvg-name="GRANDES ESTAFAS doc" tvg-logo="" group-title="DOCUMENTALES",GRANDES ESTAFAS doc
+https://www.youtube.com/watch?v=te1yp2dQhYk
+#EXTINF:-1 tvg-id="" tvg-name="ECONOMICO - COMO EL DINERO DEJO DE TENER VALOR doc" tvg-logo="" group-title="DOCUMENTALES",ECONOMICO - COMO EL DINERO DEJO DE TENER VALOR doc
+https://www.youtube.com/watch?v=jw0-H2S5eT4
+#EXTINF:-1 tvg-id="" tvg-name="POLITICA EXTERIOS DE BIDEN doc" tvg-logo="" group-title="DOCUMENTALES",POLITICA EXTERIOS DE BIDEN doc
+https://www.youtube.com/watch?v=0cAlmYRuBbg
+#EXTINF:-1 tvg-id="" tvg-name="ESQUEMA PONZI doc" tvg-logo="" group-title="DOCUMENTALES",ESQUEMA PONZI doc
+https://www.youtube.com/watch?v=8vDyGaDxmic
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN BELFORT doc" tvg-logo="" group-title="DOCUMENTALES",JORDAN BELFORT doc
+https://www.youtube.com/watch?v=lozXiv_zQYY
+#EXTINF:-1 tvg-id="" tvg-name="G FUNK SNOOP DOGG doc" tvg-logo="" group-title="DOCUMENTALES",G FUNK SNOOP DOGG doc
+https://www.youtube.com/watch?v=JIf1r0ZJ3Z0
+#EXTINF:-1 tvg-id="" tvg-name="LA MARA 18 doc" tvg-logo="" group-title="DOCUMENTALES",LA MARA 18 doc
+https://www.youtube.com/watch?v=nMr-tM5kFy0
+#EXTINF:-1 tvg-id="" tvg-name="EL CODIGO 01" tvg-logo="" group-title="100 AÑOS DE BAUHAUS",EL CODIGO 01
+https://www.youtube.com/watch?v=3TFmr6y8lcM&t=15s
+#EXTINF:-1 tvg-id="" tvg-name="EL EFECTO 02" tvg-logo="" group-title="100 AÑOS DE BAUHAUS",EL EFECTO 02
+https://www.youtube.com/watch?v=jGaOnSqN4gs
+#EXTINF:-1 tvg-id="" tvg-name="LA UTOPIA 03" tvg-logo="" group-title="100 AÑOS DE BAUHAUS",LA UTOPIA 03
+https://www.youtube.com/watch?v=9WVOG9Kav5c
+#EXTINF:-1 tvg-id="" tvg-name="01X01 dual" tvg-logo="" group-title="HALO",01X01 dual
+http://54.39.52.63/SERIE/HALO/14584.Halo.S01E01.720p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="" group-title="HALO",01X02 sub
+http://54.39.52.63/SERIE/HALO/1x2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="" group-title="HALO",01X03 sub
+http://54.39.52.63/SERIE/HALO/1x3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X04 dual" tvg-logo="" group-title="HALO",01X04 dual
+http://54.39.52.63/SERIE/HALO/9030.Halo.S01E04.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X05 dual" tvg-logo="" group-title="HALO",01X05 dual
+http://54.39.52.63/SERIE/HALO/14028.Halo.S01E05.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/0/0a/Squid_Game_Cover.jpeg/revision/latest?cb=20210918184206" group-title="SQUID GAME",01X01 sub
+http://54.39.52.63/SERIE/EL%20JUEGO%20DEL%20CALAMAR/El%20juego%20del%20calamar%201%c3%971%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/0/0a/Squid_Game_Cover.jpeg/revision/latest?cb=20210918184206" group-title="SQUID GAME",01X02 sub
+http://54.39.52.63/SERIE/EL%20JUEGO%20DEL%20CALAMAR/El%20juego%20del%20calamar%201%c3%972%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/0/0a/Squid_Game_Cover.jpeg/revision/latest?cb=20210918184206" group-title="SQUID GAME",01X03 sub
+http://54.39.52.63/SERIE/EL%20JUEGO%20DEL%20CALAMAR/El%20juego%20del%20calamar%201%c3%973%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X04 sub" tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/0/0a/Squid_Game_Cover.jpeg/revision/latest?cb=20210918184206" group-title="SQUID GAME",01X04 sub
+http://54.39.52.63/SERIE/EL%20JUEGO%20DEL%20CALAMAR/El%20juego%20del%20calamar%201%c3%974%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X05 sub" tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/0/0a/Squid_Game_Cover.jpeg/revision/latest?cb=20210918184206" group-title="SQUID GAME",01X05 sub
+http://54.39.52.63/SERIE/EL%20JUEGO%20DEL%20CALAMAR/El%20juego%20del%20calamar%201%c3%975%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X06 sub" tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/0/0a/Squid_Game_Cover.jpeg/revision/latest?cb=20210918184206" group-title="SQUID GAME",01X06 sub
+http://54.39.52.63/SERIE/EL%20JUEGO%20DEL%20CALAMAR/El%20juego%20del%20calamar%201%c3%976%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X07 sub" tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/0/0a/Squid_Game_Cover.jpeg/revision/latest?cb=20210918184206" group-title="SQUID GAME",01X07 sub
+http://54.39.52.63/SERIE/EL%20JUEGO%20DEL%20CALAMAR/El%20juego%20del%20calamar%201%c3%977%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X08 sub" tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/0/0a/Squid_Game_Cover.jpeg/revision/latest?cb=20210918184206" group-title="SQUID GAME",01X08 sub
+http://54.39.52.63/SERIE/EL%20JUEGO%20DEL%20CALAMAR/El%20juego%20del%20calamar%201%c3%978%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X09 sub" tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/0/0a/Squid_Game_Cover.jpeg/revision/latest?cb=20210918184206" group-title="SQUID GAME",01X09 sub
+http://54.39.52.63/SERIE/EL%20JUEGO%20DEL%20CALAMAR/El%20juego%20del%20calamar%201%c3%979%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X01 lat" tvg-logo="https://lh3.googleusercontent.com/-TkeyBmo5N54/YZz9KnHffuI/AAAAAAAABOU/JBJRAe61MlU819fOn7u7nKjzmXixjtdBQCLcBGAsYHQ/w1480/disney-plus-hawkeye-show-poster.jpg" group-title="HAWK EYE",01X01 lat
+http://54.39.52.63/SERIE/Ojo%20de%20Halcon/1x1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X02 lat" tvg-logo="https://lh3.googleusercontent.com/-TkeyBmo5N54/YZz9KnHffuI/AAAAAAAABOU/JBJRAe61MlU819fOn7u7nKjzmXixjtdBQCLcBGAsYHQ/w1480/disney-plus-hawkeye-show-poster.jpg" group-title="HAWK EYE",01X02 lat
+http://54.39.52.63/SERIE/Ojo%20de%20Halcon/1x2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X03 lat" tvg-logo="https://lh3.googleusercontent.com/-TkeyBmo5N54/YZz9KnHffuI/AAAAAAAABOU/JBJRAe61MlU819fOn7u7nKjzmXixjtdBQCLcBGAsYHQ/w1480/disney-plus-hawkeye-show-poster.jpg" group-title="HAWK EYE",01X03 lat
+http://54.39.52.63/SERIE/Ojo%20de%20Halcon/1x3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X04 lat" tvg-logo="https://lh3.googleusercontent.com/-TkeyBmo5N54/YZz9KnHffuI/AAAAAAAABOU/JBJRAe61MlU819fOn7u7nKjzmXixjtdBQCLcBGAsYHQ/w1480/disney-plus-hawkeye-show-poster.jpg" group-title="HAWK EYE",01X04 lat
+http://54.39.52.63/SERIE/Ojo%20de%20Halcon/1x4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X05 lat" tvg-logo="https://lh3.googleusercontent.com/-TkeyBmo5N54/YZz9KnHffuI/AAAAAAAABOU/JBJRAe61MlU819fOn7u7nKjzmXixjtdBQCLcBGAsYHQ/w1480/disney-plus-hawkeye-show-poster.jpg" group-title="HAWK EYE",01X05 lat
+http://54.39.52.63/SERIE/Ojo%20de%20Halcon/1x5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X06 lat" tvg-logo="https://lh3.googleusercontent.com/-TkeyBmo5N54/YZz9KnHffuI/AAAAAAAABOU/JBJRAe61MlU819fOn7u7nKjzmXixjtdBQCLcBGAsYHQ/w1480/disney-plus-hawkeye-show-poster.jpg" group-title="HAWK EYE",01X06 lat
+http://54.39.52.63/SERIE/Ojo%20de%20Halcon/1x6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X01 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT S3",03X01 sub
+http://54.39.52.63/SERIE/Servant%203/3x1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X02 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT S3",03X02 sub
+http://54.39.52.63/SERIE/Servant%203/3x2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X03 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT S3",03X03 sub
+http://54.39.52.63/SERIE/Servant%203/3x3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X04 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT S3",03X04 sub
+http://54.39.52.63/SERIE/Servant%203/3x4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X05 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT S3",03X05 sub
+http://54.39.52.63/SERIE/Servant%203/3x5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X06 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT S3",03X06 sub
+http://54.39.52.63/SERIE/Servant%203/3x6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X07 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT S3",03X07 sub
+http://54.39.52.63/SERIE/Servant%203/3x7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X08 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT S3",03X08 sub
+http://54.39.52.63/SERIE/Servant%203/3x8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="" group-title="BEL AIR",01X01 sub
+http://54.39.52.63/SERIE/Bel-Air/1x1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="" group-title="BEL AIR",01X02 sub
+http://54.39.52.63/SERIE/Bel-Air/1x2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="" group-title="BEL AIR",01X03 sub
+http://54.39.52.63/SERIE/Bel-Air/1x3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X04 sub" tvg-logo="" group-title="BEL AIR",01X04 sub
+http://54.39.52.63/SERIE/Bel-Air/1x4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X05 sub" tvg-logo="" group-title="BEL AIR",01X05 sub
+http://54.39.52.63/SERIE/Bel-Air/1x5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X06 sub" tvg-logo="" group-title="BEL AIR",01X06 sub
+http://54.39.52.63/SERIE/Bel-Air/1x6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X07 sub" tvg-logo="" group-title="BEL AIR",01X07 sub
+http://54.39.52.63/SERIE/Bel-Air/1x7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X08 sub" tvg-logo="" group-title="BEL AIR",01X08 sub
+http://54.39.52.63/SERIE/Bel-Air/1x8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X09 sub" tvg-logo="" group-title="BEL AIR",01X09 sub
+http://54.39.52.63/SERIE/Bel-Air/1x9.mp4
