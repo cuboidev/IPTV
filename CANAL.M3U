@@ -1207,16 +1207,20 @@ https://www.youtube.com/watch?v=3TFmr6y8lcM&t=15s
 https://www.youtube.com/watch?v=jGaOnSqN4gs
 #EXTINF:-1 tvg-id="" tvg-name="LA UTOPIA 03" tvg-logo="" group-title="100 AÑOS DE BAUHAUS",LA UTOPIA 03
 https://www.youtube.com/watch?v=9WVOG9Kav5c
-#EXTINF:-1 tvg-id="" tvg-name="01X01 dual" tvg-logo="" group-title="HALO",01X01 dual
+#EXTINF:-1 tvg-id="" tvg-name="01X01 dual" tvg-logo="https://www.playcentral.de/wp-content/uploads/2022/03/halo-serie-652x367.jpg" group-title="HALO",01X01 dual
 http://54.39.52.63/SERIE/HALO/14584.Halo.S01E01.720p.WEBRip.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="" group-title="HALO",01X02 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="https://www.playcentral.de/wp-content/uploads/2022/03/halo-serie-652x367.jpg" group-title="HALO",01X02 sub
 http://54.39.52.63/SERIE/HALO/1x2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="" group-title="HALO",01X03 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="https://www.playcentral.de/wp-content/uploads/2022/03/halo-serie-652x367.jpg" group-title="HALO",01X03 sub
 http://54.39.52.63/SERIE/HALO/1x3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X04 dual" tvg-logo="" group-title="HALO",01X04 dual
+#EXTINF:-1 tvg-id="" tvg-name="01X04 dual" tvg-logo="https://www.playcentral.de/wp-content/uploads/2022/03/halo-serie-652x367.jpg" group-title="HALO",01X04 dual
 http://54.39.52.63/SERIE/HALO/9030.Halo.S01E04.1080p.WEBRip.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X05 dual" tvg-logo="" group-title="HALO",01X05 dual
+#EXTINF:-1 tvg-id="" tvg-name="01X05 dual" tvg-logo="https://www.playcentral.de/wp-content/uploads/2022/03/halo-serie-652x367.jpg" group-title="HALO",01X05 dual
 http://54.39.52.63/SERIE/HALO/14028.Halo.S01E05.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X06 dual" tvg-logo="https://www.playcentral.de/wp-content/uploads/2022/03/halo-serie-652x367.jpg" group-title="HALO",01X06 dual
+http://54.39.52.63/SERIE/HALO/3056.Halo.S01E06.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X07 dual" tvg-logo="https://www.playcentral.de/wp-content/uploads/2022/03/halo-serie-652x367.jpg" group-title="HALO",01X07 dual
+http://54.39.52.63/SERIE/HALO/12551.Halo.S01E07.1080p.WEBRip.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/0/0a/Squid_Game_Cover.jpeg/revision/latest?cb=20210918184206" group-title="SQUID GAME",01X01 sub
 http://54.39.52.63/SERIE/EL%20JUEGO%20DEL%20CALAMAR/El%20juego%20del%20calamar%201%c3%971%20%e2%80%93%20ARESHD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/0/0a/Squid_Game_Cover.jpeg/revision/latest?cb=20210918184206" group-title="SQUID GAME",01X02 sub
@@ -1247,31 +1251,97 @@ http://54.39.52.63/SERIE/Ojo%20de%20Halcon/1x4.mp4
 http://54.39.52.63/SERIE/Ojo%20de%20Halcon/1x5.mp4
 #EXTINF:-1 tvg-id="" tvg-name="01X06 lat" tvg-logo="https://lh3.googleusercontent.com/-TkeyBmo5N54/YZz9KnHffuI/AAAAAAAABOU/JBJRAe61MlU819fOn7u7nKjzmXixjtdBQCLcBGAsYHQ/w1480/disney-plus-hawkeye-show-poster.jpg" group-title="HAWK EYE",01X06 lat
 http://54.39.52.63/SERIE/Ojo%20de%20Halcon/1x6.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="" group-title="SERVANT",01X01 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="https://i.pinimg.com/originals/17/3a/06/173a06b428432109d6c775ec39400441.jpg" group-title="SERVANT",01X01 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S1/SERVANT%20SUB%20T01XE01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="" group-title="SERVANT",01X02 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="https://i.pinimg.com/originals/17/3a/06/173a06b428432109d6c775ec39400441.jpg" group-title="SERVANT",01X02 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S1/SERVANT%20SUB%20T01XE02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="" group-title="SERVANT",01X03 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="https://i.pinimg.com/originals/17/3a/06/173a06b428432109d6c775ec39400441.jpg" group-title="SERVANT",01X03 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S1/SERVANT%20SUB%20T01XE03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X04 sub" tvg-logo="" group-title="SERVANT",01X04 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X04 sub" tvg-logo="https://i.pinimg.com/originals/17/3a/06/173a06b428432109d6c775ec39400441.jpg" group-title="SERVANT",01X04 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S1/SERVANT%20SUB%20T01XE04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X05 sub" tvg-logo="" group-title="SERVANT",01X05 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X05 sub" tvg-logo="https://i.pinimg.com/originals/17/3a/06/173a06b428432109d6c775ec39400441.jpg" group-title="SERVANT",01X05 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S1/SERVANT%20SUB%20T01XE05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X06 sub" tvg-logo="" group-title="SERVANT",01X06 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X06 sub" tvg-logo="https://i.pinimg.com/originals/17/3a/06/173a06b428432109d6c775ec39400441.jpg" group-title="SERVANT",01X06 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S1/SERVANT%20SUB%20T01XE06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X07 sub" tvg-logo="" group-title="SERVANT",01X07 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X07 sub" tvg-logo="https://i.pinimg.com/originals/17/3a/06/173a06b428432109d6c775ec39400441.jpg" group-title="SERVANT",01X07 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S1/SERVANT%20SUB%20T01XE07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X08 sub" tvg-logo="" group-title="SERVANT",01X08 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X08 sub" tvg-logo="https://i.pinimg.com/originals/17/3a/06/173a06b428432109d6c775ec39400441.jpg" group-title="SERVANT",01X08 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S1/SERVANT%20SUB%20T01XE08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X09 sub" tvg-logo="" group-title="SERVANT",01X09 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X09 sub" tvg-logo="https://i.pinimg.com/originals/17/3a/06/173a06b428432109d6c775ec39400441.jpg" group-title="SERVANT",01X09 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S1/SERVANT%20SUB%20T01XE09.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X10 sub" tvg-logo="" group-title="SERVANT",01X10 sub
+#EXTINF:-1 tvg-id="" tvg-name="01X10 sub" tvg-logo="https://i.pinimg.com/originals/17/3a/06/173a06b428432109d6c775ec39400441.jpg" group-title="SERVANT",01X10 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S1/SERVANT%20SUB%20T01XE10.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02X01 sub" tvg-logo="" group-title="SERVANT",02X01 sub
+#EXTINF:-1 tvg-id="" tvg-name="02X01 sub" tvg-logo="https://i.pinimg.com/originals/b6/76/02/b67602153a5da44b2e5964ca18e43f48.jpg" group-title="SERVANT",02X01 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S2/Servant%20(DUAL)%20S02E01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02X02 sub" tvg-logo="" group-title="SERVANT",02X02 sub
+#EXTINF:-1 tvg-id="" tvg-name="02X02 sub" tvg-logo="https://i.pinimg.com/originals/b6/76/02/b67602153a5da44b2e5964ca18e43f48.jpg" group-title="SERVANT",02X02 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S2/Servant%20(DUAL)%20S02E02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02X03 sub" tvg-logo="" group-title="SERVANT",02X03 sub
+#EXTINF:-1 tvg-id="" tvg-name="02X03 sub" tvg-logo="https://i.pinimg.com/originals/b6/76/02/b67602153a5da44b2e5964ca18e43f48.jpg" group-title="SERVANT",02X03 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S2/Servant%20(DUAL)%20S02E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02X04 sub" tvg-logo="" group-title="SERVANT",02X04 sub
+#EXTINF:-1 tvg-id="" tvg-name="02X04 sub" tvg-logo="https://i.pinimg.com/originals/b6/76/02/b67602153a5da44b2e5964ca18e43f48.jpg" group-title="SERVANT",02X04 sub
 http://54.39.52.63/SERIES%20GRUPO/SERVANT/S2/Servant%20(DUAL)%20S02E04.mkv
+#EXTINF:-1 tvg-id="" tvg-name="02X05 sub" tvg-logo="https://i.pinimg.com/originals/b6/76/02/b67602153a5da44b2e5964ca18e43f48.jpg" group-title="SERVANT",02X05 sub
+http://54.39.52.63/SERIES%20GRUPO/SERVANT/S2/Servant%20(DUAL)%20S02E05.mkv
+#EXTINF:-1 tvg-id="" tvg-name="02X06 sub" tvg-logo="https://i.pinimg.com/originals/b6/76/02/b67602153a5da44b2e5964ca18e43f48.jpg" group-title="SERVANT",02X06 sub
+http://54.39.52.63/SERIES%20GRUPO/SERVANT/S2/Servant%20(DUAL)%20S02E06.mkv
+#EXTINF:-1 tvg-id="" tvg-name="02X07 sub" tvg-logo="https://i.pinimg.com/originals/b6/76/02/b67602153a5da44b2e5964ca18e43f48.jpg" group-title="SERVANT",02X07 sub
+http://54.39.52.63/SERIES%20GRUPO/SERVANT/S2/Servant%20(DUAL)%20S02E07.mkv
+#EXTINF:-1 tvg-id="" tvg-name="02X08 sub" tvg-logo="https://i.pinimg.com/originals/b6/76/02/b67602153a5da44b2e5964ca18e43f48.jpg" group-title="SERVANT",02X08 sub
+http://54.39.52.63/SERIES%20GRUPO/SERVANT/S2/Servant%20(DUAL)%20S02E08.mkv
+#EXTINF:-1 tvg-id="" tvg-name="02X09 sub" tvg-logo="https://i.pinimg.com/originals/b6/76/02/b67602153a5da44b2e5964ca18e43f48.jpg" group-title="SERVANT",02X09 sub
+http://54.39.52.63/SERIES%20GRUPO/SERVANT/S2/Servant%20(DUAL)%20S02E09.mkv
+#EXTINF:-1 tvg-id="" tvg-name="02X10 sub" tvg-logo="https://i.pinimg.com/originals/b6/76/02/b67602153a5da44b2e5964ca18e43f48.jpg" group-title="SERVANT",02X10 sub
+http://54.39.52.63/SERIES%20GRUPO/SERVANT/S2/Servant%20(DUAL)%20S02E10.mkv
+#EXTINF:-1 tvg-id="" tvg-name="03X01 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT",03X01 sub
+http://54.39.52.63/SERIE/Servant%203/3x1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X02 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT",03X02 sub
+http://54.39.52.63/SERIE/Servant%203/3x2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X03 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT",03X03 sub
+http://54.39.52.63/SERIE/Servant%203/3x3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X04 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT",03X04 sub
+http://54.39.52.63/SERIE/Servant%203/3x4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X05 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT",03X05 sub
+http://54.39.52.63/SERIE/Servant%203/3x5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X06 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT",03X06 sub
+http://54.39.52.63/SERIE/Servant%203/3x6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X07 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT",03X07 sub
+http://54.39.52.63/SERIE/Servant%203/3x7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03X08 sub" tvg-logo="https://media-cache.cinematerial.com/p/500x/zwhksa5k/servant-video-on-demand-movie-cover.jpg?v=1605708514" group-title="SERVANT",03X08 sub
+http://54.39.52.63/SERIE/Servant%203/3x8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="" group-title="BEL AIR",01X01 sub
+http://54.39.52.63/SERIE/Bel-Air/1x1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="" group-title="BEL AIR",01X02 sub
+http://54.39.52.63/SERIE/Bel-Air/1x2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="" group-title="BEL AIR",01X03 sub
+http://54.39.52.63/SERIE/Bel-Air/1x3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X04 sub" tvg-logo="" group-title="BEL AIR",01X04 sub
+http://54.39.52.63/SERIE/Bel-Air/1x4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X05 sub" tvg-logo="" group-title="BEL AIR",01X05 sub
+http://54.39.52.63/SERIE/Bel-Air/1x5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X06 sub" tvg-logo="" group-title="BEL AIR",01X06 sub
+http://54.39.52.63/SERIE/Bel-Air/1x6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X07 sub" tvg-logo="" group-title="BEL AIR",01X07 sub
+http://54.39.52.63/SERIE/Bel-Air/1x7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X08 sub" tvg-logo="" group-title="BEL AIR",01X08 sub
+http://54.39.52.63/SERIE/Bel-Air/1x8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X09 sub" tvg-logo="" group-title="BEL AIR",01X09 sub
+http://54.39.52.63/SERIE/Bel-Air/1x9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="" group-title="LA SUEGRA QUE TE PARIO",01X01 sub
+http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/9808.Smother-in-Law.S01E01.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="" group-title="LA SUEGRA QUE TE PARIO",01X02 sub
+http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/8382.Smother-in-Law.S01E02.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="" group-title="LA SUEGRA QUE TE PARIO",01X03 sub
+http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/7965.Smother-in-Law.S01E03.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X04 sub" tvg-logo="" group-title="LA SUEGRA QUE TE PARIO",01X04 sub
+http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/6124.Smother-in-Law.S01E04.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X05 sub" tvg-logo="" group-title="LA SUEGRA QUE TE PARIO",01X05 sub
+http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/16372.Smother-in-Law.S01E05.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X06 sub" tvg-logo="" group-title="LA SUEGRA QUE TE PARIO",01X06 sub
+http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/7425.Smother-in-Law.S01E06.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X07 sub" tvg-logo="" group-title="LA SUEGRA QUE TE PARIO",01X07 sub
+http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/4883.Smother-in-Law.S01E07.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X08 sub" tvg-logo="" group-title="LA SUEGRA QUE TE PARIO",01X08 sub
+http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/3812.Smother-in-Law.S01E08.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X09 sub" tvg-logo="" group-title="LA SUEGRA QUE TE PARIO",01X09 sub
+http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/4936.Smother-in-Law.S01E09.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X10 sub" tvg-logo="" group-title="LA SUEGRA QUE TE PARIO",01X10 sub
+http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/8032.Smother-in-Law.S01E10.720p.WEBRip.mkv
