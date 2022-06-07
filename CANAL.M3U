@@ -953,51 +953,51 @@ http://167.114.174.132:9092/series/lossimpsons/capitulos/03x21.m4v
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x22.m4v       
 #EXTINF:-1 tvg-id="" tvg-name="03x24" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x24
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x24.m4v     
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x01" tvg-logo="https://static.wikia.nocookie.net/witcher/images/a/a4/Netflix_poster_s1.jpg/revision/latest?cb=20191120213257" group-title="THE WITCHER S1",THE WITCHER 01x01
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x01" tvg-logo="https://static.wikia.nocookie.net/witcher/images/a/a4/Netflix_poster_s1.jpg/revision/latest?cb=20191120213257" group-title="THE WITCHER",THE WITCHER 01x01
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x02" tvg-logo="" group-title="THE WITCHER S1",THE WITCHER 01x02
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x02" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x02
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x03" tvg-logo="" group-title="THE WITCHER S1",THE WITCHER 01x03
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x03" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x03
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x04" tvg-logo="" group-title="THE WITCHER S1",THE WITCHER 01x04
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x04" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x04
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x05" tvg-logo="" group-title="THE WITCHER S1",THE WITCHER 01x05
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x05" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x05
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x06" tvg-logo="" group-title="THE WITCHER S1",THE WITCHER 01x06
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x06" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x06
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x07" tvg-logo="" group-title="THE WITCHER S1",THE WITCHER 01x07
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x07" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x07
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x08" tvg-logo="" group-title="THE WITCHER S1",THE WITCHER 01x08
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x08" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x08
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x01" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="THE WITCHER S2",THE WITCHER 01x01
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x01" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="THE WITCHER",THE WITCHER 02x01
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x02" tvg-logo="" group-title="THE WITCHER S2",THE WITCHER 01x02
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x02" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x02
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x03" tvg-logo="" group-title="THE WITCHER S2",THE WITCHER 01x03
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x03" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x03
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x04" tvg-logo="" group-title="THE WITCHER S2",THE WITCHER 01x04
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x04" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x04
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x05" tvg-logo="" group-title="THE WITCHER S2",THE WITCHER 01x05
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x05" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x05
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x06" tvg-logo="" group-title="THE WITCHER S2",THE WITCHER 01x06
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x06" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x06
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x07" tvg-logo="" group-title="THE WITCHER S2",THE WITCHER 01x07
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x07" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x07
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x08" tvg-logo="" group-title="THE WITCHER S2",THE WITCHER 01x08
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x08" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x08
 http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x01" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x01
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x01" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x01
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x02" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x02
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x02" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x02
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x03" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x03
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x03" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x03
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x04" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x04
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x04" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x04
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x05" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x05
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x05" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x05
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x06" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x06
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x06" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x06
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x07" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA SEANSON 1",MARADONA 01x07
+#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x07" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x07
 http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E07.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01x01" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x01
 http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x01.mkv
@@ -1095,21 +1095,21 @@ http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E01.mkv
 http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E02.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01X03" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN",01X03
 http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X01" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA SEANSON 1",01X01
+#EXTINF:-1 tvg-id="" tvg-name="01X01" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X01
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X02" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA SEANSON 1",01X02
+#EXTINF:-1 tvg-id="" tvg-name="01X02" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X02
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X03" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA SEANSON 1",01X03
+#EXTINF:-1 tvg-id="" tvg-name="01X03" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X03
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X04" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA SEANSON 1",01X04
+#EXTINF:-1 tvg-id="" tvg-name="01X04" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X04
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X05" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA SEANSON 1",01X05
+#EXTINF:-1 tvg-id="" tvg-name="01X05" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X05
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X06" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA SEANSON 1",01X06
+#EXTINF:-1 tvg-id="" tvg-name="01X06" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X06
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X07" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA SEANSON 1",01X07
+#EXTINF:-1 tvg-id="" tvg-name="01X07" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X07
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X08" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA SEANSON 1",01X08
+#EXTINF:-1 tvg-id="" tvg-name="01X08" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X08
 http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x08.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MR BEAN 01" tvg-logo="" group-title="SERIES",MR BEAN 01
 https://www.youtube.com/watch?v=sOlP10fDclE
