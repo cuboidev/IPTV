@@ -837,6 +837,12 @@ http://144.217.69.162/PELIS_STALKER/Our.Father.2022.1080p.mkv
 http://144.217.69.162/PELIS_STALKER/Morbius.2022.1080p.VO.mkv
 #EXTINF:-1 tvg-id="" tvg-name="THE NORTHMAN lat" tvg-logo="" group-title="PELICULAS",THE NORTHMAN lat
 http://144.217.69.162/PELIS_STALKER/The.Northman.2022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ABANDONED sub" tvg-logo="" group-title="PELICULAS",ABANDONED sub
+http://54.39.52.63/PELICULA/1.07/2802.Abandoned.2022.1080p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RUBIKON sub" tvg-logo="" group-title="PELICULAS",RUBIKON sub
+http://54.39.52.63/PELICULA/1.07/5502.Rubikon.2022.1080p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE PRINCESS sub" tvg-logo="" group-title="PELICULAS",THE PRINCESS sub
+http://54.39.52.63/PELICULA/1.07/7603.The.Princess.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -1429,9 +1435,4 @@ http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.
 http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.Fett.1x02.mp4
 #EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="" group-title="BOBA FETT BOOK",01X03 sub
 http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.Fett.1x03.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X04 sub" tvg-logo="" group-title="BOBA FETT BOOK",01X04 sub
-http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.Fett.1x04.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X05 sub" tvg-logo="" group-title="BOBA FETT BOOK",01X05 sub
-http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.Fett.1x05.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X06 sub" tvg-logo="" group-title="BOBA FETT BOOK",01X06 sub
-http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.Fett.1x06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X04 sub" tvg-logo="" group-
