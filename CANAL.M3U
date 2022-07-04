@@ -843,6 +843,8 @@ http://54.39.52.63/PELICULA/1.07/2802.Abandoned.2022.1080p.WEBRip.mkv
 http://54.39.52.63/PELICULA/1.07/5502.Rubikon.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="THE PRINCESS sub" tvg-logo="" group-title="PELICULAS",THE PRINCESS sub
 http://54.39.52.63/PELICULA/1.07/7603.The.Princess.2022.1080p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FATHER STU lat" tvg-logo="" group-title="PELICULAS",FATHER STU lat
+http://144.217.69.162/PELIS_STALKER/Father.Stu.2022.720p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -1493,5 +1495,4 @@ http://54.39.52.63/SERIE/The%20Offer/13874.The.Offer.S01E05.720p.WEBRip.mkv
 http://54.39.52.63/SERIE/The%20Offer/13874.The.Offer.S01E06.720p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01X07 sub" tvg-logo="" group-title="THE OFFER",01X07 sub
 http://54.39.52.63/SERIE/The%20Offer/13874.The.Offer.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X08 sub" tvg-logo="" group-title="THE OFFER",01X08 sub
-http://54.39.52.63/SERIE/The%20Offer/13874.The.Offer.S01E08.720p.WEBRip.mkv
+#EXTI
