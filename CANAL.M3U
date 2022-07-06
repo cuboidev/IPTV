@@ -873,6 +873,8 @@ http://144.217.69.162/PELIS_STALKER/Palm.Springs.2020.mkv
 http://144.217.69.162/PELIS_STALKER/Deja%20Vu%20(2006).mkv
 #EXTINF:-1 tvg-id="" tvg-name="SHAUN OF THE DEAD lat" tvg-logo="" group-title="PELICULAS",SHAUN OF THE DEAD lat
 http://144.217.69.162/PELIS_STALKER/Shaun.of.the.Dead.2004.1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JURASSIC WORLD DOMINION sub web" tvg-logo="" group-title="PELICULAS",JURASSIC WORLD DOMINION sub web
+http://54.39.52.63/PELICULA/7.jul/13837.Jurassic.World.Dominion.2022.KORSUB.1080p.WEBRip.mkv.filepart
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -1492,4 +1494,22 @@ http://144.217.69.162/SERIES_STALKER/Obi-Wan%20Kenobi/LAT/S01/S01E03.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01x04 lat" tvg-logo="" group-title="OBI WAN KENOBI",01x04 lat
 http://144.217.69.162/SERIES_STALKER/Obi-Wan%20Kenobi/LAT/S01/S01E04.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01x05 lat" tvg-logo="" group-title="OBI WAN KENOBI",01x05 lat
-http://144
+http://144.217.69.162/SERIES_STALKER/Obi-Wan%20Kenobi/LAT/S01/S01E05.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01x01 lat" tvg-logo="" group-title="THE NIGHT OF",01x01 lat
+http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E01.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01x02 lat" tvg-logo="" group-title="THE NIGHT OF",01x02 lat
+http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E02.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01x03 lat" tvg-logo="" group-title="THE NIGHT OF",01x03 lat
+http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E03.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01x04 lat" tvg-logo="" group-title="THE NIGHT OF",01x04 lat
+http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E04.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01x05 lat" tvg-logo="" group-title="THE NIGHT OF",01x05 lat
+http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E05.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01x06 lat" tvg-logo="" group-title="THE NIGHT OF",01x06 lat
+http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E06.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01x07 lat" tvg-logo="" group-title="THE NIGHT OF",01x07 lat
+http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E07.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01x08 lat " tvg-logo="" group-title="THE NIGHT OF",01x08 lat 
+http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E08.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="" group-title="THE OFFER ",01X01 sub
+http://54.39.52.63/SERIE/The%20Offer/13874.The.Offer.S01E01.720p.WEBRip.mkv
