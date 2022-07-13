@@ -877,6 +877,8 @@ http://144.217.69.162/PELIS_STALKER/Shaun.of.the.Dead.2004.1080p.mp4
 http://144.217.69.162/PELIS_STALKER/Jurassic.World.Dominion.2022.SUB.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DR DRE THE UP IN THE SMOKE" tvg-logo="" group-title="PELICULAS",DR DRE THE UP IN THE SMOKE
 http://144.217.69.162/PELIS_STALKER/Dr%20Dre%20%e2%80%93%20The%20Up%20in%20Smoke%20Tour%20(2000)%201080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOS NUEVOS MUTANTES lat" tvg-logo="" group-title="PELICULAS",LOS NUEVOS MUTANTES lat
+http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/Los%20Nuevos%20Mutantes.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -1512,6 +1514,4 @@ http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E06.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01x07 lat" tvg-logo="" group-title="THE NIGHT OF",01x07 lat
 http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E07.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01x08 lat " tvg-logo="" group-title="THE NIGHT OF",01x08 lat 
-http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="" group-title="THE OFFER ",01X01 sub
-http://54.39.52.63/SERIE/The%20Offer/13874.The.Offer.S01E01.720p.WEBRip.mkv
+http://144.217.69.162/
