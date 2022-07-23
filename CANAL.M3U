@@ -881,6 +881,8 @@ http://144.217.69.162/PELIS_STALKER/Dr%20Dre%20%e2%80%93%20The%20Up%20in%20Smoke
 http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/Los%20Nuevos%20Mutantes.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BACK TO THE TITANIC lat" tvg-logo="" group-title="PELICULAS",BACK TO THE TITANIC lat
 http://144.217.69.162/PELIS_STALKER/Back.to.the.Titanic.2020.1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE GRAY MAN dual" tvg-logo="" group-title="PELICULAS",THE GRAY MAN dual
+http://54.39.52.63/PELICULA/22.07/1752.The.Gray.Man.2022.1080p.WEBRip.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -1511,6 +1513,4 @@ http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E03.mkv
 http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E04.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01x05 lat" tvg-logo="" group-title="THE NIGHT OF",01x05 lat
 http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x06 lat" tvg-logo="" group-title="THE NIGHT OF",01x06 lat
-http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x07 lat" tvg-logo="" group-title="THE NIGHT OF",01x0
+#EXTINF:-1 tvg-id="" tvg-name="01x06 lat" tvg-logo=
