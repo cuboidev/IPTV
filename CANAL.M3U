@@ -15,48 +15,26 @@ https://www.youtube.com/watch?v=mhJRzQsLZGg
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NASA 2TV" tvg-logo="" group-title="CANALES",NASA 2TV
 https://www.youtube.com/watch?v=21X5lGlDOfg
-#EXTINF:-1 tvg-id="" tvg-name="SPACE VIDEOS TV" tvg-logo="" group-title="CANALES",SPACE VIDEOS TV
-https://www.youtube.com/watch?v=u-ngXpZKHvI
 #EXTINF:-1 tvg-id="" tvg-name="NASA 3 TV" tvg-logo="" group-title="CANALES",NASA 3 TV
 https://www.youtube.com/watch?v=nA9UZF-SZoQ
 #EXTINF:-1 tvg-id="" tvg-name="NASA 4 TV" tvg-logo="" group-title="CANALES",NASA 4 TV
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA NACION TV" tvg-logo="" group-title="CANALES",LA NACION TV
-https://www.youtube.com/watch?v=GZEwdVV5DTY
-#EXTINF:-1 tvg-id="" tvg-name="MEGANOTICIAS TV" tvg-logo="" group-title="CANALES",MEGANOTICIAS TV
-https://www.youtube.com/watch?v=WWVwv31dlLg
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 op2 TV" tvg-logo="" group-title="CANALES",FRANCE 24 op2 TV
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOFI hiphop TV music" tvg-logo="" group-title="CANALES",LOFI hiphop TV music
-https://www.youtube.com/watch?v=5qap5aO4i9A
 #EXTINF:-1 tvg-id="" tvg-name="THE GOOD LIFE 2 TV music" tvg-logo="" group-title="CANALES",THE GOOD LIFE 2 TV music
 https://www.youtube.com/watch?v=19hKXI1ENrY
 #EXTINF:-1 tvg-id="" tvg-name="THE GOOD LIFE TV music" tvg-logo="" group-title="CANALES",THE GOOD LIFE TV music
 https://www.youtube.com/watch?v=36YnV9STBqc
 #EXTINF:-1 tvg-id="" tvg-name="FREQUENZY rock TV music" tvg-logo="" group-title="CANALES",FREQUENZY rock TV music
 https://www.youtube.com/watch?v=5X18D-EbjUc
-#EXTINF:-1 tvg-id="" tvg-name="KEEP IT UNDERGROUND deephouse TV music" tvg-logo="" group-title="CANALES",KEEP IT UNDERGROUND deephouse TV music
-https://www.youtube.com/watch?v=pxltemZvAqc
 #EXTINF:-1 tvg-id="" tvg-name="FUTURE HOUSE electrodance TV music" tvg-logo="" group-title="CANALES",FUTURE HOUSE electrodance TV music
 https://www.youtube.com/watch?v=GDQnA1LVCWA
-#EXTINF:-1 tvg-id="" tvg-name="SPINING RECORDS pop TV music" tvg-logo="" group-title="CANALES",SPINING RECORDS pop TV music
-https://www.youtube.com/watch?v=N65Jb683pXQ
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL PLUTO TV" tvg-logo="" group-title="CANALES",COMEDY CENTRAL PLUTO TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
 #EXTINF:-1 tvg-id="" tvg-name="RTVE TV" tvg-logo="" group-title="CANALES",RTVE TV
 https://www.youtube.com/watch?v=xR-4NDFsYNk
-#EXTINF:-1 tvg-id="" tvg-name="MILENIO TV" tvg-logo="" group-title="CANALES",MILENIO TV
-https://www.youtube.com/watch?v=qxh5MZXxKb4
-#EXTINF:-1 tvg-id="" tvg-name="N+ TV" tvg-logo="" group-title="CANALES",N+ TV
-https://www.youtube.com/watch?v=ujksVlR9i8w
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="" group-title="CANALES",AMERICA TV
 https://www.youtube.com/watch?v=zcWXboTnous
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ESPAÑOL TV" tvg-logo="" group-title="CANALES",FRANCE 24 ESPAÑOL TV
 https://www.youtube.com/watch?v=XDJPzMznAjU
-#EXTINF:-1 tvg-id="" tvg-name="C5N TV" tvg-logo="" group-title="CANALES",C5N TV
-https://www.youtube.com/watch?v=-vGhSrfKfUQ
-#EXTINF:-1 tvg-id="" tvg-name="PLAY TV music" tvg-logo="" group-title="CANALES",PLAY TV music
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 13 TV ch" tvg-logo="" group-title="CANALES",CANAL 13 TV ch
 https://www.youtube.com/watch?v=2o1MZuJ5UCA
 #EXTINF:-1 tvg-id="" tvg-name="PLANENA TV" tvg-logo="" group-title="CANALES",PLANENA TV
@@ -295,278 +273,42 @@ http://bit.ly/MRAQCSAND
 http://bit.ly/THEMINE
 #EXTINF:-1 tvg-id="" tvg-name="VOLVER AL FUTURO III lat" tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO III lat
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RENO 911 sub" tvg-logo="" group-title="PELICULAS",RENO 911 sub
-http://144.217.69.162/PELIS_STALKER/Reno.911.The.Hunt.For.QAnon.2021.Comedia.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="VOYAGERS lat" tvg-logo="" group-title="PELICULAS",VOYAGERS lat
-http://144.217.69.162/PELIS_STALKER/Voyagers.2021.SciFi.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="VENOM 2 sub" tvg-logo="" group-title="PELICULAS",VENOM 2 sub
-http://144.217.69.162/PELIS_STALKER/Venom.Let.There.Be.Carnage.SUB.2021.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VENOM 2 lat" tvg-logo="" group-title="PELICULAS",VENOM 2 lat
 http://regioplay.xyz/223022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
-#EXTINF:-1 tvg-id="" tvg-name="VHS sub" tvg-logo="" group-title="PELICULAS",VHS sub
-http://144.217.69.162/PELIS_STALKER/VHS.94.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="UNA FAMILIA GENIAL lat" tvg-logo="" group-title="PELICULAS",UNA FAMILIA GENIAL lat
-http://144.217.69.162/PELIS_STALKER/Una.familia.genial.2017.Aventura.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SPIDERMAN LEJOS DE CASA lat" tvg-logo="" group-title="PELICULAS",SPIDERMAN LEJOS DE CASA lat
-http://144.217.69.162/PELIS_STALKER/Spider.Man.2.Lejos.de.casa.2019.Accion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SPIDERMAN DE REGRESO A CASA lat" tvg-logo="" group-title="PELICULAS",SPIDERMAN DE REGRESO A CASA lat
-http://144.217.69.162/PELIS_STALKER/Spider.Man.1.De.regreso.a.casa.2017.Accion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="30 DIAS DE NOCHE lat" tvg-logo="" group-title="PELICULAS",30 DIAS DE NOCHE lat
-http://144.217.69.162/PELIS_STALKER/30.d%c3%adas.de.noche.1.2007.Terror.HDRip.LATINO.mp4
 #EXTINF:-1 tvg-id="" tvg-name="JIGSAW VIII sub" tvg-logo="" group-title="PELICULAS",JIGSAW VIII sub
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="30 DIAS DE NOCHE 2 lat" tvg-logo="" group-title="PELICULAS",30 DIAS DE NOCHE 2 lat
-http://144.217.69.162/PELIS_STALKER/30.d%c3%adas.de.noche.2.D%c3%adas.oscuros.2010.Terror.HDRip.LATINO%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ALICIA EN EL PAIS DE LAS MARAVILLAS lat" tvg-logo="" group-title="PELICULAS",ALICIA EN EL PAIS DE LAS MARAVILLAS lat
-http://144.217.69.162/PELIS_STALKER/Alicia.1.en.el.Pa%c3%ads.de.las.Maravillas.2010.Aventuras.BDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ALICIA 2 ATRAVES DEL ESPEJO lat" tvg-logo="" group-title="PELICULAS",ALICIA 2 ATRAVES DEL ESPEJO lat
-http://144.217.69.162/PELIS_STALKER/Alicia.2.a.trav%c3%a9s.del.espejo.2016.Aventuras.BDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARBON ALTERADO REENFUNDADOS lat" tvg-logo="" group-title="PELICULAS",CARBON ALTERADO REENFUNDADOS lat
-http://144.217.69.162/PELIS_STALKER/Altered.Carbon.Reenfundados.2020.Animacion.BRRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ASSASSINS CREED lat" tvg-logo="" group-title="PELICULAS",ASSASSINS CREED lat
-http://144.217.69.162/PELIS_STALKER/Assassins.Creed.2016.Accion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CANDYMAN lat" tvg-logo="" group-title="PELICULAS",CANDYMAN lat
-http://144.217.69.162/PELIS_STALKER/Candyman.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CARIÑO CUANTO TE ODIO lat" tvg-logo="" group-title="PELICULAS",CARIÑO CUANTO TE ODIO lat
-http://144.217.69.162/PELIS_STALKER/Carino.cuanto.te.odio.2021.Romance.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="COMO SI FUERA LA PRIMERA VEZ lat" tvg-logo="" group-title="PELICULAS",COMO SI FUERA LA PRIMERA VEZ lat
-http://144.217.69.162/PELIS_STALKER/Como.si.fuera.la.primera.vez.2004.Romance.BRRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRACULA MUERTO PERO FELIZ lat" tvg-logo="" group-title="PELICULAS",DRACULA MUERTO PERO FELIZ lat
-http://144.217.69.162/PELIS_STALKER/Dr%c3%a1cula.Muerto.pero.feliz.1995.Comedia.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DUNE lat" tvg-logo="" group-title="PELICULAS",DUNE lat
-http://144.217.69.162/PELIS_STALKER/Dune.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EIFFEL lat" tvg-logo="" group-title="PELICULAS",EIFFEL lat
-http://144.217.69.162/PELIS_STALKER/Eiffel.2021.Drama.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL CONTADOR DE CARTAS lat" tvg-logo="" group-title="PELICULAS",EL CONTADOR DE CARTAS lat
-http://144.217.69.162/PELIS_STALKER/El.contador.de.cartas.2021.Accion.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ETERNALS lat" tvg-logo="" group-title="PELICULAS",ETERNALS lat
-http://144.217.69.162/PELIS_STALKER/Eternals.2021.Accion.HDRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ETERNALS lat" tvg-logo="" group-title="PELICULAS",ETERNALS lat
-http://regioplay.xyz/223022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CAZAFANTASMAS lat" tvg-logo="" group-title="PELICULAS",CAZAFANTASMAS lat
-http://144.217.69.162/PELIS_STALKER/Ghostbusters.2016.Comedia.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CAZAFANTASMAS MAS ALLA lat" tvg-logo="" group-title="PELICULAS",CAZAFANTASMAS MAS ALLA lat
-http://144.217.69.162/PELIS_STALKER/Ghostbusters.Afterlife.2021.Comedia.HDRip.LATINO.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CAZAFANTASMAS MAS ALLA lat opcion 2" tvg-logo="" group-title="PELICULAS",CAZAFANTASMAS MAS ALLA lat opcion 2
 http://144.217.69.162/4K/ghostbusters.afterlife.2021.2160p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JAKASS FOREVER lat" tvg-logo="" group-title="PELICULAS",JAKASS FOREVER lat
-http://144.217.69.162/PELIS_STALKER/Jackass.por.siempre.2022.Comedia.HDRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="KINGSMAN SERVICIO SECRETO lat" tvg-logo="" group-title="PELICULAS",KINGSMAN SERVICIO SECRETO lat
-http://144.217.69.162/PELIS_STALKER/Kingsman.1.The.Secret.Service.2014.Accion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="KINGSMAN CIRCULO DORADO lat" tvg-logo="" group-title="PELICULAS",KINGSMAN CIRCULO DORADO lat
-http://144.217.69.162/PELIS_STALKER/Kingsman.2.The.Golden.Circle.2017.Accion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="KINGSMAN 3 lat" tvg-logo="" group-title="PELICULAS",KINGSMAN 3 lat
-http://144.217.69.162/PELIS_STALKER/Kingsman.3.The.Kings.Man.2021.Accion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO lat
-http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.1.2002.Animacion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO 2 lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO 2 lat
-http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.2.2006.Animacion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO 3 lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO 3 lat
-http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.3.2009.Animacion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO 4 lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO 4 lat
-http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.4.2012.Animacion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO 5 lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO 5 lat
-http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.5.Choque.de.mundos.2016.Animacion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA ERA DEL HIELO 6 lat" tvg-logo="" group-title="PELICULAS",LA ERA DEL HIELO 6 lat
-http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.6.2022.Animacion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA HERENCIA DEL SEÑOR DEEDS dual" tvg-logo="" group-title="PELICULAS",LA HERENCIA DEL SEÑOR DEEDS dual
-http://144.217.69.162/PELIS_STALKER/La.herencia.del.Sr.Deeds.2002.Comedia.BRRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MATRIX RESURRECCIONES lat" tvg-logo="" group-title="PELICULAS",MATRIX RESURRECCIONES lat
-http://144.217.69.162/PELIS_STALKER/Matrix.Resurrecciones.2021.Accion.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MATRIX RESURRECCIONES opcion 2 lat" tvg-logo="" group-title="PELICULAS",MATRIX RESURRECCIONES opcion 2 lat
-http://regioplay.xyz/php/SR_REGIO_223022_/matrix2021.php?f=.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RESIDENT EVIL BIENVENIDOS A RACCOON CITY lat" tvg-logo="" group-title="PELICULAS",RESIDENT EVIL BIENVENIDOS A RACCOON CITY lat
-http://144.217.69.162/PELIS_STALKER/Resident.Evil.Bienvenidos.a.Raccoon.City.2021.Terror.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SCREAM lat" tvg-logo="" group-title="PELICULAS",SCREAM lat
-http://144.217.69.162/PELIS_STALKER/Scream.2022.Terror.HDRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SHANG CHI lat" tvg-logo="" group-title="PELICULAS",SHANG CHI lat
-http://144.217.69.162/PELIS_STALKER/Shang-Chi.And.The.Legend.Of.The.Ten.Rings.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SNAKE EYES GIJOE dual" tvg-logo="" group-title="PELICULAS",SNAKE EYES GIJOE dual
-http://144.217.69.162/PELIS_STALKER/Snake.Eyes.G.I.Joe.Origins.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK POST COVID 1 lat" tvg-logo="" group-title="PELICULAS",SOUTH PARK POST COVID 1 lat
-http://144.217.69.162/PELIS_STALKER/South.Park.Post.Covid.1.2021.Animacion.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK POST COVID 2 lat" tvg-logo="" group-title="PELICULAS",SOUTH PARK POST COVID 2 lat
-http://144.217.69.162/PELIS_STALKER/South.Park.Post.Covid.2.The.Return.of.Covid.2021.Animacion.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS EN PLUS ANIVERSARIO lat" tvg-logo="" group-title="PELICULAS",LOS SIMPSONS EN PLUS ANIVERSARIO lat
-http://144.217.69.162/PELIS_STALKER/The.Simpsons.in.Plusaversary.2021.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SUICIDE SQUAD 2 lat" tvg-logo="" group-title="PELICULAS",SUICIDE SQUAD 2 lat
-http://144.217.69.162/PELIS_STALKER/The.Suicide.Squad.2021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="SUICIDE SQUAD 2 4K lat" tvg-logo="" group-title="PELICULAS",SUICIDE SQUAD 2 4K lat
 http://144.217.69.162/4K/The.Suicide.Squad.2021.4K.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL ESTAFADOR DE TINDER lat" tvg-logo="" group-title="PELICULAS",EL ESTAFADOR DE TINDER lat
-http://144.217.69.162/PELIS_STALKER/The.Tinder.Swindler.2022.Documental.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FREE GUY lat" tvg-logo="" group-title="PELICULAS",FREE GUY lat
-http://regioplay.xyz/223022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NO RESPIRES 2 lat" tvg-logo="" group-title="PELICULAS",NO RESPIRES 2 lat
-http://regioplay.xyz/223022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FAST AND FURIOUS 9 lat" tvg-logo="" group-title="PELICULAS",FAST AND FURIOUS 9 lat
-http://regioplay.xyz/223022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FAST AND FURIOUS 9 lat" tvg-logo="" group-title="PELICULAS",FAST AND FURIOUS 9 lat
-http://regioplay.xyz/223022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MASACRE EN TEXAS 2022 lat" tvg-logo="" group-title="PELICULAS",MASACRE EN TEXAS 2022 lat
-http://regioplay.xyz/php/SR_REGIO_223022_/masacreentexas2022.php?f=.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XMEN APOCALIPSIS dual" tvg-logo="" group-title="PELICULAS",XMEN APOCALIPSIS dual
-http://51.77.66.14/Marvel/X-Men/X-Men%208%20-%20Apocalypse.mkv
-#EXTINF:-1 tvg-id="" tvg-name="XMEN PRIMERA GENERACION dual" tvg-logo="" group-title="PELICULAS",XMEN PRIMERA GENERACION dual
-http://51.77.66.14/Marvel/X-Men/X-Men%205%20-%20Primera%20Generacion.mkv
-#EXTINF:-1 tvg-id="" tvg-name="XMEN ORIGINS WOLVERINE INMORTAL dual" tvg-logo="" group-title="PELICULAS",XMEN ORIGINS WOLVERINE INMORTAL dual
-http://51.77.66.14/Marvel/X-Men/X-Men%206%20-%20Origins%20-%20Wolverine%20Inmortal%20(Extended).mkv
-#EXTINF:-1 tvg-id="" tvg-name="XMEN LOGAN dual" tvg-logo="" group-title="PELICULAS",XMEN LOGAN dual
-http://51.77.66.14/Marvel/X-Men/X-Men%209%20-%20Origenes%20-%20Logan.mkv
-#EXTINF:-1 tvg-id="" tvg-name="XMEN DIAS DEL FUTURO PASADO dual" tvg-logo="" group-title="PELICULAS",XMEN DIAS DEL FUTURO PASADO dual
-http://51.77.66.14/Marvel/X-Men/X-Men%207%20-%20Dias%20del%20Futuro%20Pasado%20(The%20Rogue%20Cut).mkv
 #EXTINF:-1 tvg-id="" tvg-name="JOHN WICK 3 dual" tvg-logo="" group-title="PELICULAS",JOHN WICK 3 dual
 http://162.12.215.254/Data/Movies/Dual%20Audio/2020/John%20Wick%20Chapter%203%202019%20Dual%20Audio%20720p%20BRRip%201.1Gb%20x264/John%20Wick%20Chapter%203%202019%20Dual%20Audio%20720p%20BRRip%201.1Gb%20x264.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AVENGERS END GAME dual" tvg-logo="" group-title="PELICULAS",AVENGERS END GAME dual
 http://162.12.215.254/Data/Movies/Dual%20Audio/2019/Avengers%20Endgame%202019%20Dual%20Audio%20ORG%20720p%20BRRip%201.7Gb%20x264/
-#EXTINF:-1 tvg-id="" tvg-name="ALIVE lat" tvg-logo="" group-title="PELICULAS",ALIVE lat
-http://144.217.69.162/PELIS_STALKER/Alive.2019.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CHILANGOLANDIA lat" tvg-logo="" group-title="PELICULAS",CHILANGOLANDIA lat
-http://144.217.69.162/PELIS_STALKER/Chilangolandia.2021.Comedia.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CORAZON VALIENTE lat" tvg-logo="" group-title="PELICULAS",CORAZON VALIENTE lat
-http://144.217.69.162/PELIS_STALKER/Corazon.valiente.1995.Aventuras.BRRip.LATINO.mkv
 #EXTINF:-1 tvg-id="" tvg-name="INFINITE dual" tvg-logo="" group-title="PELICULAS",INFINITE dual
 http://144.217.69.162/4K/infinite.2021.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LA PURGA FOREVER dual" tvg-logo="" group-title="PELICULAS",LA PURGA FOREVER dual
 http://144.217.69.162/4K/The.Forever.Purge.2021.4k.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SIN TIEMPO PARA MORIR 4K dual" tvg-logo="" group-title="PELICULAS",SIN TIEMPO PARA MORIR 4K dual
 http://144.217.69.162/4K/No.Time.to.Die.2021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SIN TIEMPO PARA MORIR op2 dual" tvg-logo="" group-title="PELICULAS",SIN TIEMPO PARA MORIR op2 dual
-http://144.217.69.162/PELIS_STALKER/No.Time.To.Die.2021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FINCH dual" tvg-logo="" group-title="PELICULAS",FINCH dual
 http://144.217.69.162/4K/Finch.2021.4K.mp4
 #EXTINF:-1 tvg-id="" tvg-name="FREE GUY dual" tvg-logo="" group-title="PELICULAS",FREE GUY dual
 http://144.217.69.162/4K/Free.Guy.2021.2160p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LA CASA GUCCI dual" tvg-logo="" group-title="PELICULAS",LA CASA GUCCI dual
 http://144.217.69.162/4K/House.Of.Gucci.2021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL ULTIMO RITO sub" tvg-logo="" group-title="PELICULAS",EL ULTIMO RITO sub
-http://144.217.69.162/PELIS_STALKER/The.Last.Rite.2021.Terror.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL ULTIMO EXORSISMO sub" tvg-logo="" group-title="PELICULAS",EL ULTIMO EXORSISMO sub
-http://144.217.69.162/PELIS_STALKER/The.Last.Exorcist.2020.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LOS OJOS DE TAMMY FAYE sub" tvg-logo="" group-title="PELICULAS",LOS OJOS DE TAMMY FAYE sub
-http://144.217.69.162/PELIS_STALKER/The.Eyes.of.Tammy.Faye.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MUERTE INSTANTANEA lat" tvg-logo="" group-title="PELICULAS",MUERTE INSTANTANEA lat
-http://144.217.69.162/PELIS_STALKER/Polaroid.2019.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="OTRA PELICULA DE HUEVOS Y UN POLLO lat" tvg-logo="" group-title="PELICULAS",OTRA PELICULA DE HUEVOS Y UN POLLO lat
-http://144.217.69.162/PELIS_STALKER/Otra.pelicula.de.huevos.y.un.pollo.2009.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="OCUPATION dual" tvg-logo="" group-title="PELICULAS",OCUPATION dual
-http://144.217.69.162/PELIS_STALKER/Occupation.2021.Sci.Fi.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NO MIRESA ARRIBA dual" tvg-logo="" group-title="PELICULAS",NO MIRESA ARRIBA dual
-http://144.217.69.162/PELIS_STALKER/No.miren.arriba.2021.Comedia.BRRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MO NOVIA ES UN ZOMBIE dual" tvg-logo="" group-title="PELICULAS",MO NOVIA ES UN ZOMBIE dual
-http://144.217.69.162/PELIS_STALKER/Mi.novia.es.un.zombie.2014.Comedia.BRRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LORDS OF SCAM lat" tvg-logo="" group-title="PELICULAS",LORDS OF SCAM lat
-http://144.217.69.162/PELIS_STALKER/Lords.of.Scam.2021.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA PASION DE CRISTO dual" tvg-logo="" group-title="PELICULAS",LA PASION DE CRISTO dual
-http://144.217.69.162/PELIS_STALKER/La.pasi%c3%b3n.de.Cristo.2004.Drama.BRRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="HIDE AND SEEK sub" tvg-logo="" group-title="PELICULAS",HIDE AND SEEK sub
-http://144.217.69.162/PELIS_STALKER/Hide.and.Seek.2021.Thriller.BRRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GEMENIS PLANETA OSCURO dual" tvg-logo="" group-title="PELICULAS",GEMENIS PLANETA OSCURO dual
-http://144.217.69.162/PELIS_STALKER/Geminis.El.planeta.oscuro.2022.SciFi.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL CALLEJON DE LAS ALMAS PERDIDAS dual" tvg-logo="" group-title="PELICULAS",EL CALLEJON DE LAS ALMAS PERDIDAS dual
-http://144.217.69.162/PELIS_STALKER/El.callej%c3%b3n.de.las.almas.perdidas.2021.Drama.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL ASESINO DENTRO DE MI sub" tvg-logo="" group-title="PELICULAS",EL ASESINO DENTRO DE MI sub
-http://144.217.69.162/PELIS_STALKER/El.asesino.dentro.de.mi.2010.Thriller.BRRip.VOSE.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LA GUERRA DEL MAÑANA lat" tvg-logo="" group-title="PELICULAS",LA GUERRA DEL MAÑANA lat
 http://144.217.69.162/4K/The.Tomorrow.War.2021.4k.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ESPIRAL EL JUEGO CONTINUA lat" tvg-logo="" group-title="PELICULAS",ESPIRAL EL JUEGO CONTINUA lat
 http://144.217.69.162/4K/Spiral.From.the.Book.of.Saw.2021.4k.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NO RESPIRES 2 4K lat" tvg-logo="" group-title="PELICULAS",NO RESPIRES 2 4K lat
 http://144.217.69.162/4K/Dont.Breathe.2.2021.4K.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WIFI RALPH dual" tvg-logo="" group-title="PELICULAS",WIFI RALPH dual
-http://51.77.66.14/Wifi.Ralph.2018.1080p.WEB-DL.H264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CEMENTERIO DE MASCOTAS dual" tvg-logo="" group-title="PELICULAS",CEMENTERIO DE MASCOTAS dual
-http://51.77.66.14/Pet.Sematary.(2019).1080p.BDRip-Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="JOHN WICK 3 4K dual" tvg-logo="" group-title="PELICULAS",JOHN WICK 3 4K dual
-http://51.77.66.14/John.Wick.3.(2019).1080p.BDRip-Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CAPITANA MARVER 4K dual" tvg-logo="" group-title="PELICULAS",CAPITANA MARVER 4K dual
-http://51.77.66.14/Captain.Marvel.2019.1080p.WEB-DL.DD5.1.H264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BUMBLEBEE 4K dual" tvg-logo="" group-title="PELICULAS",BUMBLEBEE 4K dual
-http://51.77.66.14/Bumblebee.2018.WEBDL.1080p.H264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="JOHNNY ENGLISH ATACA DE NUEVO 2K dual" tvg-logo="" group-title="PELICULAS",JOHNNY ENGLISH ATACA DE NUEVO 2K dual
-http://51.77.66.14/Johnny.English.Strikes.Again.(2018).1080p.BDRip-Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ANIMALES FANTASTICOS LOS CRIMENES DE GRINDELWALD dual" tvg-logo="" group-title="PELICULAS",ANIMALES FANTASTICOS LOS CRIMENES DE GRINDELWALD dual
-http://51.77.66.14/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.WEB.h264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON DETECTIVE PIKACHU dual" tvg-logo="" group-title="PELICULAS",POKEMON DETECTIVE PIKACHU dual
-http://51.77.66.14/Pokemon.Detective.Pikachu.(2019).1080p.BDRip-Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="GLASS dual" tvg-logo="" group-title="PELICULAS",GLASS dual
-http://51.77.66.14/Glass%20(2019)%20Latino%20HD%20WEB-DL%201080P.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AVENGERS END GAME dual" tvg-logo="" group-title="PELICULAS",AVENGERS END GAME dual
-http://51.77.66.14/Avengers.endgame.(2019).1080p.BDRip-Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SPACE JAM 2 dual" tvg-logo="" group-title="PELICULAS",SPACE JAM 2 dual
-http://51.77.66.14/Space.Jam.a.New.Legacy.2021.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EL ROBO DEL SIGLO lat" tvg-logo="" group-title="PELICULAS",EL ROBO DEL SIGLO lat
-http://51.77.66.14/El.robo.del.siglo.2020.WEB-DL.1080P-LMHD/El.robo.del.siglo.2020.WEB-DL.1080P-LMHD.mkv
-#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE 5 LA VENGANZA DE SALAZAR dual" tvg-logo="" group-title="PELICULAS",PIRATAS DEL CARIBE 5 LA VENGANZA DE SALAZAR dual
-http://51.77.66.14/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.Latino.1080p.BluRay.X264.ChileBT/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.Latino.1080p.BluRay.X264.ChileBT.mkv
-#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE 1 LA MALDICION DEL PERLA NEGRA lat" tvg-logo="" group-title="PELICULAS",PIRATAS DEL CARIBE 1 LA MALDICION DEL PERLA NEGRA lat
-http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%201.avi
-#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE 2 EL COFRE DE LA MUERTE lat" tvg-logo="" group-title="PELICULAS",PIRATAS DEL CARIBE 2 EL COFRE DE LA MUERTE lat
-http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%202.avi
-#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE 3 EN EL FIN DEL MUNDO lat" tvg-logo="" group-title="PELICULAS",PIRATAS DEL CARIBE 3 EN EL FIN DEL MUNDO lat
-http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%203.avi
-#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE 4 NAVEGANDO AGUAS MISTERIOSAS lat" tvg-logo="" group-title="PELICULAS",PIRATAS DEL CARIBE 4 NAVEGANDO AGUAS MISTERIOSAS lat
-http://51.77.66.14/Piratas%20del%20Caribe/Piratas%20del%20Caribe%204.avi
-#EXTINF:-1 tvg-id="" tvg-name="CAPITAN AMERICA dual" tvg-logo="" group-title="PELICULAS",CAPITAN AMERICA dual
-http://51.77.66.14/Marvel/Capitan%20America/Capitan%20America%201.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CAPITAN AMERICA EL SOLDADO DEL INVIERNO dual" tvg-logo="" group-title="PELICULAS",CAPITAN AMERICA EL SOLDADO DEL INVIERNO dual
-http://51.77.66.14/Marvel/Capitan%20America/Capitan%20America%202%20-%20El%20Soldado%20del%20Invierno.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CAPITAN AMERICA CIVIL WAR dual" tvg-logo="" group-title="PELICULAS",CAPITAN AMERICA CIVIL WAR dual
-http://51.77.66.14/Marvel/Capitan%20America/Captain%20America%203%20-%20Guerra%20Civil.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ANT MAN dual" tvg-logo="" group-title="PELICULAS",ANT MAN dual
-http://51.77.66.14/Marvel/Ant-Man/Ant-Man%20-%20El%20Hombre%20Hormiga.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ANT MAN 2 dual" tvg-logo="" group-title="PELICULAS",ANT MAN 2 dual
-http://51.77.66.14/Marvel/Ant-Man/Ant-Man%202%20y%20La%20Avispa.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DOCTOR STRANGE dual" tvg-logo="" group-title="PELICULAS",DOCTOR STRANGE dual
-http://51.77.66.14/Marvel/Doctor%20Strange%20-%20Hechicero%20Supremo.mkv
-#EXTINF:-1 tvg-id="" tvg-name="IRON MAN dual" tvg-logo="" group-title="PELICULAS",IRON MAN dual
-http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%201.mkv
-#EXTINF:-1 tvg-id="" tvg-name="IRON MAN 2 dual" tvg-logo="" group-title="PELICULAS",IRON MAN 2 dual
-http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%202.mkv
-#EXTINF:-1 tvg-id="" tvg-name="IRON MAN 3 dual" tvg-logo="" group-title="PELICULAS",IRON MAN 3 dual
-http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="PANTERA NEGRA dual" tvg-logo="" group-title="PELICULAS",PANTERA NEGRA dual
-http://51.77.66.14/Marvel/Pantera%20Negra.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THOR dual" tvg-logo="" group-title="PELICULAS",THOR dual
-http://51.77.66.14/Marvel/Thor/Thor%201.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THOR 2 UN MUNDO OSCURO dual" tvg-logo="" group-title="PELICULAS",THOR 2 UN MUNDO OSCURO dual
-http://51.77.66.14/Marvel/Thor/Thor%202%20-%20Un%20Mundo%20Oscuro.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THOR 3 RAGNAROK dual" tvg-logo="" group-title="PELICULAS",THOR 3 RAGNAROK dual
-http://51.77.66.14/Marvel/Thor/Thor%203%20-%20Ragnarok.mkv
-#EXTINF:-1 tvg-id="" tvg-name="VENOM dual" tvg-logo="" group-title="PELICULAS",VENOM dual
-http://51.77.66.14/Marvel/Venom.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ROBIN HOOD dual" tvg-logo="" group-title="PELICULAS",ROBIN HOOD dual
-http://51.77.66.14/Robin%20Hood%20(2018)%201080p%20BDRip%20Dual%20Audio%20Latino-Ingl%c3%a9s.mkv
-#EXTINF:-1 tvg-id="" tvg-name="GODZILLA REY DE LOS MOUNSTRUOS dual" tvg-logo="" group-title="PELICULAS",GODZILLA REY DE LOS MOUNSTRUOS dual
-http://51.77.66.14/Godzilla.King.of.the.Monsters.(2019).1080p.WEBDL-Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DOG 2022 sub" tvg-logo="" group-title="PELICULAS",DOG 2022 sub
-http://144.217.69.162/PELIS_STALKER/Dog.Un.viaje.salvaje.2022.Comedia.BRRip.VOSE.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CRUELA sub" tvg-logo="" group-title="PELICULAS",CRUELA sub
 http://37.187.20.239/%5b1080p%5d%20Cruella%20(2021)%20WEB-DL%20Dual%20Audio.mkv
 #EXTINF:-1 tvg-id="" tvg-name="LA GUERRA DEL EL PLANETA DE LOS SIMOS lat" tvg-logo="" group-title="PELICULAS",LA GUERRA DEL EL PLANETA DE LOS SIMOS lat
 http://167.114.174.132:9092/movies/Batch240/La%20Guerra%20Del%20Planeta%20De%20Los%20Simios%20%5BBluRay%20Rip%5D%5BAC3%202.0%20Espa%C3%B1ol%20Latino%5D%5B2017%5D.avi
 #EXTINF:-1 tvg-id="" tvg-name="ALIEN 2 EL REGRESO 1986 dual" tvg-logo="" group-title="PELICULAS",ALIEN 2 EL REGRESO 1986 dual
 http://167.114.174.132:9092/movies/batch233/ALIEN%202%20EL%20REGRESO%20%281986%29%20%20dual%20audio%20DVDRIP.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MAS BARATO POR DOCENA sub" tvg-logo="" group-title="PELICULAS",MAS BARATO POR DOCENA sub
-http://144.217.69.162/PELIS_STALKER/Mas.barato.por.docena.1.2003.Comedia.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MAS BARATO POR DOCENA 2 sub" tvg-logo="" group-title="PELICULAS",MAS BARATO POR DOCENA 2 sub
-http://144.217.69.162/PELIS_STALKER/Mas.barato.por.docena.2.2005.Comedia.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LOS REYES DE LAS OLAS lat" tvg-logo="" group-title="PELICULAS",LOS REYES DE LAS OLAS lat
-http://144.217.69.162/PELIS_STALKER/Los.reyes.de.las.olas.1.2007.Animacion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LOS REYES DE LAS OLAS 2 lat" tvg-logo="" group-title="PELICULAS",LOS REYES DE LAS OLAS 2 lat
-http://144.217.69.162/PELIS_STALKER/Los.reyes.de.las.olas.2.WaveMania.2017.Animacion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA BAJO EL AGUA lat" tvg-logo="" group-title="PELICULAS",LA CASA BAJO EL AGUA lat
-http://144.217.69.162/PELIS_STALKER/La.casa.bajo.el.agua.2021.Terror.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="KNOCKING sub" tvg-logo="" group-title="PELICULAS",KNOCKING sub
-http://144.217.69.162/PELIS_STALKER/Knocking.2021.Thriller.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JUNGLE CRUISE lat" tvg-logo="" group-title="PELICULAS",JUNGLE CRUISE lat
-http://144.217.69.162/PELIS_STALKER/Jungle.Cruise.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="IN THE EARTH sub" tvg-logo="" group-title="PELICULAS",IN THE EARTH sub
-http://144.217.69.162/PELIS_STALKER/In.the.Earth.2021.Terror.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CON LA FRENTE EN ALTO lat" tvg-logo="" group-title="PELICULAS",CON LA FRENTE EN ALTO lat
-http://144.217.69.162/PELIS_STALKER/Con_la_frente_en_alto.2004.Accion.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EJERCITO DE LADRONES lat" tvg-logo="" group-title="PELICULAS",EJERCITO DE LADRONES lat
-http://144.217.69.162/PELIS_STALKER/Army.of.Thieves.2021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDO Y FURIOSO RETO TOKYO dual" tvg-logo="" group-title="PELICULAS",RAPIDO Y FURIOSO RETO TOKYO dual
 http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%203%20-%20Reto%20Tokio%202006%20REMUX%204K%20HDR%20Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MOONFALL sub 	" tvg-logo="" group-title="PELICULAS",MOONFALL sub 	
@@ -577,152 +319,12 @@ http://162.12.215.254/Data/Movies/Hollywood/2019/Alita%3A%20Battle%20Angel%20%28
 http://162.12.215.254/Data/Movies/Hollywood/2021/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB.mkv
 #EXTINF:-1 tvg-id="" tvg-name="PIRATES OF SYLICON VALLEY 1999 sub" tvg-logo="" group-title="PELICULAS",PIRATES OF SYLICON VALLEY 1999 sub
 http://vis.usal.es/rodrigo/documentos/docs/Pirates%20of%20Silicon%20Valley%201999%20DvdRip%20x264-HighCode.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SE QUE ESTAS ALLI lat" tvg-logo="" group-title="PELICULAS",SE QUE ESTAS ALLI lat
-http://144.217.69.162/PELIS_STALKER/I.Know.Youre.in.There.2016.Terror.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A PRUEBA DE HOMBRES sub" tvg-logo="" group-title="PELICULAS",A PRUEBA DE HOMBRES sub
-http://144.217.69.162/PELIS_STALKER/A.prueba.de.hombres.2007.Comedia.BRRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PROJECTO ADAM lat" tvg-logo="" group-title="PELICULAS",PROJECTO ADAM lat
-http://144.217.69.162/PELIS_STALKER/El.proyecto.Adam.2022.Sci.Fi.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SCREAM sub" tvg-logo="" group-title="PELICULAS",SCREAM sub
-http://144.217.69.162/PELIS_STALKER/Scream.2022.Terror.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ENCANTO sub" tvg-logo="" group-title="PELICULAS",ENCANTO sub
-http://144.217.69.162/PELIS_STALKER/Encanto.2021.Animacion.HDRip.VOSE.mp4
 #EXTINF:-1 tvg-id="" tvg-name="GEMINI MAN sub eng" tvg-logo="" group-title="PELICULAS",GEMINI MAN sub eng
 http://162.12.215.254/Data/Movies/Hollywood/2019/Gemini%20Man%20%282019%29%20WEB-DL%20480p/Gemini%20Man%20%282019%29%20WEB-DL%20480p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="HACKER 2019 lat" tvg-logo="" group-title="PELICULAS",HACKER 2019 lat
 http://162.12.215.254/Data/Movies/Hollywood/2019/Hacker%20%282019%29/Hacker.2019.BRRip.H264.1080p.Dual.YG.mkv
 #EXTINF:-1 tvg-id="" tvg-name="BLACK WIDOW dual" tvg-logo="" group-title="PELICULAS",BLACK WIDOW dual
 http://144.217.69.162/4K/Black.Widow.2021.2160p(1).mp4
-#EXTINF:-1 tvg-id="" tvg-name="MANNEQUIN 1987 lat" tvg-logo="" group-title="PELICULAS",MANNEQUIN 1987 lat
-http://144.217.69.162/PELIS_STALKER/Mannequin%201987%20%5b1080p%5d.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WOODSTOOK 99 PEACE AND RAGE sub" tvg-logo="" group-title="PELICULAS",WOODSTOOK 99 PEACE AND RAGE sub
-http://144.217.69.162/PELIS_STALKER/Woodstock.99.Peace.Love.and.Rage.2021.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SHINY FLAKES THE TEENAGE DRUG LORD lat" tvg-logo="" group-title="PELICULAS",SHINY FLAKES THE TEENAGE DRUG LORD lat
-http://144.217.69.162/PELIS_STALKER/Shiny.Flakes.The.Teenage.Drug.Lord.2021.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA NUBE lat" tvg-logo="" group-title="PELICULAS",LA NUBE lat
-http://144.217.69.162/PELIS_STALKER/La.Nube.2020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CODA dual" tvg-logo="" group-title="PELICULAS",CODA dual
-http://144.217.69.162/PELIS_STALKER/Coda.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="VILLANOS dual" tvg-logo="" group-title="PELICULAS",VILLANOS dual
-http://144.217.69.162/PELIS_STALKER/Villains.2019.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="COURRIER dual" tvg-logo="" group-title="PELICULAS",COURRIER dual
-http://144.217.69.162/PELIS_STALKER/Courier.2020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="REMINISCENCE dual" tvg-logo="" group-title="PELICULAS",REMINISCENCE dual
-http://144.217.69.162/PELIS_STALKER/Reminiscence.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SWEET GIRL dual" tvg-logo="" group-title="PELICULAS",SWEET GIRL dual
-http://144.217.69.162/PELIS_STALKER/Sweet.Girl.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="UN RESCATE DE HUEVITOS lat" tvg-logo="" group-title="PELICULAS",UN RESCATE DE HUEVITOS lat
-http://144.217.69.162/PELIS_STALKER/Un.Rescate.de.Huevitos.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="STILLWATER sub" tvg-logo="" group-title="PELICULAS",STILLWATER sub
-http://144.217.69.162/PELIS_STALKER/Stillwater.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE GIRL WHO GOT AWAY sub" tvg-logo="" group-title="PELICULAS",THE GIRL WHO GOT AWAY sub
-http://144.217.69.162/PELIS_STALKER/The.Girl.Who.Got.Away.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SCAPE ROOM TOURNAMENT OF CHAMPIONS sub" tvg-logo="" group-title="PELICULAS",SCAPE ROOM TOURNAMENT OF CHAMPIONS sub
-http://144.217.69.162/PELIS_STALKER/Escape.Room.Tournament.of.Champions.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="UNTOLD BREAKING POINT dual" tvg-logo="" group-title="PELICULAS",UNTOLD BREAKING POINT dual
-http://144.217.69.162/PELIS_STALKER/Untold.Breaking.Point.2021.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="YOU ARE NOT ALONE dual" tvg-logo="" group-title="PELICULAS",YOU ARE NOT ALONE dual
-http://144.217.69.162/PELIS_STALKER/Youre.Not.Alone.2020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE PROTEGE sub" tvg-logo="" group-title="PELICULAS",THE PROTEGE sub
-http://144.217.69.162/PELIS_STALKER/The.Protege.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MAGIC MOUNTAINS dual" tvg-logo="" group-title="PELICULAS",MAGIC MOUNTAINS dual
-http://144.217.69.162/PELIS_STALKER/Magic.Mountains.2020.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BIENVENIDO AL MUNDO DE LOS OGGLIES dual" tvg-logo="" group-title="PELICULAS",BIENVENIDO AL MUNDO DE LOS OGGLIES dual
-http://144.217.69.162/PELIS_STALKER/The.Ogglies.Welcome.to.Smelliville.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="VACATION FRIENDS dual" tvg-logo="" group-title="PELICULAS",VACATION FRIENDS dual
-http://144.217.69.162/PELIS_STALKER/Vacation.Friends.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE OLD WAYS dual" tvg-logo="" group-title="PELICULAS",THE OLD WAYS dual
-http://144.217.69.162/PELIS_STALKER/The.Old.Ways.2020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LO INIMAGINABLE dual" tvg-logo="" group-title="PELICULAS",LO INIMAGINABLE dual
-http://144.217.69.162/PELIS_STALKER/Lo.Inimaginable.2018.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="OTRA PELICULA DE HUEVOS Y UN POLLO lat" tvg-logo="" group-title="PELICULAS",OTRA PELICULA DE HUEVOS Y UN POLLO lat
-http://144.217.69.162/PELIS_STALKER/Otra.pelicula.de.huevos.y.un.pollo.2009.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="RISEN sub" tvg-logo="" group-title="PELICULAS",RISEN sub
-http://144.217.69.162/PELIS_STALKER/Risen.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ANNETTE sub" tvg-logo="" group-title="PELICULAS",ANNETTE sub
-http://144.217.69.162/PELIS_STALKER/Annette.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EL MESERO lat" tvg-logo="" group-title="PELICULAS",EL MESERO lat
-http://144.217.69.162/PELIS_STALKER/El.mesero.2021.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DEL CARACOL esp" tvg-logo="" group-title="PELICULAS",LA CASA DEL CARACOL esp
-http://144.217.69.162/PELIS_STALKER/La.Casa.Del.Caracol.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DARK CITY 1998 dual" tvg-logo="" group-title="PELICULAS",DARK CITY 1998 dual
-http://144.217.69.162/PELIS_STALKER/Dark.City.1998.DC.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MOST DANGEROUS GAME dual" tvg-logo="" group-title="PELICULAS",MOST DANGEROUS GAME dual
-http://144.217.69.162/PELIS_STALKER/Most%20Dangerous%20Game.2020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE HEAD HUNTER dual" tvg-logo="" group-title="PELICULAS",THE HEAD HUNTER dual
-http://144.217.69.162/PELIS_STALKER/The.Head.Hunter.2018.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE HOUSE NEXT DOOR MEET THE BLACKS 2 lat" tvg-logo="" group-title="PELICULAS",THE HOUSE NEXT DOOR MEET THE BLACKS 2 lat
-http://144.217.69.162/PELIS_STALKER/The.House.Next.Door.Meet.the.Blacks.2.2021.Comedia.HDRip.LATINO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL PROFUGO lat" tvg-logo="" group-title="PELICULAS",EL PROFUGO lat
-http://144.217.69.162/PELIS_STALKER/El.profugo.2021.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THERES SOMEONE INSIDE YOUR HOUSE dual" tvg-logo="" group-title="PELICULAS",THERES SOMEONE INSIDE YOUR HOUSE dual
-http://144.217.69.162/PELIS_STALKER/Theres.Someone.Inside.Your.House.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="POSSESSOR dual" tvg-logo="" group-title="PELICULAS",POSSESSOR dual
-http://144.217.69.162/PELIS_STALKER/Possessor.2020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE NEXT DOOR dual" tvg-logo="" group-title="PELICULAS",THE NEXT DOOR dual
-http://144.217.69.162/PELIS_STALKER/The.House.Next.Door.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MI POBRE DIABLILLO 1990 sub" tvg-logo="" group-title="PELICULAS",MI POBRE DIABLILLO 1990 sub
-http://144.217.69.162/PELIS_STALKER/Problem.Child.1.1990.Comedia.BRRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MI POBRE DIABLILLO 2 1991 sub" tvg-logo="" group-title="PELICULAS",MI POBRE DIABLILLO 2 1991 sub
-http://144.217.69.162/PELIS_STALKER/Problem.Child.2.1991.Comedia.BRRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LA FAMILIA ADDAMS 2 dual" tvg-logo="" group-title="PELICULAS",LA FAMILIA ADDAMS 2 dual
-http://144.217.69.162/PELIS_STALKER/The.Addams.Family.2.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="HIJOS DEL SUR dual" tvg-logo="" group-title="PELICULAS",HIJOS DEL SUR dual
-http://144.217.69.162/PELIS_STALKER/Son.Of.The.South.2020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WAY DOWN dual" tvg-logo="" group-title="PELICULAS",WAY DOWN dual
-http://144.217.69.162/PELIS_STALKER/Way.Down.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SEPARATION dual" tvg-logo="" group-title="PELICULAS",SEPARATION dual
-http://144.217.69.162/PELIS_STALKER/Separation.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MISERY 1990 dual" tvg-logo="" group-title="PELICULAS",MISERY 1990 dual
-http://144.217.69.162/PELIS_STALKER/Misery.1990.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ACTIVIDAD PARANORMAL NEXT OF KIN sub" tvg-logo="" group-title="PELICULAS",ACTIVIDAD PARANORMAL NEXT OF KIN sub
-http://144.217.69.162/PELIS_STALKER/Paranormal.Activity.Next.of.Kin.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CAMP CONFIDENTIAL AMERICAS SECRET NAZIS dual" tvg-logo="" group-title="PELICULAS",CAMP CONFIDENTIAL AMERICAS SECRET NAZIS dual
-http://144.217.69.162/PELIS_STALKER/Camp.Confidential.Americas.Secret.Nazis.2021.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE COLLINI CASE dual" tvg-logo="" group-title="PELICULAS",THE COLLINI CASE dual
-http://144.217.69.162/PELIS_STALKER/The.Collini.Case.2019.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="RED NOTICE dual" tvg-logo="" group-title="PELICULAS",RED NOTICE dual
-http://144.217.69.162/PELIS_STALKER/Red.Notice.2021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="7 PRISIONEROS dual" tvg-logo="" group-title="PELICULAS",7 PRISIONEROS dual
-http://144.217.69.162/PELIS_STALKER/7.Prisoners.2021.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NO MANCHES FRIDA lat" tvg-logo="" group-title="PELICULAS",NO MANCHES FRIDA lat
-http://144.217.69.162/PELIS_STALKER/No.manches.Frida.1.2016.Comedia.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NO MANCHES FRIDA 2 lat" tvg-logo="" group-title="PELICULAS",NO MANCHES FRIDA 2 lat
-http://144.217.69.162/PELIS_STALKER/No.manches.Frida.2.2019.Comedia.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EL JUICIO ANTES DE NAVIDAD sub" tvg-logo="" group-title="PELICULAS",EL JUICIO ANTES DE NAVIDAD sub
-http://144.217.69.162/PELIS_STALKER/El.Juicio.antes.de.Navidad.2021.Documental.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ARDIENDO sub" tvg-logo="" group-title="PELICULAS",ARDIENDO sub
-http://144.217.69.162/PELIS_STALKER/Ardiendo.2021.Documental.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ENSEÑAME EL CAMINO A CASA dual" tvg-logo="" group-title="PELICULAS",ENSEÑAME EL CAMINO A CASA dual
-http://144.217.69.162/PELIS_STALKER/Ens%c3%a9%c3%b1ame.el.camino.a.casa.2021.Documental.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ANGELE sub" tvg-logo="" group-title="PELICULAS",ANGELE sub
-http://144.217.69.162/PELIS_STALKER/Ang%c3%a8le.2021.Documental.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JAGGED sub" tvg-logo="" group-title="PELICULAS",JAGGED sub
-http://144.217.69.162/PELIS_STALKER/Jagged.2021.Documental.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FINAL ACCOUNT sub" tvg-logo="" group-title="PELICULAS",FINAL ACCOUNT sub
-http://144.217.69.162/PELIS_STALKER/Final%20Account.2020.Documental.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADRIENNE sub" tvg-logo="" group-title="PELICULAS",ADRIENNE sub
-http://144.217.69.162/PELIS_STALKER/Adrienne.2021.Documental.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WITCH HUNT dual" tvg-logo="" group-title="PELICULAS",WITCH HUNT dual
-http://144.217.69.162/PELIS_STALKER/Witch.Hunt.2021.Thriller.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DEJAME ENTRAR lat" tvg-logo="" group-title="PELICULAS",DEJAME ENTRAR lat
-http://144.217.69.162/PELIS_STALKER/D%c3%a9jame.Entrar.2010.Terror.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE UNITED STATES OF INSANITY sub" tvg-logo="" group-title="PELICULAS",THE UNITED STATES OF INSANITY sub
-http://144.217.69.162/PELIS_STALKER/The.United.States.of.Insanity.2021.Documental.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MR SATURDAY NIGHT sub" tvg-logo="" group-title="PELICULAS",MR SATURDAY NIGHT sub
-http://144.217.69.162/PELIS_STALKER/Mr.SaturdayNight.2021.Documental.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL SACRIFICIO DEL CIERVO SAGRADO dual" tvg-logo="" group-title="PELICULAS",EL SACRIFICIO DEL CIERVO SAGRADO dual
-http://144.217.69.162/PELIS_STALKER/El.sacrificio.del.ciervo.sagrado.2017.Thriller.BRRip.LATINO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="REC esp" tvg-logo="" group-title="PELICULAS",REC esp
-http://144.217.69.162/PELIS_STALKER/Rec.1.2007.Terror.BRRip.CASTELLANO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="REC 2 esp" tvg-logo="" group-title="PELICULAS",REC 2 esp
-http://144.217.69.162/PELIS_STALKER/Rec.2.2009.Terror.BRRip.CASTELLANO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER AND THE SORCERERS STONE lat" tvg-logo="" group-title="PELICULAS",HARRY POTTER AND THE SORCERERS STONE lat
-http://144.217.69.162/PELIS_STALKER/Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BLACK BOX sub" tvg-logo="" group-title="PELICULAS",BLACK BOX sub
-http://144.217.69.162/PELIS_STALKER/Caja.negra.2020.Drama.HDRip.VOSE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="THE PROTEGE sub" tvg-logo="" group-title="PELICULAS",THE PROTEGE sub
-http://144.217.69.162/PELIS_STALKER/The.Protege.2021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="BIENVENIDOS A CHECHENIA sub" tvg-logo="" group-title="PELICULAS",BIENVENIDOS A CHECHENIA sub
 http://54.39.52.63/PELICULA/4.11/18693.Welcome.to.Chechnya.2020.ENSUBBED.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tony Hawk: Until the Wheels Fall Off lat" tvg-logo="" group-title="PELICULAS",Tony Hawk: Until the Wheels Fall Off lat
@@ -751,8 +353,6 @@ http://54.39.52.63/PELICULA/1.20.1/18951.Ghostbusters.Afterlife.2021.PROPER.1080
 http://54.39.52.63/PELICULA/1.20.1/13532.The.Last.Duel.2021.1080p.BluRay.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EL HOBBIT UN VIAJE INESPERADO dual" tvg-logo="" group-title="PELICULAS",EL HOBBIT UN VIAJE INESPERADO dual
 http://54.39.52.63/PELICULA/1.26/19021.The.Hobbit.An.Unexpected.Journey.2012.EXTENDED.REMASTERED.1080p.BluRay.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DONT KILL ME dual" tvg-logo="" group-title="PELICULAS",DONT KILL ME dual
-https://resizing.flixster.com/5ydrQxrF5vrN6KJ19NlHXBK5Xyo=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2QxZjYyZmM5LTVjZjctNDUzOC05ZTJjLTg5ODQwNDJkZmNiMi5qcGc=" group-title="PELICULAS",DONT KILL ME dual
 #EXTINF:-1 tvg-id="" tvg-name="BLACKLIGHT sub" tvg-logo="" group-title="PELICULAS",BLACKLIGHT sub
 http://54.39.52.63/PELICULA/3.3/4551.Blacklight.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="LOS TRAPOS SUCIOS SE LAVAN EN CASA lat" tvg-logo="" group-title="PELICULAS",LOS TRAPOS SUCIOS SE LAVAN EN CASA lat
@@ -761,8 +361,6 @@ http://54.39.52.63/PELICULA/3.8/7468.Los.trapos.sucios.se.lavan.en.casa.2021.108
 http://54.39.52.63/PELICULA/4.11/18994.Umma.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MOONFALL dual" tvg-logo="" group-title="PELICULAS",MOONFALL dual
 http://54.39.52.63/PELICULA/2.4A/13167.Moonfall.2022.1080p.WEBRip.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN 2022 sub" tvg-logo="" group-title="PELICULAS",BATMAN 2022 sub
-http://144.217.69.162/PELIS_STALKER/The.Batman.2022.SUB.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EDGE OF THE WORLD dual" tvg-logo="" group-title="PELICULAS",EDGE OF THE WORLD dual
 http://54.39.52.63/PELICULA/Edge.of.the.world.2021.1080p-dual-lat-Cinecalidad.ac.mp4
 #EXTINF:-1 tvg-id="" tvg-name="INFINITE STORM sub" tvg-logo="" group-title="PELICULAS",INFINITE STORM sub
@@ -785,22 +383,16 @@ http://54.39.52.63/PELICULA/3.29/13233.Death.on.the.Nile.2022.1080p.BluRay.Dual.
 https://www.youtube.com/watch?v=xk7fSD6MZeg
 #EXTINF:-1 tvg-id="" tvg-name="CHOOSE OR DIE lat" tvg-logo="" group-title="PELICULAS",CHOOSE OR DIE lat
 http://54.39.52.63/PELICULA/4.17/2552.Choose.or.Die.2022.1080p.WEBRip.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="UNCHARTED sub" tvg-logo="" group-title="PELICULAS",UNCHARTED sub
-http://144.217.69.162/PELIS_STALKER/Uncharted.2022.SUB.mp4
 #EXTINF:-1 tvg-id="" tvg-name="JACK AND JILL dual" tvg-logo="" group-title="PELICULAS",JACK AND JILL dual
 http://54.39.52.63/PELICULA/24.4/15896.Jack.and.Jill.2011.1080p.BluRay.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AMBULANCE sub" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBkMjA1OTEtYjIzZi00ZjkxLWIxOTYtYThiM2JkOGQ0ZWZlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="PELICULAS",AMBULANCE sub
 http://54.39.52.63/PELICULA/23.4/19949.Ambulance.2022.1080p.WEBRip.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EL MISTERIO DE MARILYN MONROE - CINTAS INEDITAS lat" tvg-logo="" group-title="PELICULAS",EL MISTERIO DE MARILYN MONROE - CINTAS INEDITAS lat
-http://144.217.69.162/PELIS_STALKER/The.Mystery.of.Marilyn.Monroe.The.Unheard.Tapes.2022.1080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="SONIC 2 dual" tvg-logo="" group-title="PELICULAS",SONIC 2 dual
 http://54.39.52.63/PELICULA/ZEUS%20TEAM/Sonic.THE.HEDGEHOG.2.2022.1080P.DUAL-LAT.CINECALIDAD.LOL.MP4
 #EXTINF:-1 tvg-id="" tvg-name="HITMAN 2 dual" tvg-logo="" group-title="PELICULAS",HITMAN 2 dual
 http://54.39.52.63/PELICULA/ZEUS%20TEAM/Hitman(2015)Dual1080p.Www.SeiresHD.Com.mkv
 #EXTINF:-1 tvg-id="" tvg-name="HITMAN dual" tvg-logo="" group-title="PELICULAS",HITMAN dual
 http://54.39.52.63/PELICULA/ZEUS%20TEAM/Hitman(2007)Dual1080p.Www.SeiresHD.Com.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LOS SECRETOS DE DUMBLEDORE lat" tvg-logo="" group-title="PELICULAS",LOS SECRETOS DE DUMBLEDORE lat
-http://144.217.69.162/PELIS_STALKER/Fantastic.Beasts.The.Secrets.of.Dumbledore.2022.1080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EL EXORCISMO DE DIOS sub" tvg-logo="" group-title="PELICULAS",EL EXORCISMO DE DIOS sub
 http://54.39.52.63/PELICULA/3.14/17166.The.Exorcism.of.God.2021.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FURIA EN 2 RUEDAS lat" tvg-logo="" group-title="PELICULAS",FURIA EN 2 RUEDAS lat
@@ -819,70 +411,22 @@ http://54.39.52.63/PELICULA/9.16/Schumacher%20%e2%80%93%20ARESHD.mp4
 http://54.39.52.63/PELICULA/10.11/Maligno%20%e2%80%93%20ARESHD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="MORBIUS 4K lat" tvg-logo="" group-title="PELICULAS",MORBIUS 4K lat
 http://144.217.69.162/4K/Morbius.2022.4K.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Green Mile 1999 sub" tvg-logo="" group-title="PELICULAS",The Green Mile 1999 sub
-http://144.217.69.162/PELIS_STALKER/The.Green.Mile.1999.1080p.SUB.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE VALET lat" tvg-logo="" group-title="PELICULAS",THE VALET lat
-http://144.217.69.162/PELIS_STALKER/The.Valet.2022.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MONSTROUS sub" tvg-logo="" group-title="PELICULAS",MONSTROUS sub
 http://54.39.52.63/PELICULA/25.5/14320.Monstrous.2022.1080p.WEBRip.mkv
-#EXTINF:-1 tvg-id="" tvg-name="KING sub" tvg-logo="" group-title="PELICULAS",KING sub
-http://144.217.69.162/PELIS_STALKER/King.2022.720p.SUB.mkv
-#EXTINF:-1 tvg-id="" tvg-name="KING lat" tvg-logo="" group-title="PELICULAS",KING lat
-http://144.217.69.162/PELIS_STALKER/King.2022.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SPACEWALKER lat" tvg-logo="" group-title="PELICULAS",SPACEWALKER lat
-http://144.217.69.162/PELIS_STALKER/Spacewalker.2017.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="OUR FATHER lat" tvg-logo="" group-title="PELICULAS",OUR FATHER lat
-http://144.217.69.162/PELIS_STALKER/Our.Father.2022.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MORBIUS sub" tvg-logo="" group-title="PELICULAS",MORBIUS sub
-http://144.217.69.162/PELIS_STALKER/Morbius.2022.1080p.VO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE NORTHMAN lat" tvg-logo="" group-title="PELICULAS",THE NORTHMAN lat
-http://144.217.69.162/PELIS_STALKER/The.Northman.2022.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ABANDONED sub" tvg-logo="" group-title="PELICULAS",ABANDONED sub
 http://54.39.52.63/PELICULA/1.07/2802.Abandoned.2022.1080p.WEBRip.mkv
-#EXTINF:-1 tvg-id="" tvg-name="RUBIKON sub" tvg-logo="" group-title="PELICULAS",RUBIKON sub
-http://54.39.52.63/PELICULA/1.07/5502.Rubikon.2022.1080p.WEBRip.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE PRINCESS sub" tvg-logo="" group-title="PELICULAS",THE PRINCESS sub
-http://54.39.52.63/PELICULA/1.07/7603.The.Princess.2022.1080p.WEBRip.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FATHER STU lat" tvg-logo="" group-title="PELICULAS",FATHER STU lat
-http://144.217.69.162/PELIS_STALKER/Father.Stu.2022.720p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="TRON LEGACY sub eng" tvg-logo="" group-title="PELICULAS",TRON LEGACY sub eng
 http://167.114.174.132:9092/movies/batch233/Tron.Legacy.2010.Br.720p.YIFY.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ELEKTRA dual" tvg-logo="" group-title="PELICULAS",ELEKTRA dual
-http://51.77.66.14/Marvel/Elektra.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DR STRANGE IN THE MULTIVERSE OF MADNESS lat" tvg-logo="" group-title="PELICULAS",DR STRANGE IN THE MULTIVERSE OF MADNESS lat
-http://144.217.69.162/PELIS_STALKER/Doctor.Strange.In.The.Multiverse.Of.Madness.2022.720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BIKER BOYZ lat" tvg-logo="" group-title="PELICULAS",BIKER BOYZ lat
-http://144.217.69.162/PELIS_STALKER/Biker.Boyz.2003.mkv
-#EXTINF:-1 tvg-id="" tvg-name="HUSTLE lat" tvg-logo="" group-title="PELICULAS",HUSTLE lat
-http://144.217.69.162/PELIS_STALKER/Hustle.2022.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DUAL sub" tvg-logo="" group-title="PELICULAS",DUAL sub
-http://144.217.69.162/PELIS_STALKER/Dual.2022.VO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EL ASESINATO DEL FOTOGRAFO EN PINAMAR lat" tvg-logo="" group-title="PELICULAS",EL ASESINATO DEL FOTOGRAFO EN PINAMAR lat
-http://144.217.69.162/PELIS_STALKER/The.Photographer.Murder.in.Pinamar.2022.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SENIOR YEAR lat" tvg-logo="" group-title="PELICULAS",SENIOR YEAR lat
-http://144.217.69.162/PELIS_STALKER/Senior.Year.2022.mkv
-#EXTINF:-1 tvg-id="" tvg-name="PUR IDIOT BROTHER lat" tvg-logo="" group-title="PELICULAS",PUR IDIOT BROTHER lat
-http://144.217.69.162/PELIS_STALKER/Our.Idiot.Brother.2011.1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA ESCUELA DE LOS ANIMALES MAGICOS lat" tvg-logo="" group-title="PELICULAS",LA ESCUELA DE LOS ANIMALES MAGICOS lat
-http://144.217.69.162/PELIS_STALKER/La%20escuela%20de%20los%20animales%20m%c3%a1gicos%20(2021)%20720p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="PALM SPRINGS sub" tvg-logo="" group-title="PELICULAS",PALM SPRINGS sub
-http://144.217.69.162/PELIS_STALKER/Palm.Springs.2020.SUB.mkv
-#EXTINF:-1 tvg-id="" tvg-name="PALM SPRINGS lat" tvg-logo="" group-title="PELICULAS",PALM SPRINGS lat
-http://144.217.69.162/PELIS_STALKER/Palm.Springs.2020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DEJAVU lat" tvg-logo="" group-title="PELICULAS",DEJAVU lat
-http://144.217.69.162/PELIS_STALKER/Deja%20Vu%20(2006).mkv
 #EXTINF:-1 tvg-id="" tvg-name="SHAUN OF THE DEAD lat" tvg-logo="" group-title="PELICULAS",SHAUN OF THE DEAD lat
 http://144.217.69.162/PELIS_STALKER/Shaun.of.the.Dead.2004.1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JURASSIC WORLD DOMINION sub web" tvg-logo="" group-title="PELICULAS",JURASSIC WORLD DOMINION sub web
-http://144.217.69.162/PELIS_STALKER/Jurassic.World.Dominion.2022.SUB.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DR DRE THE UP IN THE SMOKE" tvg-logo="" group-title="PELICULAS",DR DRE THE UP IN THE SMOKE
-http://144.217.69.162/PELIS_STALKER/Dr%20Dre%20%e2%80%93%20The%20Up%20in%20Smoke%20Tour%20(2000)%201080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LOS NUEVOS MUTANTES lat" tvg-logo="" group-title="PELICULAS",LOS NUEVOS MUTANTES lat
-http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/Los%20Nuevos%20Mutantes.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BACK TO THE TITANIC lat" tvg-logo="" group-title="PELICULAS",BACK TO THE TITANIC lat
-http://144.217.69.162/PELIS_STALKER/Back.to.the.Titanic.2020.1080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="THE GRAY MAN dual" tvg-logo="" group-title="PELICULAS",THE GRAY MAN dual
 http://54.39.52.63/PELICULA/22.07/1752.The.Gray.Man.2022.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCH PART 2 THE OTHER ONE sub" tvg-logo="" group-title="PELICULAS",THE WITCH PART 2 THE OTHER ONE sub
+http://54.39.52.63/PELICULA/27.7/10319.The.Witch.Part.2.The.Other.One.2022.1080p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="NOP" tvg-logo="" group-title="PELICULAS",NOP
+https://ia601407.us.archive.org/9/items/n0p_20221101/n0p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JOKER" tvg-logo="" group-title="PELICULAS",JOKER
+https://ia801403.us.archive.org/9/items/j0k3r-2019/j0k3r-2019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -999,164 +543,6 @@ http://167.114.174.132:9092/series/lossimpsons/capitulos/03x21.m4v
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x22.m4v       
 #EXTINF:-1 tvg-id="" tvg-name="03x24" tvg-logo="https://i.pinimg.com/736x/c6/1e/03/c61e031f3d23be244c9d347b7a493309--los-simpsons-simpsons-funny.jpg" group-title="LOS SIMPSONS",03x24
 http://167.114.174.132:9092/series/lossimpsons/capitulos/03x24.m4v     
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x01" tvg-logo="https://static.wikia.nocookie.net/witcher/images/a/a4/Netflix_poster_s1.jpg/revision/latest?cb=20191120213257" group-title="THE WITCHER",THE WITCHER 01x01
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x02" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x02
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x03" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x03
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x04" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x04
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x05" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x05
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x06" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x06
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x07" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x07
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 01x08" tvg-logo="" group-title="THE WITCHER",THE WITCHER 01x08
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S01/S01E08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x01" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="THE WITCHER",THE WITCHER 02x01
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x02" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x02
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x03" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x03
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x04" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x04
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x05" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x05
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x06" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x06
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x07" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x07
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE WITCHER 02x08" tvg-logo="" group-title="THE WITCHER",THE WITCHER 02x08
-http://144.217.69.162/SERIES_STALKER/THE%20WITCHER/S02/S02E08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x01" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x01
-http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x02" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x02
-http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x03" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x03
-http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x04" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x04
-http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x05" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x05
-http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x06" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x06
-http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MARADONA 01x07" tvg-logo="https://m.media-amazon.com/images/I/51we4h0PGkL._SL500_.jpg" group-title="MARADONA",MARADONA 01x07
-http://144.217.69.162/SERIES_STALKER/MARADONA_SERIE/S01/S01E07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x01" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x01
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x02" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x02
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x03" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x03
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x04" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x04
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x05" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x05
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x06" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x06
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x07" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x07
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x08" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x08
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x09" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x09
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x09.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x10" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x10
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x10.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x11" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x11
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x11.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x12" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x12
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x12.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x13" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",01x13
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.1/La.Casa.de.Papel.1x13.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02x01" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",02x01
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02x02" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",02x02
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02x03" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",02x03
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02x04" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",02x04
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02x05" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",02x05
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02x06" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",02x06
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.2/La.Casa.de.Papel.2x06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="03x01" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",03x01
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="03x02" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",03x02
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="03x03" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",03x03
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="03x04" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",03x04
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="03x05" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",03x05
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="03x06" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",03x06
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="03x07" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",03x07
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="03x08" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",03x08
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.3/La.Casa.de.Papel.3x08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="04x01" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",04x01
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="04x02" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",04x02
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="04x03" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",04x03
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="04x04" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",04x04
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="04x05" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",04x05
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="04x06" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",04x06
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="04x07" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",04x07
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="04x08" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",04x08
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.4/La.Casa.de.Papel.4x08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="05x01" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",05x01
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="05x02" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",05x02
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="05x03" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",05x03
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="05x04" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",05x04
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="05x05" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",05x05
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="05x06" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",05x06
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="05x07" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",05x07
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="05x08" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",05x08
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="05x09" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",05x09
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x09.mkv
-#EXTINF:-1 tvg-id="" tvg-name="05x10" tvg-logo="https://screengobblr.files.wordpress.com/2018/05/rsz_la-casa-de-papel-6-2-sezon-netflix-te-6-nisan-10691040_o-1.jpg" group-title="LA CASA DE PAPEL",05x10
-http://144.217.69.162/SERIES_STALKER/La.Casa.de.Papel/Season.5/La.Casa.de.Papel.5x10.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X01" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN",01X01
-http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X02" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN",01X02
-http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X03" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXMZNKG/image?locale=nl-be&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="JOHN DELOREAN",01X03
-http://144.217.69.162/SERIES_STALKER/JohndeLorean/S01/S01E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X01" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X01
-http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X02" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X02
-http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X03" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X03
-http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X04" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X04
-http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X05" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X05
-http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X06" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X06
-http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X07" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X07
-http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X08" tvg-logo="https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2022/03/harina-serie.jpeg?resize=700%2C518&quality=80&strip=all&ssl=1" group-title="HARINA ",01X08
-http://144.217.69.162/SERIES_STALKER/Harina/LAT/Season.1/Harina.1x08.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MR BEAN 01" tvg-logo="" group-title="SERIES",MR BEAN 01
 https://www.youtube.com/watch?v=sOlP10fDclE
 #EXTINF:-1 tvg-id="" tvg-name="MR BEAN 02" tvg-logo="" group-title="SERIES",MR BEAN 02
@@ -1433,54 +819,6 @@ http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/3812.Smother-in-Law.S01E
 http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/4936.Smother-in-Law.S01E09.720p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01X10 sub" tvg-logo="" group-title="LA SUEGRA QUE TE PARIO",01X10 sub
 http://54.39.52.63/SERIE/La%20suegra%20que%20te%20pario/8032.Smother-in-Law.S01E10.720p.WEBRip.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X01 lat" tvg-logo="" group-title="TORNEO DE LAS CASAS DE HOGWARTS",01X01 lat
-http://144.217.69.162/SERIES_STALKER/Harry.Potter.Torneo.de.las.Casas.de.Hogwarts/LAT/Season.1/S01E01(2).mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X02 lat" tvg-logo="" group-title="TORNEO DE LAS CASAS DE HOGWARTS",01X02 lat
-http://144.217.69.162/SERIES_STALKER/Harry.Potter.Torneo.de.las.Casas.de.Hogwarts/LAT/Season.1/S01E02(2).mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X03 lat" tvg-logo="" group-title="TORNEO DE LAS CASAS DE HOGWARTS",01X03 lat
-http://144.217.69.162/SERIES_STALKER/Harry.Potter.Torneo.de.las.Casas.de.Hogwarts/LAT/Season.1/S01E03(2).mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X04 lat" tvg-logo="" group-title="TORNEO DE LAS CASAS DE HOGWARTS",01X04 lat
-http://144.217.69.162/SERIES_STALKER/Harry.Potter.Torneo.de.las.Casas.de.Hogwarts/LAT/Season.1/S01E04(2).mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X01 dual" tvg-logo="" group-title="MOONKNIGHT",01X01 dual
-http://144.217.69.162/SERIES_STALKER/MOONKNIGHT/S01/SUB./S01E01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X02 dual" tvg-logo="" group-title="MOONKNIGHT",01X02 dual
-http://144.217.69.162/SERIES_STALKER/MOONKNIGHT/S01/SUB./S01E02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X03 dual" tvg-logo="" group-title="MOONKNIGHT",01X03 dual
-http://144.217.69.162/SERIES_STALKER/MOONKNIGHT/S01/SUB./S01E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X04 dual" tvg-logo="" group-title="MOONKNIGHT",01X04 dual
-http://144.217.69.162/SERIES_STALKER/MOONKNIGHT/S01/SUB./S01E04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X05 dual" tvg-logo="" group-title="MOONKNIGHT",01X05 dual
-http://144.217.69.162/SERIES_STALKER/MOONKNIGHT/S01/SUB./S01E05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X06 dual" tvg-logo="" group-title="MOONKNIGHT",01X06 dual
-http://144.217.69.162/SERIES_STALKER/MOONKNIGHT/S01/SUB./S01E06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X01 esp" tvg-logo="" group-title="FERIA",01X01 esp
-http://144.217.69.162/SERIES_STALKER/Feria.La.luz.mas.oscura/CAST/Season.1/Feria.La.luz.mas.oscura.1x01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X02 esp" tvg-logo="" group-title="FERIA",01X02 esp
-http://144.217.69.162/SERIES_STALKER/Feria.La.luz.mas.oscura/CAST/Season.1/Feria.La.luz.mas.oscura.1x02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X03 esp" tvg-logo="" group-title="FERIA",01X03 esp
-http://144.217.69.162/SERIES_STALKER/Feria.La.luz.mas.oscura/CAST/Season.1/Feria.La.luz.mas.oscura.1x03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X04 esp" tvg-logo="" group-title="FERIA",01X04 esp
-http://144.217.69.162/SERIES_STALKER/Feria.La.luz.mas.oscura/CAST/Season.1/Feria.La.luz.mas.oscura.1x04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X05 esp" tvg-logo="" group-title="FERIA",01X05 esp
-http://144.217.69.162/SERIES_STALKER/Feria.La.luz.mas.oscura/CAST/Season.1/Feria.La.luz.mas.oscura.1x05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X06 esp" tvg-logo="" group-title="FERIA",01X06 esp
-http://144.217.69.162/SERIES_STALKER/Feria.La.luz.mas.oscura/CAST/Season.1/Feria.La.luz.mas.oscura.1x06.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X07 esp" tvg-logo="" group-title="FERIA",01X07 esp
-http://144.217.69.162/SERIES_STALKER/Feria.La.luz.mas.oscura/CAST/Season.1/Feria.La.luz.mas.oscura.1x07.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X08 esp" tvg-logo="" group-title="FERIA",01X08 esp
-http://144.217.69.162/SERIES_STALKER/Feria.La.luz.mas.oscura/CAST/Season.1/Feria.La.luz.mas.oscura.1x08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="" group-title="BOBA FETT BOOK",01X01 sub
-http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.Fett.1x01.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="" group-title="BOBA FETT BOOK",01X02 sub
-http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.Fett.1x02.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="" group-title="BOBA FETT BOOK",01X03 sub
-http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.Fett.1x03.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X04 sub" tvg-logo="" group-title="BOBA FETT BOOK",01X04 sub
-http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.Fett.1x04.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X05 sub" tvg-logo="" group-title="BOBA FETT BOOK",01X05 sub
-http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.Fett.1x05.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X06 sub" tvg-logo="" group-title="BOBA FETT BOOK",01X06 sub
-http://144.217.69.162/SERIES_STALKER/El.libro.de.Boba.Fett/SUB/El.libro.de.Boba.Fett.1x06.mp4
 #EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="" group-title="ATRACADORES",01X01 sub
 http://54.39.52.63/SERIE/ATRACADORES/Atracadores%20La%20serie%201%c3%971%20%e2%80%93%20ARESHD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="" group-title="ATRACADORES",01X02 sub
@@ -1493,24 +831,35 @@ http://54.39.52.63/SERIE/ATRACADORES/Atracadores%20La%20serie%201%c3%974%20%e2%8
 http://54.39.52.63/SERIE/ATRACADORES/Atracadores%20La%20serie%201%c3%975%20%e2%80%93%20ARESHD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="01X06 sub" tvg-logo="" group-title="ATRACADORES",01X06 sub
 http://54.39.52.63/SERIE/ATRACADORES/Atracadores%20La%20serie%201%c3%975%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="01X01 lat" tvg-logo="" group-title="OBI WAN KENOBI",01X01 lat
-http://144.217.69.162/SERIES_STALKER/Obi-Wan%20Kenobi/LAT/S01/S01E01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X02 lat" tvg-logo="" group-title="OBI WAN KENOBI",01X02 lat
-http://144.217.69.162/SERIES_STALKER/Obi-Wan%20Kenobi/LAT/S01/S01E02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x03 lat" tvg-logo="" group-title="OBI WAN KENOBI",01x03 lat
-http://144.217.69.162/SERIES_STALKER/Obi-Wan%20Kenobi/LAT/S01/S01E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x04 lat" tvg-logo="" group-title="OBI WAN KENOBI",01x04 lat
-http://144.217.69.162/SERIES_STALKER/Obi-Wan%20Kenobi/LAT/S01/S01E04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x05 lat" tvg-logo="" group-title="OBI WAN KENOBI",01x05 lat
-http://144.217.69.162/SERIES_STALKER/Obi-Wan%20Kenobi/LAT/S01/S01E05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x01 lat" tvg-logo="" group-title="THE NIGHT OF",01x01 lat
-http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E01.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x02 lat" tvg-logo="" group-title="THE NIGHT OF",01x02 lat
-http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E02.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x03 lat" tvg-logo="" group-title="THE NIGHT OF",01x03 lat
-http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E03.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x04 lat" tvg-logo="" group-title="THE NIGHT OF",01x04 lat
-http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E04.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x05 lat" tvg-logo="" group-title="THE NIGHT OF",01x05 lat
-http://144.217.69.162/SERIES_STALKER/THE_NIGHT_OF/S01/S01E05.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01x06 lat" tvg-logo=
+#EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="" group-title="THE OFFER ",01X01 sub
+http://54.39.52.63/SERIE/The%20Offer/13874.The.Offer.S01E01.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="" group-title="THE OFFER ",01X02 sub
+http://54.39.52.63/SERIE/The%20Offer/17683.The.Offer.S01E02.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="" group-title="THE OFFER ",01X03 sub
+http://54.39.52.63/SERIE/The%20Offer/11931.The.Offer.S01E03.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X04 sub" tvg-logo="" group-title="THE OFFER ",01X04 sub
+http://54.39.52.63/SERIE/The%20Offer/12008.The.Offer.S01E04.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X05 sub" tvg-logo="" group-title="THE OFFER ",01X05 sub
+http://54.39.52.63/SERIE/The%20Offer/3222.The.Offer.S01E05.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X06 sub" tvg-logo="" group-title="THE OFFER ",01X06 sub
+http://54.39.52.63/SERIE/The%20Offer/12350.The.Offer.S01E06.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X07 sub" tvg-logo="" group-title="THE OFFER ",01X07 sub
+http://54.39.52.63/SERIE/The%20Offer/19329.The.Offer.S01E07.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X08 sub" tvg-logo="" group-title="THE OFFER ",01X08 sub
+http://54.39.52.63/SERIE/The%20Offer/15083.The.Offer.S01E08.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X01 sub" tvg-logo="" group-title="WECRASHED",01X01 sub
+http://54.39.52.63/SERIE/WeCrashed/5699.WeCrashed.S01E01.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X02 sub" tvg-logo="" group-title="WECRASHED",01X02 sub
+http://54.39.52.63/SERIE/WeCrashed/7452.WeCrashed.S01E02.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X03 sub" tvg-logo="" group-title="WECRASHED",01X03 sub
+http://54.39.52.63/SERIE/WeCrashed/19047.WeCrashed.S01E03.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X04 sub" tvg-logo="" group-title="WECRASHED",01X04 sub
+http://54.39.52.63/SERIE/WeCrashed/11211.WeCrashed.S01E04.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X05 sub" tvg-logo="" group-title="WECRASHED",01X05 sub
+http://54.39.52.63/SERIE/WeCrashed/16680.WeCrashed.S01E05.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X06 sub" tvg-logo="" group-title="WECRASHED",01X06 sub
+http://54.39.52.63/SERIE/WeCrashed/5568.WeCrashed.S01E06.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X07 sub" tvg-logo="" group-title="WECRASHED",01X07 sub
+http://54.39.52.63/SERIE/WeCrashed/16817.WeCrashed.S01E07.720p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X08 sub" tvg-logo="" group-title="WECRASHED",01X08 sub
+http://54.39.52.63/SERIE/WeCrashed/18186.WeCrashed.S01E08.720p.WEBRip.mkv
