@@ -537,6 +537,8 @@ http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/2nov/19958.Babylon.A.D.2008.E
 http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/4nov/6883.Enola.Holmes.2.2022.1080p.WEBRip.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="THOR AMOR Y TRUENO dual" tvg-logo="" group-title="PELICULAS",THOR AMOR Y TRUENO dual
 http://54.39.52.63/ZEUS/Movies/septiembre/Thor.Love.and.Thunder.2022.1080p.dual-lat.cinecalidad.run.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PREY dual" tvg-logo="" group-title="PELICULAS",PREY dual
+http://54.39.52.63/PELICULAS%20AGOSTO/5AGOSTO/12205.Prey.2022.1080p.WEBRip.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -1063,3 +1065,15 @@ http://54.39.52.63/SERIES%20GRUPO/SNOWPIERCER/SNOWPIERCER%20S2/SNOWPIERCER%20S02
 http://54.39.52.63/SERIES%20GRUPO/SNOWPIERCER/SNOWPIERCER%20S2/SNOWPIERCER%20S02E09.mkv
 #EXTINF:-1 tvg-id="" tvg-name="02X10 dual" tvg-logo="" group-title="SNOW PIERCER",02X10 dual
 http://54.39.52.63/SERIES%20GRUPO/SNOWPIERCER/SNOWPIERCER%20S2/SNOWPIERCER%20S02E10.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X01 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X01 dual
+http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/10881.The.Devils.Hour.S01E01.720p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X02 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X02 dual
+http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/9329.The.Devils.Hour.S01E02.720p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X03 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X03 dual
+http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/9149.The.Devils.Hour.S01E03.720p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X04 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X04 dual
+http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/19076.The.Devils.Hour.S01E04.720p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X05 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X05 dual
+http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/8364.The.Devils.Hour.S01E05.720p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X06 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X06 dual
+http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/13965.The.Devils.Hour.S01E06.720p.WEBRip.Dual.Latino.mkv
