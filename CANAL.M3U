@@ -539,6 +539,12 @@ http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/4nov/6883.Enola.Holmes.2.2022
 http://54.39.52.63/ZEUS/Movies/septiembre/Thor.Love.and.Thunder.2022.1080p.dual-lat.cinecalidad.run.mp4
 #EXTINF:-1 tvg-id="" tvg-name="PREY dual" tvg-logo="" group-title="PELICULAS",PREY dual
 http://54.39.52.63/PELICULAS%20AGOSTO/5AGOSTO/12205.Prey.2022.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HELLRAISER 2022 lat" tvg-logo="" group-title="PELICULAS",HELLRAISER 2022 lat
+https://ia801504.us.archive.org/25/items/hellraiser-2022/hellraiser%202022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MATRIARCH lat" tvg-logo="" group-title="PELICULAS",MATRIARCH lat
+https://ia601407.us.archive.org/15/items/m-4tr-14ch/M4tr14ch.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALIEN COVENANT lat" tvg-logo="" group-title="PELICULAS",ALIEN COVENANT lat
+https://ia804700.us.archive.org/18/items/al-13n-c-0v-3n-4nt/Al13n%20c0v3n4nt.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -995,6 +1001,18 @@ http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/She-Hulk:%20Attorney%20at%
 http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/She-Hulk:%20Attorney%20at%20Law/shehulkS01E03.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01X04 dual" tvg-logo="" group-title="ELLA HULK",01X04 dual
 http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/She-Hulk:%20Attorney%20at%20Law/she%20hulk%201x04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X01 dual" tvg-logo="" group-title="OBI WAN KENOBI",01X01 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Obi-Wan%20Kenobi/S01/Obi-Wan%20Kenobi_S01E01_Parte%20I.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X02 dual" tvg-logo="" group-title="OBI WAN KENOBI",01X02 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Obi-Wan%20Kenobi/S01/Obi-Wan%20Kenobi_S01E02_Parte%20II.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X03 dual" tvg-logo="" group-title="OBI WAN KENOBI",01X03 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Obi-Wan%20Kenobi/S01/Obi-Wan%20Kenobi_S01E03_Parte%20III.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X04 dual" tvg-logo="" group-title="OBI WAN KENOBI",01X04 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Obi-Wan%20Kenobi/S01/S01E04.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X05 dual" tvg-logo="" group-title="OBI WAN KENOBI",01X05 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Obi-Wan%20Kenobi/S01/S01E05.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X06 dual" tvg-logo="" group-title="OBI WAN KENOBI",01X06 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Obi-Wan%20Kenobi/S01/S01E06.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01X01 dual" tvg-logo="" group-title="3%",01X01 dual
 http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/MAYO/MAYO%2022/3%20%25/S01/3%20%25_S01E01_Cap%c3%adtulo%201_%20Cubos.mp4
 #EXTINF:-1 tvg-id="" tvg-name="01X02 dual" tvg-logo="" group-title="3%",01X02 dual
@@ -1060,20 +1078,4 @@ http://54.39.52.63/SERIES%20GRUPO/SNOWPIERCER/SNOWPIERCER%20S2/SNOWPIERCER%20S02
 #EXTINF:-1 tvg-id="" tvg-name="02X07 dual" tvg-logo="" group-title="SNOW PIERCER",02X07 dual
 http://54.39.52.63/SERIES%20GRUPO/SNOWPIERCER/SNOWPIERCER%20S2/SNOWPIERCER%20S02E07.mkv
 #EXTINF:-1 tvg-id="" tvg-name="02X08 dual" tvg-logo="" group-title="SNOW PIERCER",02X08 dual
-http://54.39.52.63/SERIES%20GRUPO/SNOWPIERCER/SNOWPIERCER%20S2/SNOWPIERCER%20S02E08.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02X09 dual" tvg-logo="" group-title="SNOW PIERCER",02X09 dual
-http://54.39.52.63/SERIES%20GRUPO/SNOWPIERCER/SNOWPIERCER%20S2/SNOWPIERCER%20S02E09.mkv
-#EXTINF:-1 tvg-id="" tvg-name="02X10 dual" tvg-logo="" group-title="SNOW PIERCER",02X10 dual
-http://54.39.52.63/SERIES%20GRUPO/SNOWPIERCER/SNOWPIERCER%20S2/SNOWPIERCER%20S02E10.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X01 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X01 dual
-http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/10881.The.Devils.Hour.S01E01.720p.WEBRip.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X02 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X02 dual
-http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/9329.The.Devils.Hour.S01E02.720p.WEBRip.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X03 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X03 dual
-http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/9149.The.Devils.Hour.S01E03.720p.WEBRip.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X04 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X04 dual
-http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/19076.The.Devils.Hour.S01E04.720p.WEBRip.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X05 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X05 dual
-http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/8364.The.Devils.Hour.S01E05.720p.WEBRip.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="01X06 dual" tvg-logo="" group-title="THE DEVILS HOUR",01X06 dual
-http://54.39.52.63/SERIE%20ANGEL/La%20hora%20del%20diablo/13965.The.Devils.Hour.S01E06.720p.WEBRip.Dual.Latino.mkv
+http://
