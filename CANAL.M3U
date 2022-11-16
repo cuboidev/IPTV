@@ -537,7 +537,7 @@ http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/2nov/19958.Babylon.A.D.2008.E
 http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/4nov/6883.Enola.Holmes.2.2022.1080p.WEBRip.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="THOR AMOR Y TRUENO dual" tvg-logo="" group-title="PELICULAS",THOR AMOR Y TRUENO dual
 http://54.39.52.63/ZEUS/Movies/septiembre/Thor.Love.and.Thunder.2022.1080p.dual-lat.cinecalidad.run.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PREY dual" tvg-logo="" group-title="PELICULAS",PREY dual
+#EXTINF:-1 tvg-id="" tvg-name="PREY 2022 dual" tvg-logo="" group-title="PELICULAS",PREY 2022 dual
 http://54.39.52.63/PELICULAS%20AGOSTO/5AGOSTO/12205.Prey.2022.1080p.WEBRip.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="HELLRAISER 2022 lat" tvg-logo="" group-title="PELICULAS",HELLRAISER 2022 lat
 https://ia801504.us.archive.org/25/items/hellraiser-2022/hellraiser%202022.mp4
@@ -545,6 +545,12 @@ https://ia801504.us.archive.org/25/items/hellraiser-2022/hellraiser%202022.mp4
 https://ia601407.us.archive.org/15/items/m-4tr-14ch/M4tr14ch.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ALIEN COVENANT lat" tvg-logo="" group-title="PELICULAS",ALIEN COVENANT lat
 https://ia804700.us.archive.org/18/items/al-13n-c-0v-3n-4nt/Al13n%20c0v3n4nt.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DONNIE DARKO sub" tvg-logo="" group-title="PELICULAS",DONNIE DARKO sub
+http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/15NOV/3185.Donnie.Darko.2001.THEATRICAL.REMASTERED.1080p.BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SMILE 2022 dual" tvg-logo="" group-title="PELICULAS",SMILE 2022 dual
+http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/15NOV/13151.Smile.2022.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BLACK ADAM 2022 sub" tvg-logo="" group-title="PELICULAS",BLACK ADAM 2022 sub
+http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/16nov/16351.Black.Adam.2022.KORSUB.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
