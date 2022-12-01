@@ -604,6 +604,8 @@ http://54.39.52.63/PELICULAS%20POR%20MES/NOVIEMBRE/18NOV/15235.Silent.Hill.2006.
 http://54.39.52.63/ZEUS/Movies/octubre/V.H.S.99.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EL MENU 2022 lat" tvg-logo="" group-title="PELICULAS",EL MENU 2022 lat
 https://ia601407.us.archive.org/0/items/3-l-m-3-nu/3L-M3NU.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GHISLAINE MAXWELL SUCIA RICA sub" tvg-logo="" group-title="PELICULAS",GHISLAINE MAXWELL SUCIA RICA sub
+http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/1DEC/14467.Ghislaine.Maxwell.Filthy.Rich.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -1344,3 +1346,19 @@ http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Last%20Light/S01E03.mkv
 http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Last%20Light/S01E04.mkv
 #EXTINF:-1 tvg-id="" tvg-name="01X05 dual" tvg-logo="" group-title="LAST LIGHT",01X05 dual
 http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Last%20Light/S01E05.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X01 dual" tvg-logo="https://www.netflix-nederland.nl/wp-content/uploads/2022/06/Wednesday-Netflix-serie.jpg" group-title="WEDNESDAY",01X01 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/Wednesday/S01E01.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X02 dual" tvg-logo="https://www.netflix-nederland.nl/wp-content/uploads/2022/06/Wednesday-Netflix-serie.jpg" group-title="WEDNESDAY",01X02 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/Wednesday/S01E02.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X03 dual" tvg-logo="https://www.netflix-nederland.nl/wp-content/uploads/2022/06/Wednesday-Netflix-serie.jpg" group-title="WEDNESDAY",01X03 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/Wednesday/S01E03.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X04 dual" tvg-logo="https://www.netflix-nederland.nl/wp-content/uploads/2022/06/Wednesday-Netflix-serie.jpg" group-title="WEDNESDAY",01X04 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/Wednesday/S01E04.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X05 dual" tvg-logo="https://www.netflix-nederland.nl/wp-content/uploads/2022/06/Wednesday-Netflix-serie.jpg" group-title="WEDNESDAY",01X05 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/Wednesday/S01E05.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X06 dual" tvg-logo="https://www.netflix-nederland.nl/wp-content/uploads/2022/06/Wednesday-Netflix-serie.jpg" group-title="WEDNESDAY",01X06 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/Wednesday/S01E06.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X07 dual" tvg-logo="https://www.netflix-nederland.nl/wp-content/uploads/2022/06/Wednesday-Netflix-serie.jpg" group-title="WEDNESDAY",01X07 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/Wednesday/S01E07.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01X08 dual" tvg-logo="https://www.netflix-nederland.nl/wp-content/uploads/2022/06/Wednesday-Netflix-serie.jpg" group-title="WEDNESDAY",01X08 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20NOVIEMBRE/Wednesday/S01E08.mkv
