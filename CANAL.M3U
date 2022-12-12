@@ -622,6 +622,10 @@ https://ia601501.us.archive.org/30/items/l-0s-l-0c-0s-4dd-4ms-1991/L0s%20L0c0s%2
 https://ia804704.us.archive.org/2/items/4dd4ms-2-l4-tr4d1c10n-c0nt1nu4-1993/4dd4ms%202%20-%20L4%20Tr4d1c10n%20C0nt1nu4%201993.mp4?cnt=0
 #EXTINF:-1 tvg-id="" tvg-name="TROPA DO ELITE 2007 sub" tvg-logo="" group-title="PELICULAS",TROPA DO ELITE 2007 sub
 http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/9DIC/Tropa.de.Elite.2007.1080p.BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ELVIS sub" tvg-logo="" group-title="PELICULAS",ELVIS sub
+http://54.39.52.63/ZEUS/Movies/agosto/Elvis.2022.1080p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE WOMAN KING dual" tvg-logo="" group-title="PELICULAS",THE WOMAN KING dual
+http://54.39.52.63/ZEUS/Movies/Noviembre/The.Woman.King.2022.1080p.WEBRip.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -1454,3 +1458,37 @@ http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/MAYO/MAYO%2022/Black%20Summer/S0
 http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/MAYO/MAYO%2022/Black%20Summer/S02/Black%20Summer_S02E07_El%20refugio.mp4
 #EXTINF:-1 tvg-id="" tvg-name="02x08 dual" tvg-logo="" group-title="BLACK SUMMER",02x08 dual
 http://54.39.52.63/ZEUS/SERIES/SERIES%20NETFLIX/MAYO/MAYO%2022/Black%20Summer/S02/Black%20Summer_S02E08_El%20avi%c3%b3n.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X01 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X01 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E01_Wanda%20Maximoff.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X02 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X02 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E02_Vision.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X03 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X03 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E03_Falcon.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X04 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X04 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E04_El%20Soldado%20del%20Invierno.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X05 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X05 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E05_El%20bar%c3%b3n%20Zemo.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X06 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X06 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E06_Sharon%20Carter.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X07 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X07 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E07_Loki.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X08 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X08 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E08_El%20teseracto.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X09 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X09 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E09_Black%20Widow.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X10 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X10 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E10_Peggy%20Carter.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X11 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X11 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E11_La%20Iniciativa%20Vengadores.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X12 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X12 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E12_Los%20Devastadores.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X13 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X13 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E13_Shang%20Chi%20_%20Los%2010%20Anillos.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X14 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X14 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E14_Hawkeye.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X15 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X15 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E15_Doctor%20Strange.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X16 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X16 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E16_Wong.mp4
+#EXTINF:-1 tvg-id="" tvg-name="01X17 dual" tvg-logo="" group-title="LEYENDAS DE MARVEL",01X17 dual
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/LEYENDAS%20de%20Marvel%20Studios/S01/LEYENDAS%20de%20Marvel%20Studios_S01E17_La%20Bruja%20Escarlata.mp4
