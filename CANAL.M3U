@@ -626,6 +626,10 @@ http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/9DIC/Tropa.de.Elite.2007.1080
 http://54.39.52.63/ZEUS/Movies/agosto/Elvis.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="THE WOMAN KING dual" tvg-logo="" group-title="PELICULAS",THE WOMAN KING dual
 http://54.39.52.63/ZEUS/Movies/Noviembre/The.Woman.King.2022.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EMANCIPATION dual" tvg-logo="" group-title="PELICULAS",EMANCIPATION dual
+http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/9DIC/Emancipation.2022.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA GUERRA DEL MAсNA lat" tvg-logo="" group-title="PELICULAS",LA GUERRA DEL MAсNA lat
+http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/13DIC/Ver%20La%20guerra%20del%20ma%c3%b1ana%20(2021)%20Online%20Cuevana%203%20Peliculas%20O.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
