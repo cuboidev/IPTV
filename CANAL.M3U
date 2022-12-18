@@ -516,7 +516,7 @@ http://54.39.52.63/PELICULAS%20AGOSTO/26agosto/Dual%20%e2%80%93%20ARESHD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ORPHAN FIRST KILL sub" tvg-logo="" group-title="PELICULAS",ORPHAN FIRST KILL sub
 http://54.39.52.63/PELICULAS%20AGOSTO/22AGOSTO/6721.Orphan.First.Kill.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="PINOCHO dual" tvg-logo="" group-title="PELICULAS",PINOCHO dual
-http://54.39.52.63/PELICULAS%20POR%20MES/SEPTIEMBRE/8sep/17974.Pinocchio.2022.1080p.WEBRip.Dual.Latino.mkv
+http://54.39.52.63/ZEUS/Movies/Diciembre/Guillermo.del.Toros.Pinocchio.2022.1080p.WEBRip.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="BACK STAGE OBI WAN KENOBI EL RETORNO DE UN JEDI lat" tvg-logo="" group-title="PELICULAS",BACK STAGE OBI WAN KENOBI EL RETORNO DE UN JEDI lat
 http://54.39.52.63/PELICULAS%20POR%20MES/SEPTIEMBRE/9SEP/Obi-Wan%20Kenobi%20El%20retorno%20de%20un%20jedi%20%e2%80%93%20ARESHD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="GOODNIGHT MOMMY 2022 dual" tvg-logo="" group-title="PELICULAS",GOODNIGHT MOMMY 2022 dual
@@ -628,8 +628,10 @@ http://54.39.52.63/ZEUS/Movies/agosto/Elvis.2022.1080p.WEBRip.mkv
 http://54.39.52.63/ZEUS/Movies/Noviembre/The.Woman.King.2022.1080p.WEBRip.Dual.Latino.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EMANCIPATION dual" tvg-logo="" group-title="PELICULAS",EMANCIPATION dual
 http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/9DIC/Emancipation.2022.1080p.WEBRip.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LA GUERRA DEL MAсNA lat" tvg-logo="" group-title="PELICULAS",LA GUERRA DEL MAсNA lat
+#EXTINF:-1 tvg-id="" tvg-name="LA GUERRA DEL MAсNA lat" tvg-logo="" group-title="PELICULAS",LA GUERRA DEL M񁑁NA lat
 http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/13DIC/Ver%20La%20guerra%20del%20ma%c3%b1ana%20(2021)%20Online%20Cuevana%203%20Peliculas%20O.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AVATAR EL CAMINO DEL AGUA ts lat" tvg-logo="" group-title="PELICULAS",AVATAR EL CAMINO DEL AGUA ts lat
+http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/17dic/Ver%20Avatar%20El%20sentido%20del%20agua%20(2022)%20Online%20Cuevana%203%20Pelic.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
@@ -796,6 +798,66 @@ https://www.youtube.com/watch?v=w_eliJz19uw
 https://www.youtube.com/watch?v=EPF4zEW7cbw
 #EXTINF:-1 tvg-id="" tvg-name="CASADOS CON HIJOS 18" tvg-logo="" group-title="SERIES",CASADOS CON HIJOS 18
 https://www.youtube.com/watch?v=w9oBitSjwXQ
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X01" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X01
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E01%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X02" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X02
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E02%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X03" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X03
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E03%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X04" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X04
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E04%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X05" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X05
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E05%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X06" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X06
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E06%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X07" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X07
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E07%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X08" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X08
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E08%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X09" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X09
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E09%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X10" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X10
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E10%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X11" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X11
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E11%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X12" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X12
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E12%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X13" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X13
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E13%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X14" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X14
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E14%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X15" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X15
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E15%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X16" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X16
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E16%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X17" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X17
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E17%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X18" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X18
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E18%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X19" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X19
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E19%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X20" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X20
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E20%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X21" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X21
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E21%20%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X22" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X22
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E21%22%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X23" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X23
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E23%22%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X24" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X24
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E24%22%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X25" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X25
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DICIEMBRE/Casados%20Con%20Hijos/Casados%20con%20hijos%20S01E25%22%5b1080p%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X26" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X26
+http://test.com
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X27" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X27
+http://test.com
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X28" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X28
+http://test.com
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X29" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X29
+http://test.com
+#EXTINF:-1 tvg-id="" tvg-name="CASADOS C.H. 01X30" tvg-logo="" group-title="SERIES",CASADOS C.H. 01X30
+http://test.com
 #EXTINF:-1 tvg-id="" tvg-name="COCACOLA COMPANY doc" tvg-logo="" group-title="DOCUMENTALES",COCACOLA COMPANY doc
 https://www.youtube.com/watch?v=h5uSqZLD8IQ
 #EXTINF:-1 tvg-id="" tvg-name="COCACOLA VS PEPSI doc" tvg-logo="" group-title="DOCUMENTALES",COCACOLA VS PEPSI doc
