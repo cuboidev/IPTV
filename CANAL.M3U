@@ -543,7 +543,7 @@ http://192.99.233.158/disco2/disco2/Peliculas/Accion/G-Force.mp4
 http://51.81.208.167/cine/X-men.dark.phoenix.2019.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:-1 tvg-id="" tvg-name="147 UNCUT GEMS 2019 lat" tvg-logo="" group-title="PELICULAS",147 UNCUT GEMS 2019 lat
 http://51.81.208.167/cine/Uncut.gems.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-id="" tvg-name="148 EL EXIRSISMO DE CARMEN FARIAS 2021 lat" tvg-logo="" group-title="PELICULAS",148 EL EXIRSISMO DE CARMEN FARIAS 2021 lat
+#EXTINF:-1 tvg-id="" tvg-name="148 EL EXORSISMO DE CARMEN FARIAS 2021 lat" tvg-logo="" group-title="PELICULAS",148 EL EXORSISMO DE CARMEN FARIAS 2021 lat
 http://51.81.208.167/gmedia/premier/El.exorcismo.de.Carmen.Far%c3%adas.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="149 FREE GUY 2021 lat" tvg-logo="" group-title="PELICULAS",149 FREE GUY 2021 lat
 http://51.81.208.167/gmedia/premier/Free.Guy.2021.lati.mp4
@@ -559,6 +559,18 @@ http://51.81.208.167/movie/Terminator.dark.fate.2019.mp4
 http://51.81.208.167/movie/Terminator_Genisys_(2015).mkv
 #EXTINF:-1 tvg-id="" tvg-name="155 THE GUARDIANS 2017 lat" tvg-logo="" group-title="PELICULAS",155 THE GUARDIANS 2017 lat
 http://51.81.208.167/movie/The_Guardians_(2017).mkv
+#EXTINF:-1 tvg-id="" tvg-name="156 PROJECT POWER 2020" tvg-logo="" group-title="PELICULAS",156 PROJECT POWER 2020
+http://51.81.208.167/cine2/Project.Power.2020.HD.720p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="157 SUPER MARIO BROS MOVIE 2023 lat" tvg-logo="" group-title="PELICULAS",157 SUPER MARIO BROS MOVIE 2023 lat
+http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="158 SHAZAM 2 2023 lat" tvg-logo="" group-title="PELICULAS",158 SHAZAM 2 2023 lat
+http://51.81.208.167/pelis2023/Shazam!.2.2023.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="159 65 AL BORDE DE LA EXTINCION 2023 lat" tvg-logo="" group-title="PELICULAS",159 65 AL BORDE DE LA EXTINCION 2023 lat
+http://51.81.208.167/pelis2023/65.2023.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="160 AVATAR THE WAY OF WATER 2022 lat" tvg-logo="" group-title="PELICULAS",160 AVATAR THE WAY OF WATER 2022 lat
+http://45.179.164.59:8181/Peliculas/2023/Avatar%20The%20Way%20Of%20Water%20(2022)%20%5b720p%5d/Avatar.The.Way.Of.Water.2022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="161 TETRIS 2023 dual" tvg-logo="" group-title="PELICULAS",161 TETRIS 2023 dual
+http://45.179.164.59:8181/Peliculas/2023/Tetris.2023.720p-dual-lat/Tetris.2023.720p-dual-lat.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
