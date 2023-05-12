@@ -590,7 +590,7 @@ http://45.179.164.59:8181/Peliculas/2022/especies%203.mp4
 #EXTINF:-1 tvg-id="" tvg-name="170 ALITA BATTLE ANGEL 2019 dual" tvg-logo="" group-title="PELICULAS",170 ALITA BATTLE ANGEL 2019 dual
 http://45.179.164.59:8181/Peliculas/Alita.battle.angel.2019.1080p-dual-lat-cinecalidad.to.mp4
 #EXTINF:-1 tvg-id="" tvg-name="171 AVATAR 2019 dual" tvg-logo="" group-title="PELICULAS",171 AVATAR 2019 dual
-http://45.179.164.59:8181/Peliculas/Avatar.2009.1080p-dual-lat.mp4
+http://51.81.208.167/pelis2022/Avatar.El.camino.del.agua.mkv
 #EXTINF:-1 tvg-id="" tvg-name="172 LOS CRIMENES DE LA ACADEMIA 2022 dual" tvg-logo="" group-title="PELICULAS",172 LOS CRIMENES DE LA ACADEMIA 2022 dual
 http://45.179.164.59:8181/Peliculas/2022/Los.cr%c3%admenes.de.la.academia.2022.720p-dual-lat/Los.cr%c3%admenes.de.la.academia.2022.720p-dual-lat.mkv
 #EXTINF:-1 tvg-id="" tvg-name="173 WIFI RALPH 2018 dual" tvg-logo="" group-title="PELICULAS",173 WIFI RALPH 2018 dual
@@ -607,6 +607,10 @@ http://45.179.164.59:8181/Peliculas/2022/El.Dictador.2012.720p-dual-lat/El.Dicta
 http://45.179.164.59:8181/Peliculas/2022/El.Retrato.de.Dorian.Gray.2009.720p-dual-lat/El.Retrato.de.Dorian.Gray.2009.720p-dual-lat.mkv
 #EXTINF:-1 tvg-id="" tvg-name="179 EL SASTRE DE LA MAFIA 2022 dual" tvg-logo="" group-title="PELICULAS",179 EL SASTRE DE LA MAFIA 2022 dual
 http://45.179.164.59:8181/Peliculas/2022/El.Sastre.de.la.Mafia.2022.1080p-dual-lat.mkv
+#EXTINF:-1 tvg-id="" tvg-name="180 JOHN WICK 4 2023 dual" tvg-logo="" group-title="PELICULAS",180 JOHN WICK 4 2023 dual
+http://51.81.208.167/pelis2023/John.Wick.Chapter.4.2023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="181 ANTMANT Y LA AVISPA 2023" tvg-logo="" group-title="PELICULAS",181 ANTMANT Y LA AVISPA 2023
+http://51.81.208.167/pelis2023/Ant-Man.and.the.Wasp.Quantumania.2023.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1x01" tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x01
 http://167.114.174.132:9092/series/lossimpsons/capitulos/1x01%20Especial%20de%20Navidad.m4v     
 #EXTINF:-1 tvg-id="" tvg-name="1x02   " tvg-logo="https://static.wikia.nocookie.net/doblaje-fanon/images/d/d6/Simpson.png/revision/latest/scale-to-width-down/360?cb=20200215044907&path-prefix=es" group-title="LOS SIMPSONS",1x02   
